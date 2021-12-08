@@ -11,7 +11,7 @@ from files_changed_count_fetcher import get_files_changed_count
 
 class CollectDataSet:
     def __init__(self):
-        self.token ='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'
+        self.token = '' # Put your own token.
         self.get_api_token()
 
     def get_api_token(self):
