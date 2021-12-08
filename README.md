@@ -1,2 +1,2 @@
-# ecs260fall2021
-Team16, Project9
+# ECS260 Fall 2021
+Team16, Project 9
