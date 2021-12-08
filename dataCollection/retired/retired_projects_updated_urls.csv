@@ -1,0 +1,9 @@
+GIT_URLS,Status,Actual_URLS_AFTER_Analysis,Start_time,End_time
+https://github.com/apache/kalumet,Retired,,9/20/11,11/01/15
+https://github.com/apache/incubator-retired-kato,No_info,,11/6/08,8/1/12
+https://github.com/apache/incubator-retired-kitty,No_info,,10/3/10,10/19/12
+https://github.com/apache/incubator-retired-lokahi,No_info,,3/1/06,8/16/09
+https://github.com/apache/incubator-retired-lucene4c,No_info,,2/21/05,10/15/06
+https://github.com/apache/incubator-retired-mrql,Retired,,3/13/13,8/17/17
+https://github.com/apache/incubator-myriad,Retired,,3/1/15,1/24/20
+https://github.com/apache/incubator-retired-NMaven,No_info,,11/17/06,11/13/08

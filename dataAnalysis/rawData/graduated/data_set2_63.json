@@ -1,0 +1,110 @@
+{
+    "apache/giraph": {
+        "steveblackmon/giraph": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 854,
+            "commits_count_within_incubation": 137,
+            "total_no_of_times_files_modified": 927,
+            "total_no_of_lines_added": 38306,
+            "total_no_of_lines_deleted": 24074
+        },
+        "hyunsik/giraph": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 4,
+            "total_commits_count": 313,
+            "commits_count_within_incubation": 137,
+            "total_no_of_times_files_modified": 927,
+            "total_no_of_lines_added": 38306,
+            "total_no_of_lines_deleted": 24074
+        },
+        "a3a/giraph": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 256,
+            "commits_count_within_incubation": 121,
+            "total_no_of_times_files_modified": 808,
+            "total_no_of_lines_added": 33510,
+            "total_no_of_lines_deleted": 22778
+        },
+        "ekoontz/giraph": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 28,
+            "total_commits_count": 283,
+            "commits_count_within_incubation": 148,
+            "total_no_of_times_files_modified": 881,
+            "total_no_of_lines_added": 35113,
+            "total_no_of_lines_deleted": 24050
+        },
+        "slojo404/giraph": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 221,
+            "commits_count_within_incubation": 86,
+            "total_no_of_times_files_modified": 565,
+            "total_no_of_lines_added": 15341,
+            "total_no_of_lines_deleted": 7134
+        },
+        "sscdotopen/giraph": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 785,
+            "commits_count_within_incubation": 137,
+            "total_no_of_times_files_modified": 927,
+            "total_no_of_lines_added": 38306,
+            "total_no_of_lines_deleted": 24074
+        },
+        "ekaqu/giraph": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 185,
+            "commits_count_within_incubation": 50,
+            "total_no_of_times_files_modified": 326,
+            "total_no_of_lines_added": 6293,
+            "total_no_of_lines_deleted": 3838
+        },
+        "acnithin/giraph": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 169,
+            "commits_count_within_incubation": 34,
+            "total_no_of_times_files_modified": 210,
+            "total_no_of_lines_added": 2922,
+            "total_no_of_lines_deleted": 1821
+        },
+        "dvryaboy/giraph": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 157,
+            "commits_count_within_incubation": 22,
+            "total_no_of_times_files_modified": 165,
+            "total_no_of_lines_added": 2145,
+            "total_no_of_lines_deleted": 1324
+        },
+        "jakemannix/giraph": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 9,
+            "total_commits_count": 178,
+            "commits_count_within_incubation": 43,
+            "total_no_of_times_files_modified": 240,
+            "total_no_of_lines_added": 3868,
+            "total_no_of_lines_deleted": 1874
+        },
+        "total_fork_count": 252,
+        "watchers_count": 68,
+        "star_count": 581,
+        "open_issues_count": 26,
+        "size": 26906,
+        "fork_count_within_time": 10
+    }
+}

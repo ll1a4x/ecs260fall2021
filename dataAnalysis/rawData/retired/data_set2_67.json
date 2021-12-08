@@ -1,0 +1,140 @@
+{
+    "apache/incubator-retired-openaz": {
+        "diamondq/incubator-openaz": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 64,
+            "commits_count_within_incubation": 64,
+            "total_no_of_times_files_modified": 1370,
+            "total_no_of_lines_added": 1052384,
+            "total_no_of_lines_deleted": 277627
+        },
+        "ajithreghu/incubator-openaz": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 64,
+            "commits_count_within_incubation": 64,
+            "total_no_of_times_files_modified": 1370,
+            "total_no_of_lines_added": 1052384,
+            "total_no_of_lines_deleted": 277627
+        },
+        "srcclrapache1/incubator-openaz": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 1,
+            "total_commits_count": 64,
+            "commits_count_within_incubation": 64,
+            "total_no_of_times_files_modified": 1370,
+            "total_no_of_lines_added": 1052384,
+            "total_no_of_lines_deleted": 277627
+        },
+        "GreatMasterLiang/incubator-openaz": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 64,
+            "commits_count_within_incubation": 64,
+            "total_no_of_times_files_modified": 1370,
+            "total_no_of_lines_added": 1052384,
+            "total_no_of_lines_deleted": 277627
+        },
+        "glcamillo/incubator-openaz": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 66,
+            "commits_count_within_incubation": 65,
+            "total_no_of_times_files_modified": 1371,
+            "total_no_of_lines_added": 1052384,
+            "total_no_of_lines_deleted": 277627
+        },
+        "vandenmills/incubator-openaz": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 60,
+            "commits_count_within_incubation": 60,
+            "total_no_of_times_files_modified": 751,
+            "total_no_of_lines_added": 962935,
+            "total_no_of_lines_deleted": 232904
+        },
+        "phrinx/incubator-openaz": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 55,
+            "commits_count_within_incubation": 55,
+            "total_no_of_times_files_modified": 778,
+            "total_no_of_lines_added": 962797,
+            "total_no_of_lines_deleted": 233107
+        },
+        "dash-/incubator-openaz": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 1,
+            "total_commits_count": 53,
+            "commits_count_within_incubation": 53,
+            "total_no_of_times_files_modified": 942,
+            "total_no_of_lines_added": 1006667,
+            "total_no_of_lines_deleted": 231726
+        },
+        "ygrignon/incubator-openaz": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 54,
+            "commits_count_within_incubation": 54,
+            "total_no_of_times_files_modified": 736,
+            "total_no_of_lines_added": 963156,
+            "total_no_of_lines_deleted": 234034
+        },
+        "oharsta/incubator-openaz": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 3,
+            "total_commits_count": 55,
+            "commits_count_within_incubation": 55,
+            "total_no_of_times_files_modified": 748,
+            "total_no_of_lines_added": 962197,
+            "total_no_of_lines_deleted": 231771
+        },
+        "TravellerVS/incubator-openaz": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 52,
+            "commits_count_within_incubation": 52,
+            "total_no_of_times_files_modified": 736,
+            "total_no_of_lines_added": 961944,
+            "total_no_of_lines_deleted": 231726
+        },
+        "fpmosley/incubator-openaz": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 50,
+            "commits_count_within_incubation": 50,
+            "total_no_of_times_files_modified": 735,
+            "total_no_of_lines_added": 961934,
+            "total_no_of_lines_deleted": 231716
+        },
+        "mefarazath/incubator-openaz": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 49,
+            "commits_count_within_incubation": 49,
+            "total_no_of_times_files_modified": 726,
+            "total_no_of_lines_added": 961907,
+            "total_no_of_lines_deleted": 231699
+        },
+        "total_fork_count": 25,
+        "watchers_count": 11,
+        "star_count": 16,
+        "open_issues_count": 3,
+        "size": 15887,
+        "fork_count_within_time": 13
+    }
+}

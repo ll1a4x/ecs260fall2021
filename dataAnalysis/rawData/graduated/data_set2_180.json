@@ -1,0 +1,1770 @@
+{
+    "apache/zeppelin": {
+        "mrt/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 6,
+            "total_commits_count": 2154,
+            "commits_count_within_incubation": 872,
+            "total_no_of_times_files_modified": 4875,
+            "total_no_of_lines_added": 176178,
+            "total_no_of_lines_deleted": 80560
+        },
+        "nikshe/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 6,
+            "total_commits_count": 2153,
+            "commits_count_within_incubation": 871,
+            "total_no_of_times_files_modified": 4874,
+            "total_no_of_lines_added": 176172,
+            "total_no_of_lines_deleted": 80558
+        },
+        "phoenixhadoop/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 2153,
+            "commits_count_within_incubation": 871,
+            "total_no_of_times_files_modified": 4874,
+            "total_no_of_lines_added": 176172,
+            "total_no_of_lines_deleted": 80558
+        },
+        "samaitra/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 2153,
+            "commits_count_within_incubation": 871,
+            "total_no_of_times_files_modified": 4874,
+            "total_no_of_lines_added": 176172,
+            "total_no_of_lines_deleted": 80558
+        },
+        "LXiong/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 2153,
+            "commits_count_within_incubation": 871,
+            "total_no_of_times_files_modified": 4874,
+            "total_no_of_lines_added": 176172,
+            "total_no_of_lines_deleted": 80558
+        },
+        "hittu123/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 6,
+            "total_commits_count": 2152,
+            "commits_count_within_incubation": 870,
+            "total_no_of_times_files_modified": 4872,
+            "total_no_of_lines_added": 176154,
+            "total_no_of_lines_deleted": 80546
+        },
+        "baontq/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 2152,
+            "commits_count_within_incubation": 870,
+            "total_no_of_times_files_modified": 4872,
+            "total_no_of_lines_added": 176154,
+            "total_no_of_lines_deleted": 80546
+        },
+        "mudsam/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 6,
+            "total_commits_count": 2604,
+            "commits_count_within_incubation": 920,
+            "total_no_of_times_files_modified": 4582,
+            "total_no_of_lines_added": 178778,
+            "total_no_of_lines_deleted": 81545
+        },
+        "changyinghua/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 2151,
+            "commits_count_within_incubation": 869,
+            "total_no_of_times_files_modified": 4871,
+            "total_no_of_lines_added": 176130,
+            "total_no_of_lines_deleted": 80543
+        },
+        "DadanielZ/incubator-zeppelin": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 6,
+            "total_commits_count": 2149,
+            "commits_count_within_incubation": 867,
+            "total_no_of_times_files_modified": 4862,
+            "total_no_of_lines_added": 176121,
+            "total_no_of_lines_deleted": 80534
+        },
+        "quinnlin/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 2148,
+            "commits_count_within_incubation": 866,
+            "total_no_of_times_files_modified": 3865,
+            "total_no_of_lines_added": 176121,
+            "total_no_of_lines_deleted": 80493
+        },
+        "resec/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 6,
+            "total_commits_count": 2148,
+            "commits_count_within_incubation": 866,
+            "total_no_of_times_files_modified": 3229,
+            "total_no_of_lines_added": 176121,
+            "total_no_of_lines_deleted": 80493
+        },
+        "lightingwy/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 2148,
+            "commits_count_within_incubation": 866,
+            "total_no_of_times_files_modified": 4865,
+            "total_no_of_lines_added": 176121,
+            "total_no_of_lines_deleted": 80493
+        },
+        "usmanC9/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 6,
+            "total_commits_count": 2146,
+            "commits_count_within_incubation": 864,
+            "total_no_of_times_files_modified": 4469,
+            "total_no_of_lines_added": 169275,
+            "total_no_of_lines_deleted": 80271
+        },
+        "wellshang/incubator-zeppelin": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 6,
+            "total_commits_count": 2143,
+            "commits_count_within_incubation": 861,
+            "total_no_of_times_files_modified": 4484,
+            "total_no_of_lines_added": 169145,
+            "total_no_of_lines_deleted": 80257
+        },
+        "digitalreasoning/incubator-zeppelin": {
+            "watchers_count": 11,
+            "star_count": 11,
+            "branches_count": 14,
+            "total_commits_count": 2607,
+            "commits_count_within_incubation": 920,
+            "total_no_of_times_files_modified": 4609,
+            "total_no_of_lines_added": 178778,
+            "total_no_of_lines_deleted": 81545
+        },
+        "is00hcw/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 2138,
+            "commits_count_within_incubation": 856,
+            "total_no_of_times_files_modified": 4589,
+            "total_no_of_lines_added": 168885,
+            "total_no_of_lines_deleted": 80183
+        },
+        "krishpavan/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 2137,
+            "commits_count_within_incubation": 855,
+            "total_no_of_times_files_modified": 4752,
+            "total_no_of_lines_added": 168883,
+            "total_no_of_lines_deleted": 80180
+        },
+        "jingruhou/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 2133,
+            "commits_count_within_incubation": 851,
+            "total_no_of_times_files_modified": 4736,
+            "total_no_of_lines_added": 168577,
+            "total_no_of_lines_deleted": 80164
+        },
+        "luinhon/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 2133,
+            "commits_count_within_incubation": 851,
+            "total_no_of_times_files_modified": 4736,
+            "total_no_of_lines_added": 168577,
+            "total_no_of_lines_deleted": 80164
+        },
+        "firearasi/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 6,
+            "total_commits_count": 2133,
+            "commits_count_within_incubation": 851,
+            "total_no_of_times_files_modified": 4736,
+            "total_no_of_lines_added": 168577,
+            "total_no_of_lines_deleted": 80164
+        },
+        "koola97620/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 2131,
+            "commits_count_within_incubation": 849,
+            "total_no_of_times_files_modified": 4730,
+            "total_no_of_lines_added": 168554,
+            "total_no_of_lines_deleted": 80161
+        },
+        "maha144/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 6,
+            "total_commits_count": 2131,
+            "commits_count_within_incubation": 849,
+            "total_no_of_times_files_modified": 4729,
+            "total_no_of_lines_added": 168554,
+            "total_no_of_lines_deleted": 80161
+        },
+        "lelou6666/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 2126,
+            "commits_count_within_incubation": 844,
+            "total_no_of_times_files_modified": 4706,
+            "total_no_of_lines_added": 168275,
+            "total_no_of_lines_deleted": 80128
+        },
+        "berwen/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 6,
+            "total_commits_count": 2123,
+            "commits_count_within_incubation": 841,
+            "total_no_of_times_files_modified": 4682,
+            "total_no_of_lines_added": 167720,
+            "total_no_of_lines_deleted": 80096
+        },
+        "jsimsa/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 7,
+            "total_commits_count": 2119,
+            "commits_count_within_incubation": 837,
+            "total_no_of_times_files_modified": 4667,
+            "total_no_of_lines_added": 167450,
+            "total_no_of_lines_deleted": 79931
+        },
+        "liuq4360/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 2119,
+            "commits_count_within_incubation": 837,
+            "total_no_of_times_files_modified": 4002,
+            "total_no_of_lines_added": 167450,
+            "total_no_of_lines_deleted": 79931
+        },
+        "aurrelhebert/incubator-zeppelin": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 6,
+            "total_commits_count": 2119,
+            "commits_count_within_incubation": 837,
+            "total_no_of_times_files_modified": 3610,
+            "total_no_of_lines_added": 167450,
+            "total_no_of_lines_deleted": 79931
+        },
+        "johnnyws/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 8,
+            "total_commits_count": 3133,
+            "commits_count_within_incubation": 920,
+            "total_no_of_times_files_modified": 5062,
+            "total_no_of_lines_added": 178778,
+            "total_no_of_lines_deleted": 81545
+        },
+        "venkateshchanda/incubator-zeppelin": { 
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 6,
+            "total_commits_count": 2119,
+            "commits_count_within_incubation": 837,
+            "total_no_of_times_files_modified": 4862,
+            "total_no_of_lines_added": 170678,
+            "total_no_of_lines_deleted": 81045
+        },
+        "tecgie/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 1891,
+            "commits_count_within_incubation": 609,
+            "total_no_of_times_files_modified": 2956,
+            "total_no_of_lines_added": 124630,
+            "total_no_of_lines_deleted": 65003
+        },
+        "sungoak/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 1891,
+            "commits_count_within_incubation": 609,
+            "total_no_of_times_files_modified": 3117,
+            "total_no_of_lines_added": 124630,
+            "total_no_of_lines_deleted": 65003
+        },
+        "dkhwangbo/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 1836,
+            "commits_count_within_incubation": 554,
+            "total_no_of_times_files_modified": 3135,
+            "total_no_of_lines_added": 121356,
+            "total_no_of_lines_deleted": 63895
+        },
+        "brant-hwang/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 1836,
+            "commits_count_within_incubation": 554,
+            "total_no_of_times_files_modified": 3263,
+            "total_no_of_lines_added": 121356,
+            "total_no_of_lines_deleted": 63895
+        },
+        "tejasrivastav/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 5,
+            "total_commits_count": 2231,
+            "commits_count_within_incubation": 920,
+            "total_no_of_times_files_modified": 5062,
+            "total_no_of_lines_added": 178778,
+            "total_no_of_lines_deleted": 81545
+        },
+        "nprajeshgowda/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 1819,
+            "commits_count_within_incubation": 537,
+            "total_no_of_times_files_modified": 2713,
+            "total_no_of_lines_added": 118632,
+            "total_no_of_lines_deleted": 62861
+        },
+        "nkhuyu/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 3,
+            "total_commits_count": 1772,
+            "commits_count_within_incubation": 490,
+            "total_no_of_times_files_modified": 1617,
+            "total_no_of_lines_added": 115699,
+            "total_no_of_lines_deleted": 62436
+        },
+        "OuesFa/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1770,
+            "commits_count_within_incubation": 488,
+            "total_no_of_times_files_modified": 2509,
+            "total_no_of_lines_added": 115682,
+            "total_no_of_lines_deleted": 62430
+        },
+        "Flipkart/incubator-zeppelin": {
+            "watchers_count": 60,
+            "star_count": 60,
+            "branches_count": 8,
+            "total_commits_count": 1746,
+            "commits_count_within_incubation": 464,
+            "total_no_of_times_files_modified": 2637,
+            "total_no_of_lines_added": 114420,
+            "total_no_of_lines_deleted": 61321
+        },
+        "wakamori/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1888,
+            "commits_count_within_incubation": 606,
+            "total_no_of_times_files_modified": 3258,
+            "total_no_of_lines_added": 124604,
+            "total_no_of_lines_deleted": 64999
+        },
+        "Yingmin-Li/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1699,
+            "commits_count_within_incubation": 417,
+            "total_no_of_times_files_modified": 2577,
+            "total_no_of_lines_added": 92747,
+            "total_no_of_lines_deleted": 63033
+        },
+        "mahantheshhv/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1714,
+            "commits_count_within_incubation": 432,
+            "total_no_of_times_files_modified": 2683,
+            "total_no_of_lines_added": 94790,
+            "total_no_of_lines_deleted": 59962
+        },
+        "defaultRobot/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1714,
+            "commits_count_within_incubation": 432,
+            "total_no_of_times_files_modified": 2683,
+            "total_no_of_lines_added": 94790,
+            "total_no_of_lines_deleted": 59962
+        },
+        "guptarajat/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 4,
+            "total_commits_count": 1716,
+            "commits_count_within_incubation": 434,
+            "total_no_of_times_files_modified": 2688,
+            "total_no_of_lines_added": 94835,
+            "total_no_of_lines_deleted": 59968
+        },
+        "Rosstin/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1710,
+            "commits_count_within_incubation": 428,
+            "total_no_of_times_files_modified": 2667,
+            "total_no_of_lines_added": 94097,
+            "total_no_of_lines_deleted": 59905
+        },
+        "elbamos/Zeppelin-With-R": {
+            "watchers_count": 10,
+            "star_count": 10,
+            "branches_count": 7,
+            "total_commits_count": 1822,
+            "commits_count_within_incubation": 540,
+            "total_no_of_times_files_modified": 3678,
+            "total_no_of_lines_added": 141240,
+            "total_no_of_lines_deleted": 71964
+        },
+        "Anne623/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1707,
+            "commits_count_within_incubation": 425,
+            "total_no_of_times_files_modified": 2633,
+            "total_no_of_lines_added": 92561,
+            "total_no_of_lines_deleted": 59599
+        },
+        "akhiluanandh/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 1714,
+            "commits_count_within_incubation": 432,
+            "total_no_of_times_files_modified": 2683,
+            "total_no_of_lines_added": 94790,
+            "total_no_of_lines_deleted": 59962
+        },
+        "jdees/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1705,
+            "commits_count_within_incubation": 423,
+            "total_no_of_times_files_modified": 2630,
+            "total_no_of_lines_added": 92488,
+            "total_no_of_lines_deleted": 59597
+        },
+        "ericchang/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1705,
+            "commits_count_within_incubation": 423,
+            "total_no_of_times_files_modified": 2630,
+            "total_no_of_lines_added": 92488,
+            "total_no_of_lines_deleted": 59597
+        },
+        "laramlewis/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 3,
+            "total_commits_count": 1763,
+            "commits_count_within_incubation": 481,
+            "total_no_of_times_files_modified": 2994,
+            "total_no_of_lines_added": 114801,
+            "total_no_of_lines_deleted": 61600
+        },
+        "bloomer1/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1700,
+            "commits_count_within_incubation": 418,
+            "total_no_of_times_files_modified": 2613,
+            "total_no_of_lines_added": 92343,
+            "total_no_of_lines_deleted": 59541
+        },
+        "zeppelin-r/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 4,
+            "total_commits_count": 1702,
+            "commits_count_within_incubation": 420,
+            "total_no_of_times_files_modified": 2674,
+            "total_no_of_lines_added": 102124,
+            "total_no_of_lines_deleted": 59775
+        },
+        "voltas/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1701,
+            "commits_count_within_incubation": 419,
+            "total_no_of_times_files_modified": 2590,
+            "total_no_of_lines_added": 91201,
+            "total_no_of_lines_deleted": 59421
+        },
+        "jinshuangxian/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1693,
+            "commits_count_within_incubation": 411,
+            "total_no_of_times_files_modified": 2581,
+            "total_no_of_lines_added": 91186,
+            "total_no_of_lines_deleted": 59409
+        },
+        "caofangkun/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 5,
+            "total_commits_count": 1690,
+            "commits_count_within_incubation": 408,
+            "total_no_of_times_files_modified": 2571,
+            "total_no_of_lines_added": 90439,
+            "total_no_of_lines_deleted": 59356
+        },
+        "mapilarc/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1689,
+            "commits_count_within_incubation": 407,
+            "total_no_of_times_files_modified": 2570,
+            "total_no_of_lines_added": 90436,
+            "total_no_of_lines_deleted": 59347
+        },
+        "kwangahn/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1689,
+            "commits_count_within_incubation": 407,
+            "total_no_of_times_files_modified": 2570,
+            "total_no_of_lines_added": 90436,
+            "total_no_of_lines_deleted": 59347
+        },
+        "amoghmargoor/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 1689,
+            "commits_count_within_incubation": 407,
+            "total_no_of_times_files_modified": 2570,
+            "total_no_of_lines_added": 90436,
+            "total_no_of_lines_deleted": 59347
+        },
+        "nilbody/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 4,
+            "total_commits_count": 1687,
+            "commits_count_within_incubation": 405,
+            "total_no_of_times_files_modified": 2511,
+            "total_no_of_lines_added": 80841,
+            "total_no_of_lines_deleted": 58930
+        },
+        "Altiscale/zeppelin": {
+            "watchers_count": 33,
+            "star_count": 33,
+            "branches_count": 11,
+            "total_commits_count": 2848,
+            "commits_count_within_incubation": 920,
+            "total_no_of_times_files_modified": 5062,
+            "total_no_of_lines_added": 178778,
+            "total_no_of_lines_deleted": 81545
+        },
+        "MikeMcElroy/incubator-zeppelin": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 3,
+            "total_commits_count": 1686,
+            "commits_count_within_incubation": 404,
+            "total_no_of_times_files_modified": 2510,
+            "total_no_of_lines_added": 80829,
+            "total_no_of_lines_deleted": 58916
+        },
+        "rohitagarwal003/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 7,
+            "total_commits_count": 1888,
+            "commits_count_within_incubation": 606,
+            "total_no_of_times_files_modified": 3448,
+            "total_no_of_lines_added": 124604,
+            "total_no_of_lines_deleted": 64999
+        },
+        "i4late/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 3,
+            "total_commits_count": 1685,
+            "commits_count_within_incubation": 403,
+            "total_no_of_times_files_modified": 2348,
+            "total_no_of_lines_added": 110604,
+            "total_no_of_lines_deleted": 50499
+        },
+        "ammachado/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1661,
+            "commits_count_within_incubation": 379,
+            "total_no_of_times_files_modified": 2406,
+            "total_no_of_lines_added": 76496,
+            "total_no_of_lines_deleted": 57761
+        },
+        "janzhongi/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1722,
+            "commits_count_within_incubation": 440,
+            "total_no_of_times_files_modified": 2734,
+            "total_no_of_lines_added": 96717,
+            "total_no_of_lines_deleted": 60042
+        },
+        "linzi87/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1655,
+            "commits_count_within_incubation": 373,
+            "total_no_of_times_files_modified": 2327,
+            "total_no_of_lines_added": 75270,
+            "total_no_of_lines_deleted": 56648
+        },
+        "numerouno979/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1653,
+            "commits_count_within_incubation": 371,
+            "total_no_of_times_files_modified": 2323,
+            "total_no_of_lines_added": 75112,
+            "total_no_of_lines_deleted": 56643
+        },
+        "mkoltsov/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1654,
+            "commits_count_within_incubation": 372,
+            "total_no_of_times_files_modified": 2324,
+            "total_no_of_lines_added": 75122,
+            "total_no_of_lines_deleted": 56659
+        },
+        "barkbay/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1652,
+            "commits_count_within_incubation": 370,
+            "total_no_of_times_files_modified": 2322,
+            "total_no_of_lines_added": 75096,
+            "total_no_of_lines_deleted": 56632
+        },
+        "rnirmal/incubator-zeppelin": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 4,
+            "total_commits_count": 2046,
+            "commits_count_within_incubation": 764,
+            "total_no_of_times_files_modified": 4319,
+            "total_no_of_lines_added": 155373,
+            "total_no_of_lines_deleted": 76820
+        },
+        "vnivargi/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1650,
+            "commits_count_within_incubation": 368,
+            "total_no_of_times_files_modified": 2308,
+            "total_no_of_lines_added": 73818,
+            "total_no_of_lines_deleted": 56618
+        },
+        "TaylorPeer/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1650,
+            "commits_count_within_incubation": 368,
+            "total_no_of_times_files_modified": 2306,
+            "total_no_of_lines_added": 73818,
+            "total_no_of_lines_deleted": 56618
+        },
+        "howlyu/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 3,
+            "total_commits_count": 1649,
+            "commits_count_within_incubation": 367,
+            "total_no_of_times_files_modified": 2305,
+            "total_no_of_lines_added": 73804,
+            "total_no_of_lines_deleted": 56603
+        },
+        "zoharsan/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1647,
+            "commits_count_within_incubation": 365,
+            "total_no_of_times_files_modified": 2303,
+            "total_no_of_lines_added": 73793,
+            "total_no_of_lines_deleted": 56600
+        },
+        "LeoLee1/incubator-zeppelin": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 3,
+            "total_commits_count": 1647,
+            "commits_count_within_incubation": 365,
+            "total_no_of_times_files_modified": 2303,
+            "total_no_of_lines_added": 73793,
+            "total_no_of_lines_deleted": 56600
+        },
+        "PieterJanVanAeken/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1642,
+            "commits_count_within_incubation": 360,
+            "total_no_of_times_files_modified": 2268,
+            "total_no_of_lines_added": 73321,
+            "total_no_of_lines_deleted": 56511
+        },
+        "sjoerdmulder/zeppelin": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 5,
+            "total_commits_count": 1685,
+            "commits_count_within_incubation": 403,
+            "total_no_of_times_files_modified": 2509,
+            "total_no_of_lines_added": 80826,
+            "total_no_of_lines_deleted": 58915
+        },
+        "zborisha/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1641,
+            "commits_count_within_incubation": 359,
+            "total_no_of_times_files_modified": 2267,
+            "total_no_of_lines_added": 73318,
+            "total_no_of_lines_deleted": 56511
+        },
+        "MickDavies/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1641,
+            "commits_count_within_incubation": 359,
+            "total_no_of_times_files_modified": 2267,
+            "total_no_of_lines_added": 73318,
+            "total_no_of_lines_deleted": 56511
+        },
+        "navneet4735/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1638,
+            "commits_count_within_incubation": 356,
+            "total_no_of_times_files_modified": 2252,
+            "total_no_of_lines_added": 72272,
+            "total_no_of_lines_deleted": 56490
+        },
+        "Intellifora/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1638,
+            "commits_count_within_incubation": 356,
+            "total_no_of_times_files_modified": 2252,
+            "total_no_of_lines_added": 72272,
+            "total_no_of_lines_deleted": 56490
+        },
+        "RobertCoop/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1636,
+            "commits_count_within_incubation": 354,
+            "total_no_of_times_files_modified": 2246,
+            "total_no_of_lines_added": 71951,
+            "total_no_of_lines_deleted": 56487
+        },
+        "ahagh/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1636,
+            "commits_count_within_incubation": 354,
+            "total_no_of_times_files_modified": 2246,
+            "total_no_of_lines_added": 71951,
+            "total_no_of_lines_deleted": 56487
+        },
+        "rorovic/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1636,
+            "commits_count_within_incubation": 354,
+            "total_no_of_times_files_modified": 2246,
+            "total_no_of_lines_added": 71951,
+            "total_no_of_lines_deleted": 56487
+        },
+        "MansurAshraf/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1632,
+            "commits_count_within_incubation": 350,
+            "total_no_of_times_files_modified": 2241,
+            "total_no_of_lines_added": 71910,
+            "total_no_of_lines_deleted": 56472
+        },
+        "3D-Control-Systems/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 1632,
+            "commits_count_within_incubation": 350,
+            "total_no_of_times_files_modified": 2241,
+            "total_no_of_lines_added": 71910,
+            "total_no_of_lines_deleted": 56472
+        },
+        "yubobo/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1631,
+            "commits_count_within_incubation": 349,
+            "total_no_of_times_files_modified": 2240,
+            "total_no_of_lines_added": 71905,
+            "total_no_of_lines_deleted": 56471
+        },
+        "shenguoquan/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1631,
+            "commits_count_within_incubation": 349,
+            "total_no_of_times_files_modified": 2240,
+            "total_no_of_lines_added": 71905,
+            "total_no_of_lines_deleted": 56471
+        },
+        "MiguelPeralvo/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1631,
+            "commits_count_within_incubation": 349,
+            "total_no_of_times_files_modified": 2240,
+            "total_no_of_lines_added": 71905,
+            "total_no_of_lines_deleted": 56471
+        },
+        "twilightgod/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1631,
+            "commits_count_within_incubation": 349,
+            "total_no_of_times_files_modified": 2238,
+            "total_no_of_lines_added": 71795,
+            "total_no_of_lines_deleted": 56471
+        },
+        "hj5/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 4,
+            "total_commits_count": 1644,
+            "commits_count_within_incubation": 362,
+            "total_no_of_times_files_modified": 2290,
+            "total_no_of_lines_added": 74849,
+            "total_no_of_lines_deleted": 56551
+        },
+        "HaNeul-Kim/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1630,
+            "commits_count_within_incubation": 348,
+            "total_no_of_times_files_modified": 2239,
+            "total_no_of_lines_added": 71793,
+            "total_no_of_lines_deleted": 56471
+        },
+        "dnsang/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1628,
+            "commits_count_within_incubation": 346,
+            "total_no_of_times_files_modified": 2228,
+            "total_no_of_lines_added": 70484,
+            "total_no_of_lines_deleted": 56468
+        },
+        "bobbych/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 1668,
+            "commits_count_within_incubation": 386,
+            "total_no_of_times_files_modified": 2569,
+            "total_no_of_lines_added": 83147,
+            "total_no_of_lines_deleted": 60161
+        },
+        "madhav2k/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1619,
+            "commits_count_within_incubation": 337,
+            "total_no_of_times_files_modified": 2201,
+            "total_no_of_lines_added": 69612,
+            "total_no_of_lines_deleted": 55178
+        },
+        "Chandrajith/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1686,
+            "commits_count_within_incubation": 404,
+            "total_no_of_times_files_modified": 2510,
+            "total_no_of_lines_added": 80829,
+            "total_no_of_lines_deleted": 58916
+        },
+        "benbromhead/incubator-zeppelin": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 3,
+            "total_commits_count": 1672,
+            "commits_count_within_incubation": 390,
+            "total_no_of_times_files_modified": 2478,
+            "total_no_of_lines_added": 79911,
+            "total_no_of_lines_deleted": 58862
+        },
+        "bbromhead/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1618,
+            "commits_count_within_incubation": 336,
+            "total_no_of_times_files_modified": 2198,
+            "total_no_of_lines_added": 69509,
+            "total_no_of_lines_deleted": 55177
+        },
+        "parksangkil/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1618,
+            "commits_count_within_incubation": 336,
+            "total_no_of_times_files_modified": 2198,
+            "total_no_of_lines_added": 69509,
+            "total_no_of_lines_deleted": 55177
+        },
+        "1teed/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 4,
+            "total_commits_count": 1621,
+            "commits_count_within_incubation": 339,
+            "total_no_of_times_files_modified": 2202,
+            "total_no_of_lines_added": 69547,
+            "total_no_of_lines_deleted": 55178
+        },
+        "jackchua-placed/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1618,
+            "commits_count_within_incubation": 336,
+            "total_no_of_times_files_modified": 2198,
+            "total_no_of_lines_added": 69509,
+            "total_no_of_lines_deleted": 55177
+        },
+        "sequenceiq/incubator-zeppelin": {
+            "watchers_count": 13,
+            "star_count": 13,
+            "branches_count": 2,
+            "total_commits_count": 1618,
+            "commits_count_within_incubation": 336,
+            "total_no_of_times_files_modified": 2198,
+            "total_no_of_lines_added": 69509,
+            "total_no_of_lines_deleted": 55177
+        },
+        "otds/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 1618,
+            "commits_count_within_incubation": 336,
+            "total_no_of_times_files_modified": 2198,
+            "total_no_of_lines_added": 69509,
+            "total_no_of_lines_deleted": 55177
+        },
+        "praagarw/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 4,
+            "total_commits_count": 1647,
+            "commits_count_within_incubation": 365,
+            "total_no_of_times_files_modified": 2303,
+            "total_no_of_lines_added": 75974,
+            "total_no_of_lines_deleted": 56556
+        },
+        "lebron-hj/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 3,
+            "total_commits_count": 1631,
+            "commits_count_within_incubation": 349,
+            "total_no_of_times_files_modified": 2254,
+            "total_no_of_lines_added": 74403,
+            "total_no_of_lines_deleted": 55215
+        },
+        "felixhao28/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1618,
+            "commits_count_within_incubation": 336,
+            "total_no_of_times_files_modified": 2198,
+            "total_no_of_lines_added": 69509,
+            "total_no_of_lines_deleted": 55177
+        },
+        "PiyushKumar/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1618,
+            "commits_count_within_incubation": 336,
+            "total_no_of_times_files_modified": 2198,
+            "total_no_of_lines_added": 69509,
+            "total_no_of_lines_deleted": 55177
+        },
+        "Leiguangr/incubator-zeppelin": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 1618,
+            "commits_count_within_incubation": 336,
+            "total_no_of_times_files_modified": 2198,
+            "total_no_of_lines_added": 69509,
+            "total_no_of_lines_deleted": 55177
+        },
+        "jeromebanks/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1616,
+            "commits_count_within_incubation": 334,
+            "total_no_of_times_files_modified": 2190,
+            "total_no_of_lines_added": 69378,
+            "total_no_of_lines_deleted": 55170
+        },
+        "tillrohrmann/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 8,
+            "total_commits_count": 2616,
+            "commits_count_within_incubation": 920,
+            "total_no_of_times_files_modified": 5062,
+            "total_no_of_lines_added": 178778,
+            "total_no_of_lines_deleted": 81545
+        },
+        "doanduyhai/incubator-zeppelin": {
+            "watchers_count": 3,
+            "star_count": 3,
+            "branches_count": 32,
+            "total_commits_count": 3575,
+            "commits_count_within_incubation": 920,
+            "total_no_of_times_files_modified": 5062,
+            "total_no_of_lines_added": 178778,
+            "total_no_of_lines_deleted": 81545
+        },
+        "angrygorilla/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1615,
+            "commits_count_within_incubation": 333,
+            "total_no_of_times_files_modified": 2189,
+            "total_no_of_lines_added": 69377,
+            "total_no_of_lines_deleted": 55169
+        },
+        "jasonliaoxiaoge/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1614,
+            "commits_count_within_incubation": 332,
+            "total_no_of_times_files_modified": 2187,
+            "total_no_of_lines_added": 69373,
+            "total_no_of_lines_deleted": 55166
+        },
+        "mravi/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 1618,
+            "commits_count_within_incubation": 336,
+            "total_no_of_times_files_modified": 2198,
+            "total_no_of_lines_added": 69813,
+            "total_no_of_lines_deleted": 55241
+        },
+        "holdenk/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1611,
+            "commits_count_within_incubation": 329,
+            "total_no_of_times_files_modified": 2178,
+            "total_no_of_lines_added": 69275,
+            "total_no_of_lines_deleted": 55137
+        },
+        "escaflone/incubator-zeppelin": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 1611,
+            "commits_count_within_incubation": 329,
+            "total_no_of_times_files_modified": 2179,
+            "total_no_of_lines_added": 69275,
+            "total_no_of_lines_deleted": 55137
+        },
+        "tverbeiren/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1613,
+            "commits_count_within_incubation": 331,
+            "total_no_of_times_files_modified": 2184,
+            "total_no_of_lines_added": 69365,
+            "total_no_of_lines_deleted": 55149
+        },
+        "danielhaviv/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 1613,
+            "commits_count_within_incubation": 331,
+            "total_no_of_times_files_modified": 2182,
+            "total_no_of_lines_added": 69598,
+            "total_no_of_lines_deleted": 55139
+        },
+        "intellidiscovery/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1611,
+            "commits_count_within_incubation": 329,
+            "total_no_of_times_files_modified": 2179,
+            "total_no_of_lines_added": 69275,
+            "total_no_of_lines_deleted": 55137
+        },
+        "JhaCode/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1609,
+            "commits_count_within_incubation": 327,
+            "total_no_of_times_files_modified": 2175,
+            "total_no_of_lines_added": 69211,
+            "total_no_of_lines_deleted": 55041
+        },
+        "hooptie45/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1609,
+            "commits_count_within_incubation": 327,
+            "total_no_of_times_files_modified": 2175,
+            "total_no_of_lines_added": 69211,
+            "total_no_of_lines_deleted": 55041
+        },
+        "dsdinter/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1623,
+            "commits_count_within_incubation": 341,
+            "total_no_of_times_files_modified": 2234,
+            "total_no_of_lines_added": 70037,
+            "total_no_of_lines_deleted": 55380
+        },
+        "keedio/incubator-zeppelin": {
+            "watchers_count": 19,
+            "star_count": 19,
+            "branches_count": 17,
+            "total_commits_count": 1785,
+            "commits_count_within_incubation": 503,
+            "total_no_of_times_files_modified": 3061,
+            "total_no_of_lines_added": 116783,
+            "total_no_of_lines_deleted": 62634
+        },
+        "alvinhom/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1609,
+            "commits_count_within_incubation": 327,
+            "total_no_of_times_files_modified": 2166,
+            "total_no_of_lines_added": 69216,
+            "total_no_of_lines_deleted": 54980
+        },
+        "brennonyork/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 1606,
+            "commits_count_within_incubation": 324,
+            "total_no_of_times_files_modified": 2160,
+            "total_no_of_lines_added": 69182,
+            "total_no_of_lines_deleted": 54976
+        },
+        "whisperstream/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 4,
+            "total_commits_count": 1671,
+            "commits_count_within_incubation": 389,
+            "total_no_of_times_files_modified": 2477,
+            "total_no_of_lines_added": 79910,
+            "total_no_of_lines_deleted": 58861
+        },
+        "azurecoder/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1606,
+            "commits_count_within_incubation": 324,
+            "total_no_of_times_files_modified": 2160,
+            "total_no_of_lines_added": 69182,
+            "total_no_of_lines_deleted": 54976
+        },
+        "stshe/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1606,
+            "commits_count_within_incubation": 324,
+            "total_no_of_times_files_modified": 2160,
+            "total_no_of_lines_added": 69182,
+            "total_no_of_lines_deleted": 54976
+        },
+        "sheepguo/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1606,
+            "commits_count_within_incubation": 324,
+            "total_no_of_times_files_modified": 2160,
+            "total_no_of_lines_added": 69182,
+            "total_no_of_lines_deleted": 54976
+        },
+        "oldmantaiter/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1606,
+            "commits_count_within_incubation": 324,
+            "total_no_of_times_files_modified": 2160,
+            "total_no_of_lines_added": 69182,
+            "total_no_of_lines_deleted": 54976
+        },
+        "ilganeli/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 1606,
+            "commits_count_within_incubation": 324,
+            "total_no_of_times_files_modified": 2160,
+            "total_no_of_lines_added": 69182,
+            "total_no_of_lines_deleted": 54976
+        },
+        "SethuRB/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1606,
+            "commits_count_within_incubation": 324,
+            "total_no_of_times_files_modified": 2160,
+            "total_no_of_lines_added": 69182,
+            "total_no_of_lines_deleted": 54976
+        },
+        "lessc0de/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1606,
+            "commits_count_within_incubation": 324,
+            "total_no_of_times_files_modified": 2160,
+            "total_no_of_lines_added": 69182,
+            "total_no_of_lines_deleted": 54976
+        },
+        "ramanathanr/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 1606,
+            "commits_count_within_incubation": 324,
+            "total_no_of_times_files_modified": 2160,
+            "total_no_of_lines_added": 69182,
+            "total_no_of_lines_deleted": 54976
+        },
+        "jwcarman/incubator-zeppelin": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 1608,
+            "commits_count_within_incubation": 326,
+            "total_no_of_times_files_modified": 2161,
+            "total_no_of_lines_added": 69150,
+            "total_no_of_lines_deleted": 55007
+        },
+        "sungsoo/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1598,
+            "commits_count_within_incubation": 316,
+            "total_no_of_times_files_modified": 2128,
+            "total_no_of_lines_added": 65174,
+            "total_no_of_lines_deleted": 54810
+        },
+        "bpmcd/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 4,
+            "total_commits_count": 1629,
+            "commits_count_within_incubation": 347,
+            "total_no_of_times_files_modified": 2238,
+            "total_no_of_lines_added": 71792,
+            "total_no_of_lines_deleted": 56470
+        },
+        "omegapointresearch/ARCHIVE_incubator-zeppelin": {
+            "watchers_count": 23,
+            "star_count": 23,
+            "branches_count": 9,
+            "total_commits_count": 1690,
+            "commits_count_within_incubation": 408,
+            "total_no_of_times_files_modified": 2781,
+            "total_no_of_lines_added": 105323,
+            "total_no_of_lines_deleted": 62687
+        },
+        "almacro/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1598,
+            "commits_count_within_incubation": 316,
+            "total_no_of_times_files_modified": 2127,
+            "total_no_of_lines_added": 65174,
+            "total_no_of_lines_deleted": 54810
+        },
+        "nikste/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 12,
+            "total_commits_count": 2260,
+            "commits_count_within_incubation": 920,
+            "total_no_of_times_files_modified": 5062,
+            "total_no_of_lines_added": 178778,
+            "total_no_of_lines_deleted": 81545
+        },
+        "cyber43/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1598,
+            "commits_count_within_incubation": 316,
+            "total_no_of_times_files_modified": 2128,
+            "total_no_of_lines_added": 65174,
+            "total_no_of_lines_deleted": 54810
+        },
+        "jbochi/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1597,
+            "commits_count_within_incubation": 315,
+            "total_no_of_times_files_modified": 2127,
+            "total_no_of_lines_added": 65173,
+            "total_no_of_lines_deleted": 54809
+        },
+        "ejono/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1598,
+            "commits_count_within_incubation": 316,
+            "total_no_of_times_files_modified": 2126,
+            "total_no_of_lines_added": 65175,
+            "total_no_of_lines_deleted": 54811
+        },
+        "CrazyJvm/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 1597,
+            "commits_count_within_incubation": 315,
+            "total_no_of_times_files_modified": 2127,
+            "total_no_of_lines_added": 65173,
+            "total_no_of_lines_deleted": 54809
+        },
+        "haebin/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1597,
+            "commits_count_within_incubation": 315,
+            "total_no_of_times_files_modified": 2127,
+            "total_no_of_lines_added": 65173,
+            "total_no_of_lines_deleted": 54809
+        },
+        "timothyshelton/incubator-zeppelin": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 1598,
+            "commits_count_within_incubation": 316,
+            "total_no_of_times_files_modified": 2128,
+            "total_no_of_lines_added": 65174,
+            "total_no_of_lines_deleted": 54810
+        },
+        "mindis/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1596,
+            "commits_count_within_incubation": 314,
+            "total_no_of_times_files_modified": 2123,
+            "total_no_of_lines_added": 65109,
+            "total_no_of_lines_deleted": 54764
+        },
+        "daishichao/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1596,
+            "commits_count_within_incubation": 314,
+            "total_no_of_times_files_modified": 2122,
+            "total_no_of_lines_added": 65109,
+            "total_no_of_lines_deleted": 54764
+        },
+        "cfmcgrady/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 1594,
+            "commits_count_within_incubation": 312,
+            "total_no_of_times_files_modified": 2119,
+            "total_no_of_lines_added": 65019,
+            "total_no_of_lines_deleted": 54757
+        },
+        "simonellistonball/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1594,
+            "commits_count_within_incubation": 312,
+            "total_no_of_times_files_modified": 2119,
+            "total_no_of_lines_added": 65019,
+            "total_no_of_lines_deleted": 54757
+        },
+        "kaychaks/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1594,
+            "commits_count_within_incubation": 312,
+            "total_no_of_times_files_modified": 2119,
+            "total_no_of_lines_added": 65019,
+            "total_no_of_lines_deleted": 54757
+        },
+        "mce/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 1592,
+            "commits_count_within_incubation": 310,
+            "total_no_of_times_files_modified": 2117,
+            "total_no_of_lines_added": 65008,
+            "total_no_of_lines_deleted": 54756
+        },
+        "fupelaqu/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1592,
+            "commits_count_within_incubation": 310,
+            "total_no_of_times_files_modified": 2117,
+            "total_no_of_lines_added": 65008,
+            "total_no_of_lines_deleted": 54756
+        },
+        "Dataman-Cloud/incubator-zeppelin": {
+            "watchers_count": 4,
+            "star_count": 4,
+            "branches_count": 3,
+            "total_commits_count": 1592,
+            "commits_count_within_incubation": 310,
+            "total_no_of_times_files_modified": 2117,
+            "total_no_of_lines_added": 65008,
+            "total_no_of_lines_deleted": 54756
+        },
+        "blrunner/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 1592,
+            "commits_count_within_incubation": 310,
+            "total_no_of_times_files_modified": 2117,
+            "total_no_of_lines_added": 65008,
+            "total_no_of_lines_deleted": 54756
+        },
+        "mattyb149/incubator-zeppelin": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 1592,
+            "commits_count_within_incubation": 310,
+            "total_no_of_times_files_modified": 2117,
+            "total_no_of_lines_added": 65008,
+            "total_no_of_lines_deleted": 54756
+        },
+        "rahul67/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 1600,
+            "commits_count_within_incubation": 318,
+            "total_no_of_times_files_modified": 2142,
+            "total_no_of_lines_added": 68616,
+            "total_no_of_lines_deleted": 54814
+        },
+        "dennyglee/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1591,
+            "commits_count_within_incubation": 309,
+            "total_no_of_times_files_modified": 2116,
+            "total_no_of_lines_added": 65007,
+            "total_no_of_lines_deleted": 54755
+        },
+        "movingmt/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1589,
+            "commits_count_within_incubation": 307,
+            "total_no_of_times_files_modified": 2055,
+            "total_no_of_lines_added": 60298,
+            "total_no_of_lines_deleted": 54543
+        },
+        "zhuguangbin/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 1587,
+            "commits_count_within_incubation": 305,
+            "total_no_of_times_files_modified": 2053,
+            "total_no_of_lines_added": 60292,
+            "total_no_of_lines_deleted": 54534
+        },
+        "khalidhuseynov/zeppelin": {
+            "watchers_count": 3,
+            "star_count": 3,
+            "branches_count": 47,
+            "total_commits_count": 2646,
+            "commits_count_within_incubation": 920,
+            "total_no_of_times_files_modified": 5062,
+            "total_no_of_lines_added": 178778,
+            "total_no_of_lines_deleted": 81545
+        },
+        "hunglin/incubator-zeppelin": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 1581,
+            "commits_count_within_incubation": 299,
+            "total_no_of_times_files_modified": 1828,
+            "total_no_of_lines_added": 54502,
+            "total_no_of_lines_deleted": 52479
+        },
+        "Vibhave/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1581,
+            "commits_count_within_incubation": 299,
+            "total_no_of_times_files_modified": 1828,
+            "total_no_of_lines_added": 54502,
+            "total_no_of_lines_deleted": 52479
+        },
+        "syepes/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1589,
+            "commits_count_within_incubation": 307,
+            "total_no_of_times_files_modified": 2055,
+            "total_no_of_lines_added": 60298,
+            "total_no_of_lines_deleted": 54543
+        },
+        "langley/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 1778,
+            "commits_count_within_incubation": 496,
+            "total_no_of_times_files_modified": 3047,
+            "total_no_of_lines_added": 116656,
+            "total_no_of_lines_deleted": 62605
+        },
+        "gchen/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1574,
+            "commits_count_within_incubation": 292,
+            "total_no_of_times_files_modified": 1815,
+            "total_no_of_lines_added": 54366,
+            "total_no_of_lines_deleted": 52428
+        },
+        "corneadoug/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 12,
+            "total_commits_count": 2949,
+            "commits_count_within_incubation": 920,
+            "total_no_of_times_files_modified": 5062,
+            "total_no_of_lines_added": 178778,
+            "total_no_of_lines_deleted": 81545
+        },
+        "minahlee/zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 10,
+            "total_commits_count": 3147,
+            "commits_count_within_incubation": 920,
+            "total_no_of_times_files_modified": 5059,
+            "total_no_of_lines_added": 178778,
+            "total_no_of_lines_deleted": 81545
+        },
+        "RamVenkatesh/incubator-zeppelin": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 4,
+            "total_commits_count": 2107,
+            "commits_count_within_incubation": 825,
+            "total_no_of_times_files_modified": 4580,
+            "total_no_of_lines_added": 162736,
+            "total_no_of_lines_deleted": 79507
+        },
+        "anthonycorbacho/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 7,
+            "total_commits_count": 3608,
+            "commits_count_within_incubation": 920,
+            "total_no_of_times_files_modified": 5062,
+            "total_no_of_lines_added": 178778,
+            "total_no_of_lines_deleted": 81545
+        },
+        "herbertfj/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 1609,
+            "commits_count_within_incubation": 327,
+            "total_no_of_times_files_modified": 2174,
+            "total_no_of_lines_added": 66058,
+            "total_no_of_lines_deleted": 55054
+        },
+        "bzz/incubator-zeppelin": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 29,
+            "total_commits_count": 2850,
+            "commits_count_within_incubation": 920,
+            "total_no_of_times_files_modified": 5057,
+            "total_no_of_lines_added": 178778,
+            "total_no_of_lines_deleted": 81545
+        },
+        "Leemoonsoo/zeppelin": {
+            "watchers_count": 3,
+            "star_count": 3,
+            "branches_count": 416,
+            "total_commits_count": 4545,
+            "commits_count_within_incubation": 920,
+            "total_no_of_times_files_modified": 5062,
+            "total_no_of_lines_added": 178778,
+            "total_no_of_lines_deleted": 81545
+        },
+        "felixcheung/incubator-zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 34,
+            "total_commits_count": 1697,
+            "commits_count_within_incubation": 415,
+            "total_no_of_times_files_modified": 3026,
+            "total_no_of_lines_added": 110241,
+            "total_no_of_lines_deleted": 67560
+        },
+        "jongyoul/zeppelin": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 143,
+            "total_commits_count": 5012,
+            "commits_count_within_incubation": 920,
+            "total_no_of_times_files_modified": 5062,
+            "total_no_of_lines_added": 178778,
+            "total_no_of_lines_deleted": 81545
+        },
+        "total_fork_count": 2421,
+        "watchers_count": 332,
+        "star_count": 5480,
+        "open_issues_count": 87,
+        "size": 98760,
+        "fork_count_within_time": 176
+    }
+}

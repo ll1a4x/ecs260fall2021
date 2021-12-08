@@ -1,0 +1,20 @@
+{
+    "apache/shiro": {
+        "jalkanen/shiro": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 1466,
+            "commits_count_within_incubation": 790,
+            "total_no_of_times_files_modified": 6595,
+            "total_no_of_lines_added": 294364,
+            "total_no_of_lines_deleted": 220792
+        },
+        "total_fork_count": 2090,
+        "watchers_count": 229,
+        "star_count": 3658,
+        "open_issues_count": 16,
+        "size": 25957,
+        "fork_count_within_time": 1
+    }
+}

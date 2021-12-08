@@ -1,0 +1,260 @@
+{
+    "apache/reef": {
+        "swlsw/incubator-reef": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 8,
+            "total_commits_count": 2996,
+            "commits_count_within_incubation": 813,
+            "total_no_of_times_files_modified": 9166,
+            "total_no_of_lines_added": 394346,
+            "total_no_of_lines_deleted": 173350
+        },
+        "shulmanb/reef": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 25,
+            "total_commits_count": 3541,
+            "commits_count_within_incubation": 948,
+            "total_no_of_times_files_modified": 10784,
+            "total_no_of_lines_added": 415315,
+            "total_no_of_lines_deleted": 179077
+        },
+        "sdudoladov/incubator-reef": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 35,
+            "total_commits_count": 3392,
+            "commits_count_within_incubation": 948,
+            "total_no_of_times_files_modified": 10772,
+            "total_no_of_lines_added": 415315,
+            "total_no_of_lines_deleted": 179077
+        },
+        "anupam128/reef": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 36,
+            "total_commits_count": 3719,
+            "commits_count_within_incubation": 948,
+            "total_no_of_times_files_modified": 10784,
+            "total_no_of_lines_added": 415315,
+            "total_no_of_lines_deleted": 179077
+        },
+        "dongjun-Lee/incubator-reef": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 8,
+            "total_commits_count": 2837,
+            "commits_count_within_incubation": 654,
+            "total_no_of_times_files_modified": 8061,
+            "total_no_of_lines_added": 370500,
+            "total_no_of_lines_deleted": 164936
+        },
+        "priyankporwal/incubator-reef": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 2828,
+            "commits_count_within_incubation": 645,
+            "total_no_of_times_files_modified": 7925,
+            "total_no_of_lines_added": 363755,
+            "total_no_of_lines_deleted": 161618
+        },
+        "gyeongin/reef": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 15,
+            "total_commits_count": 3183,
+            "commits_count_within_incubation": 948,
+            "total_no_of_times_files_modified": 10784,
+            "total_no_of_lines_added": 415315,
+            "total_no_of_lines_deleted": 179077
+        },
+        "jsryu21/incubator-reef": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 5,
+            "total_commits_count": 2792,
+            "commits_count_within_incubation": 609,
+            "total_no_of_times_files_modified": 7200,
+            "total_no_of_lines_added": 351368,
+            "total_no_of_lines_deleted": 155727
+        },
+        "kijungs/incubator-reef": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 2761,
+            "commits_count_within_incubation": 578,
+            "total_no_of_times_files_modified": 6783,
+            "total_no_of_lines_added": 340843,
+            "total_no_of_lines_deleted": 153544
+        },
+        "nachocano/incubator-reef": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 36,
+            "total_commits_count": 3656,
+            "commits_count_within_incubation": 964,
+            "total_no_of_times_files_modified": 11323,
+            "total_no_of_lines_added": 426875,
+            "total_no_of_lines_deleted": 183967
+        },
+        "markusweimer/reef": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 3864,
+            "commits_count_within_incubation": 948,
+            "total_no_of_times_files_modified": 10784,
+            "total_no_of_lines_added": 415315,
+            "total_no_of_lines_deleted": 179077
+        },
+        "myluco/incubator-reef": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 2720,
+            "commits_count_within_incubation": 537,
+            "total_no_of_times_files_modified": 6149,
+            "total_no_of_lines_added": 332691,
+            "total_no_of_lines_deleted": 147060
+        },
+        "mindis/incubator-reef": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 5,
+            "total_commits_count": 2710,
+            "commits_count_within_incubation": 527,
+            "total_no_of_times_files_modified": 5989,
+            "total_no_of_lines_added": 329658,
+            "total_no_of_lines_deleted": 146442
+        },
+        "yingdachen/incubator-reef": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 3032,
+            "commits_count_within_incubation": 849,
+            "total_no_of_times_files_modified": 9489,
+            "total_no_of_lines_added": 398914,
+            "total_no_of_lines_deleted": 173957
+        },
+        "dongjoon-hyun/reef": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 16,
+            "total_commits_count": 3875,
+            "commits_count_within_incubation": 948,
+            "total_no_of_times_files_modified": 10769,
+            "total_no_of_lines_added": 415315,
+            "total_no_of_lines_deleted": 179077
+        },
+        "afchung/reef": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 190,
+            "total_commits_count": 3592,
+            "commits_count_within_incubation": 948,
+            "total_no_of_times_files_modified": 10784,
+            "total_no_of_lines_added": 415315,
+            "total_no_of_lines_deleted": 179077
+        },
+        "joshuaseol/incubator-reef": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 4,
+            "total_commits_count": 2603,
+            "commits_count_within_incubation": 420,
+            "total_no_of_times_files_modified": 4248,
+            "total_no_of_lines_added": 275795,
+            "total_no_of_lines_deleted": 128365
+        },
+        "jsjason/incubator-reef": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 12,
+            "total_commits_count": 3494,
+            "commits_count_within_incubation": 948,
+            "total_no_of_times_files_modified": 10784,
+            "total_no_of_lines_added": 415315,
+            "total_no_of_lines_deleted": 179077
+        },
+        "beysims/reef": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 7,
+            "total_commits_count": 2599,
+            "commits_count_within_incubation": 416,
+            "total_no_of_times_files_modified": 4157,
+            "total_no_of_lines_added": 275602,
+            "total_no_of_lines_deleted": 128196
+        },
+        "taegeonum/incubator-reef": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 35,
+            "total_commits_count": 2812,
+            "commits_count_within_incubation": 629,
+            "total_no_of_times_files_modified": 7993,
+            "total_no_of_lines_added": 373904,
+            "total_no_of_lines_deleted": 161565
+        },
+        "bgchun/reef": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 12,
+            "total_commits_count": 2596,
+            "commits_count_within_incubation": 413,
+            "total_no_of_times_files_modified": 4111,
+            "total_no_of_lines_added": 214661,
+            "total_no_of_lines_deleted": 126917
+        },
+        "dafrista/reef": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 25,
+            "total_commits_count": 3328,
+            "commits_count_within_incubation": 948,
+            "total_no_of_times_files_modified": 10778,
+            "total_no_of_lines_added": 415315,
+            "total_no_of_lines_deleted": 179077
+        },
+        "jwang98052/reef": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 167,
+            "total_commits_count": 3827,
+            "commits_count_within_incubation": 948,
+            "total_no_of_times_files_modified": 10784,
+            "total_no_of_lines_added": 415315,
+            "total_no_of_lines_deleted": 179077
+        },
+        "tmajest/incubator-reef": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 7,
+            "total_commits_count": 2611,
+            "commits_count_within_incubation": 428,
+            "total_no_of_times_files_modified": 4774,
+            "total_no_of_lines_added": 283054,
+            "total_no_of_lines_deleted": 133831
+        },
+        "yunseong/reef": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 24,
+            "total_commits_count": 3165,
+            "commits_count_within_incubation": 948,
+            "total_no_of_times_files_modified": 10784,  
+            "total_no_of_lines_added": 415315,
+            "total_no_of_lines_deleted": 179077
+        },
+        "total_fork_count": 104,
+        "watchers_count": 34,
+        "star_count": 95,
+        "open_issues_count": 6,
+        "size": 40208,
+        "fork_count_within_time": 25
+    }
+}

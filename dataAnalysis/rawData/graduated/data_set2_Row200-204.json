@@ -1,0 +1,26 @@
+{
+    "apache/logging-log4cxx": {
+        "total_fork_count": 80,
+        "watchers_count": 18,
+        "star_count": 149,
+        "open_issues_count": 2,
+        "size": 10460,
+        "fork_count_within_time": 0
+    },
+    "apache/logging-log4net": {
+        "total_fork_count": 257,
+        "watchers_count": 55,
+        "star_count": 606,
+        "open_issues_count": 0,
+        "size": 5712,
+        "fork_count_within_time": 0
+    },
+    "apache/logging-log4php": {
+        "total_fork_count": 67,
+        "watchers_count": 22,
+        "star_count": 100,
+        "open_issues_count": 5,
+        "size": 4578,
+        "fork_count_within_time": 0
+    }
+}

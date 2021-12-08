@@ -1,0 +1,26 @@
+{
+    "apache/isis": {
+        "total_fork_count": 265,
+        "watchers_count": 59,
+        "star_count": 663,
+        "open_issues_count": 2,
+        "size": 309106,
+        "fork_count_within_time": 0
+    },
+    "apache/jackrabbit": {
+        "total_fork_count": 181,
+        "watchers_count": 29,
+        "star_count": 280,
+        "open_issues_count": 34,
+        "size": 60117,
+        "fork_count_within_time": 0
+    },
+    "apache/jclouds": {
+        "total_fork_count": 97,
+        "watchers_count": 21,
+        "star_count": 117,
+        "open_issues_count": 5,
+        "size": 79070,
+        "fork_count_within_time": 0
+    }
+}

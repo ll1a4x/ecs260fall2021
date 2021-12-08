@@ -1,0 +1,981 @@
+{
+    "apache/incubator-samoa": {
+        "awesomeDataTool/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 8,
+            "total_commits_count": 118,
+            "commits_count_within_incubation": 118,
+            "total_no_of_times_files_modified": 703,
+            "total_no_of_lines_added": 147076,
+            "total_no_of_lines_deleted": 85326
+        },
+        "chualanagit/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 8,
+            "total_commits_count": 118,
+            "commits_count_within_incubation": 118,
+            "total_no_of_times_files_modified": 703,
+            "total_no_of_lines_added": 147076,
+            "total_no_of_lines_deleted": 85326
+        },
+        "JLLeitschuh/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 9,
+            "total_commits_count": 116,
+            "commits_count_within_incubation": 116,
+            "total_no_of_times_files_modified": 700,
+            "total_no_of_lines_added": 147047,
+            "total_no_of_lines_deleted": 85308
+        },
+        "chiwanpark/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 7,
+            "total_commits_count": 116,
+            "commits_count_within_incubation": 116,
+            "total_no_of_times_files_modified": 700,
+            "total_no_of_lines_added": 147047,
+            "total_no_of_lines_deleted": 85308
+        },
+        "danielrosendo/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 6,
+            "total_commits_count": 115,
+            "commits_count_within_incubation": 115,
+            "total_no_of_times_files_modified": 700,
+            "total_no_of_lines_added": 138926,
+            "total_no_of_lines_deleted": 76505
+        },
+        "nwut/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "CocoJam/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "melinmmmm/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "validiom/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "dengpanyin/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "csterling/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 6,
+            "total_commits_count": 119,
+            "commits_count_within_incubation": 119,
+            "total_no_of_times_files_modified": 623,
+            "total_no_of_lines_added": 136061,
+            "total_no_of_lines_deleted": 75706
+        },
+        "Manasha11/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "rayokota/incubator-samoa": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "pzhao12testa/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "cass-green/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 107,
+            "commits_count_within_incubation": 107,
+            "total_no_of_times_files_modified": 608,
+            "total_no_of_lines_added": 135663,
+            "total_no_of_lines_deleted": 75675
+        },
+        "Elkoumy/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "tool-recommender-bot/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "youlei5898y/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "SemanticBeeng/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "bondyra/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "vishalbelsare/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 5,
+            "total_commits_count": 118,
+            "commits_count_within_incubation": 118,
+            "total_no_of_times_files_modified": 703,
+            "total_no_of_lines_added": 147076,
+            "total_no_of_lines_deleted": 85326
+        },
+        "nwangtw/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 10,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "bigmine/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "UZamkniete/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "enothereska/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "brucearctor/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "guilhermejccavalcanti/incubator-samoa": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "jeromepasvantis/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 7,
+            "total_commits_count": 107,
+            "commits_count_within_incubation": 107,
+            "total_no_of_times_files_modified": 617,
+            "total_no_of_lines_added": 135635,
+            "total_no_of_lines_deleted": 75680
+        },
+        "skanjila/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 7,
+            "total_commits_count": 114,
+            "commits_count_within_incubation": 114,
+            "total_no_of_times_files_modified": 697,
+            "total_no_of_lines_added": 141075,
+            "total_no_of_lines_deleted": 77684
+        },
+        "appcoreopc/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "leusonmario/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 6,
+            "commits_count_within_incubation": 6,
+            "total_no_of_times_files_modified": 134,
+            "total_no_of_lines_added": 238109,
+            "total_no_of_lines_deleted": 284
+        },
+        "lewiskan/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "abi0609/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 5,
+            "total_commits_count": 105,
+            "commits_count_within_incubation": 105,
+            "total_no_of_times_files_modified": 604,
+            "total_no_of_lines_added": 135618,
+            "total_no_of_lines_deleted": 75662
+        },
+        "dursunkoc/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 105,
+            "commits_count_within_incubation": 105,
+            "total_no_of_times_files_modified": 604,
+            "total_no_of_lines_added": 135618,
+            "total_no_of_lines_deleted": 75662
+        },
+        "smhosseini4dev/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 105,
+            "commits_count_within_incubation": 105,
+            "total_no_of_times_files_modified": 604,
+            "total_no_of_lines_added": 135618,
+            "total_no_of_lines_deleted": 75662
+        },
+        "mehdidb/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 105,
+            "commits_count_within_incubation": 105,
+            "total_no_of_times_files_modified": 593,
+            "total_no_of_lines_added": 133936,
+            "total_no_of_lines_deleted": 75624
+        },
+        "bbejeck/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 103,
+            "commits_count_within_incubation": 103,
+            "total_no_of_times_files_modified": 562,
+            "total_no_of_lines_added": 130997,
+            "total_no_of_lines_deleted": 74637
+        },
+        "mehdideboub/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 5,
+            "total_commits_count": 105,
+            "commits_count_within_incubation": 105,
+            "total_no_of_times_files_modified": 587,
+            "total_no_of_lines_added": 133683,
+            "total_no_of_lines_deleted": 75530
+        },
+        "bryant1410/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 100,
+            "commits_count_within_incubation": 100,
+            "total_no_of_times_files_modified": 538,
+            "total_no_of_lines_added": 130040,
+            "total_no_of_lines_deleted": 74531
+        },
+        "imais/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 100,
+            "commits_count_within_incubation": 100,
+            "total_no_of_times_files_modified": 541,
+            "total_no_of_lines_added": 130563,
+            "total_no_of_lines_deleted": 74527
+        },
+        "pwawrzyniak/incubator-samoa": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 11,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "Jayancv/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 100,
+            "commits_count_within_incubation": 100,
+            "total_no_of_times_files_modified": 538,
+            "total_no_of_lines_added": 130038,
+            "total_no_of_lines_deleted": 74528
+        },
+        "mgrzenda/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 10,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "sgnosti/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 99,
+            "commits_count_within_incubation": 99,
+            "total_no_of_times_files_modified": 537,
+            "total_no_of_lines_added": 130036,
+            "total_no_of_lines_deleted": 74527
+        },
+        "thvasilo/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 16,
+            "total_commits_count": 99,
+            "commits_count_within_incubation": 99,
+            "total_no_of_times_files_modified": 537,
+            "total_no_of_lines_added": 130036,
+            "total_no_of_lines_deleted": 74527
+        },
+        "fobeligi/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 13,
+            "total_commits_count": 106,
+            "commits_count_within_incubation": 106,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 135623,
+            "total_no_of_lines_deleted": 75668
+        },
+        "aimwts/incubator-samoa": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 5,
+            "total_commits_count": 99,
+            "commits_count_within_incubation": 99,
+            "total_no_of_times_files_modified": 537,
+            "total_no_of_lines_added": 130036,
+            "total_no_of_lines_deleted": 74527
+        },
+        "kavukcutolga/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 99,
+            "commits_count_within_incubation": 99,
+            "total_no_of_times_files_modified": 537,
+            "total_no_of_lines_added": 130036,
+            "total_no_of_lines_deleted": 74527
+        },
+        "Ecoblockchain/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 99,
+            "commits_count_within_incubation": 99,
+            "total_no_of_times_files_modified": 537,
+            "total_no_of_lines_added": 130036,
+            "total_no_of_lines_deleted": 74527
+        },
+        "damienclaveau/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 99,
+            "commits_count_within_incubation": 99,
+            "total_no_of_times_files_modified": 537,
+            "total_no_of_lines_added": 130036,
+            "total_no_of_lines_deleted": 74527
+        },
+        "laknath/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 99,
+            "commits_count_within_incubation": 99,
+            "total_no_of_times_files_modified": 537,
+            "total_no_of_lines_added": 130036,
+            "total_no_of_lines_deleted": 74527
+        },
+        "InsightsDev-dev/incubator-samoa": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 8,
+            "total_commits_count": 99,
+            "commits_count_within_incubation": 99,
+            "total_no_of_times_files_modified": 537,
+            "total_no_of_lines_added": 130036,
+            "total_no_of_lines_deleted": 74527
+        },
+        "FelixNeutatz/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 99,
+            "commits_count_within_incubation": 99,
+            "total_no_of_times_files_modified": 537,
+            "total_no_of_lines_added": 130036,
+            "total_no_of_lines_deleted": 74527
+        },
+        "arrawatia/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 6,
+            "total_commits_count": 98,
+            "commits_count_within_incubation": 98,
+            "total_no_of_times_files_modified": 509,
+            "total_no_of_lines_added": 128154,
+            "total_no_of_lines_deleted": 74524
+        },
+        "asawq2006/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 96,
+            "commits_count_within_incubation": 96,
+            "total_no_of_times_files_modified": 491,
+            "total_no_of_lines_added": 128134,
+            "total_no_of_lines_deleted": 74504
+        },
+        "ChrisLKennedy/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 96,
+            "commits_count_within_incubation": 96,
+            "total_no_of_times_files_modified": 491,
+            "total_no_of_lines_added": 128134,
+            "total_no_of_lines_deleted": 74504
+        },
+        "zhengyanzh/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 4,
+            "total_commits_count": 94,
+            "commits_count_within_incubation": 94,
+            "total_no_of_times_files_modified": 487,
+            "total_no_of_lines_added": 128133,
+            "total_no_of_lines_deleted": 74311
+        },
+        "hmgomes/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 94,
+            "commits_count_within_incubation": 94,
+            "total_no_of_times_files_modified": 487,
+            "total_no_of_lines_added": 128133,
+            "total_no_of_lines_deleted": 74311
+        },
+        "LvCodeing/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 94,
+            "commits_count_within_incubation": 94,
+            "total_no_of_times_files_modified": 487,
+            "total_no_of_lines_added": 128133,
+            "total_no_of_lines_deleted": 74311
+        },
+        "pb-pravin/incubator-samoa": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 3,
+            "total_commits_count": 94,
+            "commits_count_within_incubation": 94,
+            "total_no_of_times_files_modified": 487,
+            "total_no_of_lines_added": 128133,
+            "total_no_of_lines_deleted": 74311
+        },
+        "srcclrapache1/incubator-samoa": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 3,
+            "total_commits_count": 94,
+            "commits_count_within_incubation": 94,
+            "total_no_of_times_files_modified": 487,
+            "total_no_of_lines_added": 128133,
+            "total_no_of_lines_deleted": 74311
+        },
+        "zyqjustin/incubator-samoa": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 3,
+            "total_commits_count": 75,
+            "commits_count_within_incubation": 75,
+            "total_no_of_times_files_modified": 453,
+            "total_no_of_lines_added": 127809,
+            "total_no_of_lines_deleted": 74213
+        },
+        "lelou6666/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 75,
+            "commits_count_within_incubation": 75,
+            "total_no_of_times_files_modified": 453,
+            "total_no_of_lines_added": 127809,
+            "total_no_of_lines_deleted": 74213
+        },
+        "liu76874151/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 61,
+            "commits_count_within_incubation": 61,
+            "total_no_of_times_files_modified": 395,
+            "total_no_of_lines_added": 126708,
+            "total_no_of_lines_deleted": 72017
+        },
+        "mhlias/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 60,
+            "commits_count_within_incubation": 60,
+            "total_no_of_times_files_modified": 391,
+            "total_no_of_lines_added": 126642,
+            "total_no_of_lines_deleted": 71814
+        },
+        "edi-bice/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 90,
+            "commits_count_within_incubation": 90,
+            "total_no_of_times_files_modified": 482,
+            "total_no_of_lines_added": 127780,
+            "total_no_of_lines_deleted": 74308
+        },
+        "qibaoyuan/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 59,
+            "commits_count_within_incubation": 59,
+            "total_no_of_times_files_modified": 386,
+            "total_no_of_lines_added": 126516,
+            "total_no_of_lines_deleted": 71813
+        },
+        "happyyang/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 59,
+            "commits_count_within_incubation": 59,
+            "total_no_of_times_files_modified": 386,
+            "total_no_of_lines_added": 126516,
+            "total_no_of_lines_deleted": 71813
+        },
+        "gearpump/incubator-samoa": {
+            "watchers_count": 4,
+            "star_count": 4,
+            "branches_count": 4,
+            "total_commits_count": 85,
+            "commits_count_within_incubation": 85,
+            "total_no_of_times_files_modified": 552,
+            "total_no_of_lines_added": 130014,
+            "total_no_of_lines_deleted": 72888
+        },
+        "lw100831/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 3,
+            "total_commits_count": 59,
+            "commits_count_within_incubation": 59,
+            "total_no_of_times_files_modified": 386,
+            "total_no_of_lines_added": 126516,
+            "total_no_of_lines_deleted": 71813
+        },
+        "kidaa30/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 59,
+            "commits_count_within_incubation": 59,
+            "total_no_of_times_files_modified": 386,
+            "total_no_of_lines_added": 126516,
+            "total_no_of_lines_deleted": 71813
+        },
+        "nicolas-kourtellis/incubator-samoa": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 5,
+            "total_commits_count": 56,
+            "commits_count_within_incubation": 56,
+            "total_no_of_times_files_modified": 366,
+            "total_no_of_lines_added": 125101,
+            "total_no_of_lines_deleted": 71187
+        },
+        "themodernturing/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 56,
+            "commits_count_within_incubation": 56,
+            "total_no_of_times_files_modified": 366,
+            "total_no_of_lines_added": 125101,
+            "total_no_of_lines_deleted": 71187
+        },
+        "mandilshashank/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 51,
+            "commits_count_within_incubation": 51,
+            "total_no_of_times_files_modified": 354,
+            "total_no_of_lines_added": 124794,
+            "total_no_of_lines_deleted": 70957
+        },
+        "bhupeshchawda/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 7,
+            "total_commits_count": 51,
+            "commits_count_within_incubation": 51,
+            "total_no_of_times_files_modified": 354,
+            "total_no_of_lines_added": 124794,
+            "total_no_of_lines_deleted": 70957
+        },
+        "junwucs/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 51,
+            "commits_count_within_incubation": 51,
+            "total_no_of_times_files_modified": 354,
+            "total_no_of_lines_added": 124794,
+            "total_no_of_lines_deleted": 70957
+        },
+        "lizhangzhan/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 49,
+            "commits_count_within_incubation": 49,
+            "total_no_of_times_files_modified": 346,
+            "total_no_of_lines_added": 124750,
+            "total_no_of_lines_deleted": 70949
+        },
+        "jayadeepj/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 60,
+            "commits_count_within_incubation": 60,
+            "total_no_of_times_files_modified": 393,
+            "total_no_of_lines_added": 126813,
+            "total_no_of_lines_deleted": 72033
+        },
+        "wgpshashank/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 49,
+            "commits_count_within_incubation": 49,
+            "total_no_of_times_files_modified": 346,
+            "total_no_of_lines_added": 124750,
+            "total_no_of_lines_deleted": 70949
+        },
+        "karande/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 4,
+            "total_commits_count": 50,
+            "commits_count_within_incubation": 50,
+            "total_no_of_times_files_modified": 381,
+            "total_no_of_lines_added": 125376,
+            "total_no_of_lines_deleted": 71040
+        },
+        "JianfengQian/incubator-samoa": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 3,
+            "total_commits_count": 38,
+            "commits_count_within_incubation": 38,
+            "total_no_of_times_files_modified": 283,
+            "total_no_of_lines_added": 124575,
+            "total_no_of_lines_deleted": 70846
+        },
+        "gyfora/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 24,
+            "commits_count_within_incubation": 24,
+            "total_no_of_times_files_modified": 249,
+            "total_no_of_lines_added": 124291,
+            "total_no_of_lines_deleted": 70569
+        },
+        "carrot-garden/quant_incubator-samoa": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 22,
+            "commits_count_within_incubation": 22,
+            "total_no_of_times_files_modified": 248,
+            "total_no_of_lines_added": 122735,
+            "total_no_of_lines_deleted": 69090
+        },
+        "skw1992/incubator-samoa": {
+            "watchers_count": 3,
+            "star_count": 3,
+            "branches_count": 3,
+            "total_commits_count": 23,
+            "commits_count_within_incubation": 23,
+            "total_no_of_times_files_modified": 248,
+            "total_no_of_lines_added": 124290,
+            "total_no_of_lines_deleted": 70569
+        },
+        "togitoon/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 21,
+            "commits_count_within_incubation": 21,
+            "total_no_of_times_files_modified": 233,
+            "total_no_of_lines_added": 121432,
+            "total_no_of_lines_deleted": 69088
+        },
+        "zeropoint1991/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 21,
+            "commits_count_within_incubation": 21,
+            "total_no_of_times_files_modified": 233,
+            "total_no_of_lines_added": 121432,
+            "total_no_of_lines_deleted": 69088
+        },
+        "giacbrd/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 4,
+            "total_commits_count": 19,
+            "commits_count_within_incubation": 19,
+            "total_no_of_times_files_modified": 225,
+            "total_no_of_lines_added": 121214,
+            "total_no_of_lines_deleted": 69008
+        },
+        "liumangtu/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 19,
+            "commits_count_within_incubation": 19,
+            "total_no_of_times_files_modified": 225,
+            "total_no_of_lines_added": 121214,
+            "total_no_of_lines_deleted": 69008
+        },
+        "caxqueiroz/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 17,
+            "commits_count_within_incubation": 17,
+            "total_no_of_times_files_modified": 222,
+            "total_no_of_lines_added": 121159,
+            "total_no_of_lines_deleted": 68968
+        },
+        "senorcarbone/incubator-samoa": {
+            "watchers_count": 3,
+            "star_count": 3,
+            "branches_count": 7,
+            "total_commits_count": 59,
+            "commits_count_within_incubation": 59,
+            "total_no_of_times_files_modified": 386,
+            "total_no_of_lines_added": 126516,
+            "total_no_of_lines_deleted": 71813
+        },
+        "s4moa/samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 10,
+            "total_commits_count": 121,
+            "commits_count_within_incubation": 118,
+            "total_no_of_times_files_modified": 703,
+            "total_no_of_lines_added": 147076,
+            "total_no_of_lines_deleted": 85326
+        },
+        "phanvinh0526/incubator-samoa": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 1,
+            "commits_count_within_incubation": 1,
+            "total_no_of_times_files_modified": 0,
+            "total_no_of_lines_added": 50650,
+            "total_no_of_lines_deleted": 0
+        },
+        "arinto/incubator-samoa": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 3,
+            "total_commits_count": 11,
+            "commits_count_within_incubation": 11,
+            "total_no_of_times_files_modified": 217,
+            "total_no_of_lines_added": 120612,
+            "total_no_of_lines_deleted": 68279
+        },
+        "ovlaere/incubator-samoa": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 1,
+            "commits_count_within_incubation": 1,
+            "total_no_of_times_files_modified": 0,
+            "total_no_of_lines_added": 50650,
+            "total_no_of_lines_deleted": 0
+        },
+        "matthieumorel/incubator-samoa": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 5,
+            "total_commits_count": 1,
+            "commits_count_within_incubation": 1,
+            "total_no_of_times_files_modified": 0,
+            "total_no_of_lines_added": 50650,
+            "total_no_of_lines_deleted": 0
+        },
+        "smarthi/incubator-samoa": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 60,
+            "commits_count_within_incubation": 60,
+            "total_no_of_times_files_modified": 405,
+            "total_no_of_lines_added": 126645,
+            "total_no_of_lines_deleted": 72029
+        },
+        "gdfm/incubator-samoa": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 4,
+            "total_commits_count": 94,
+            "commits_count_within_incubation": 94,
+            "total_no_of_times_files_modified": 487,
+            "total_no_of_lines_added": 128133,
+            "total_no_of_lines_deleted": 74311
+        },
+        "total_fork_count": 102,
+        "watchers_count": 41,
+        "star_count": 239,
+        "open_issues_count": 13,
+        "size": 6135,
+        "fork_count_within_time": 97
+    },
+    "apache/incubator-retired-s4": {}
+}

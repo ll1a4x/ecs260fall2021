@@ -1,0 +1,26 @@
+{
+    "apache/nutch": {
+        "total_fork_count": 1151,
+        "watchers_count": 241,
+        "star_count": 2262,
+        "open_issues_count": 14,
+        "size": 136585,
+        "fork_count_within_time": 0
+    },
+    "apache/nuvem": {
+        "total_fork_count": 5,
+        "watchers_count": 5,
+        "star_count": 2,
+        "open_issues_count": 0,
+        "size": 400,
+        "fork_count_within_time": 0
+    },
+    "apache/ofbiz": {
+        "total_fork_count": 547,
+        "watchers_count": 152,
+        "star_count": 730,
+        "open_issues_count": 12,
+        "size": 892930,
+        "fork_count_within_time": 0
+    }
+}

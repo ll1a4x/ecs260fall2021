@@ -1,0 +1,18 @@
+{
+    "apache/curator": {
+        "total_fork_count": 1085,
+        "watchers_count": 163,
+        "star_count": 2639,
+        "open_issues_count": 48,
+        "size": 10407,
+        "fork_count_within_time": 0
+    },
+    "apache/cxf": {
+        "total_fork_count": 1275,
+        "watchers_count": 90,
+        "star_count": 736,
+        "open_issues_count": 39,
+        "size": 122967,
+        "fork_count_within_time": 0
+    }
+}

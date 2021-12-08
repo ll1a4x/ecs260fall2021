@@ -1,0 +1,640 @@
+{
+    "apache/libcloud": {
+        "total_fork_count": 828,
+        "watchers_count": 89,
+        "star_count": 1801,
+        "open_issues_count": 59,
+        "size": 28616,
+        "fork_count_within_time": 0
+    },
+    "apache/lucene.net": {
+        "PicnicBasket/lucene.net": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 7,
+            "total_commits_count": 664,
+            "commits_count_within_incubation": 173,
+            "total_no_of_times_files_modified": 2568,
+            "total_no_of_lines_added": 1688804,
+            "total_no_of_lines_deleted": 1240782
+        },
+        "Tasteful/lucene.net": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 11,
+            "total_commits_count": 664,
+            "commits_count_within_incubation": 173,
+            "total_no_of_times_files_modified": 2524,
+            "total_no_of_lines_added": 1688804,
+            "total_no_of_lines_deleted": 1240782
+        },
+        "dineshkummarc/lucene.net": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 636,
+            "commits_count_within_incubation": 145,
+            "total_no_of_times_files_modified": 2127,
+            "total_no_of_lines_added": 1384651,
+            "total_no_of_lines_deleted": 1229811
+        },
+        "synhershko/lucene.net": {
+            "watchers_count": 3,
+            "star_count": 3,
+            "branches_count": 11,
+            "total_commits_count": 698,
+            "commits_count_within_incubation": 207,
+            "total_no_of_times_files_modified": 1165,
+            "total_no_of_lines_added": 1780559,
+            "total_no_of_lines_deleted": 1499400
+        },
+        "total_fork_count": 553,
+        "watchers_count": 175,
+        "star_count": 1689,
+        "open_issues_count": 41,
+        "size": 173803,
+        "fork_count_within_time": 4
+    },
+    "apache/logging-log4cxx": {
+        "total_fork_count": 80,
+        "watchers_count": 18,
+        "star_count": 149,
+        "open_issues_count": 2,
+        "size": 10460,
+        "fork_count_within_time": 0
+    },
+    "apache/madlib": {
+        "akhil-rane/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 20,
+            "total_commits_count": 2363,
+            "commits_count_within_incubation": 232,
+            "total_no_of_times_files_modified": 969,
+            "total_no_of_lines_added": 84191,
+            "total_no_of_lines_deleted": 53114
+        },
+        "minleuk/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 20,
+            "total_commits_count": 2352,
+            "commits_count_within_incubation": 221,
+            "total_no_of_times_files_modified": 937,
+            "total_no_of_lines_added": 81061,
+            "total_no_of_lines_deleted": 52907
+        },
+        "cooper-sloan/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 30,
+            "total_commits_count": 2382,
+            "commits_count_within_incubation": 232,
+            "total_no_of_times_files_modified": 969,
+            "total_no_of_lines_added": 84191,
+            "total_no_of_lines_deleted": 53114
+        },
+        "j143-zz/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 20,
+            "total_commits_count": 2343,
+            "commits_count_within_incubation": 212,
+            "total_no_of_times_files_modified": 909,
+            "total_no_of_lines_added": 79159,
+            "total_no_of_lines_deleted": 52541
+        },
+        "sandipnd/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 20,
+            "total_commits_count": 2331,
+            "commits_count_within_incubation": 200,
+            "total_no_of_times_files_modified": 880,
+            "total_no_of_lines_added": 78511,
+            "total_no_of_lines_deleted": 52090
+        },
+        "GRSEB9S/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 20,
+            "total_commits_count": 2310,
+            "commits_count_within_incubation": 179,
+            "total_no_of_times_files_modified": 787,
+            "total_no_of_lines_added": 74728,
+            "total_no_of_lines_deleted": 49895
+        },
+        "xinzweb/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 20,
+            "total_commits_count": 2310,
+            "commits_count_within_incubation": 179,
+            "total_no_of_times_files_modified": 787,
+            "total_no_of_lines_added": 74728,
+            "total_no_of_lines_deleted": 49895
+        },
+        "rashmi815/incubator-madlib": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 27,
+            "total_commits_count": 2364,
+            "commits_count_within_incubation": 232,
+            "total_no_of_times_files_modified": 969,
+            "total_no_of_lines_added": 84191,
+            "total_no_of_lines_deleted": 53114
+        },
+        "errord/incubator-madlib": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 20,
+            "total_commits_count": 2300,
+            "commits_count_within_incubation": 169,
+            "total_no_of_times_files_modified": 752,
+            "total_no_of_lines_added": 72863,
+            "total_no_of_lines_deleted": 49475
+        },
+        "mminetto/incubator-madlib": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 20,
+            "total_commits_count": 2299,
+            "commits_count_within_incubation": 168,
+            "total_no_of_times_files_modified": 749,
+            "total_no_of_lines_added": 72846,
+            "total_no_of_lines_deleted": 49457
+        },
+        "pivotaltree/incubator-madlib": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 20,
+            "total_commits_count": 2292,
+            "commits_count_within_incubation": 161,
+            "total_no_of_times_files_modified": 711,
+            "total_no_of_lines_added": 72267,
+            "total_no_of_lines_deleted": 36840
+        },
+        "kleopatra999/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 20,
+            "total_commits_count": 2285,
+            "commits_count_within_incubation": 154,
+            "total_no_of_times_files_modified": 700,
+            "total_no_of_lines_added": 71762,
+            "total_no_of_lines_deleted": 36458
+        },
+        "TeraMatrix/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 20,
+            "total_commits_count": 2276,
+            "commits_count_within_incubation": 145,
+            "total_no_of_times_files_modified": 675,
+            "total_no_of_lines_added": 70844,
+            "total_no_of_lines_deleted": 36365
+        },
+        "klucar/incubator-madlib": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 20,
+            "total_commits_count": 2269,
+            "commits_count_within_incubation": 138,
+            "total_no_of_times_files_modified": 656,
+            "total_no_of_lines_added": 69890,
+            "total_no_of_lines_deleted": 35744
+        },
+        "bapleliu/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 20,
+            "total_commits_count": 2255,
+            "commits_count_within_incubation": 124,
+            "total_no_of_times_files_modified": 601,
+            "total_no_of_lines_added": 64662,
+            "total_no_of_lines_deleted": 34490
+        },
+        "davecramer/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 20,
+            "total_commits_count": 2258,
+            "commits_count_within_incubation": 127,
+            "total_no_of_times_files_modified": 607,
+            "total_no_of_lines_added": 64670,
+            "total_no_of_lines_deleted": 34494
+        },
+        "Ume1931/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 20,
+            "total_commits_count": 2252,
+            "commits_count_within_incubation": 121,
+            "total_no_of_times_files_modified": 582,
+            "total_no_of_lines_added": 63448,
+            "total_no_of_lines_deleted": 32354
+        },
+        "auonhaidar/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 22,
+            "total_commits_count": 2306,
+            "commits_count_within_incubation": 175,
+            "total_no_of_times_files_modified": 773,
+            "total_no_of_lines_added": 73667,
+            "total_no_of_lines_deleted": 49580
+        },
+        "krun2010/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 20,
+            "total_commits_count": 2251,
+            "commits_count_within_incubation": 120,
+            "total_no_of_times_files_modified": 570,
+            "total_no_of_lines_added": 61770,
+            "total_no_of_lines_deleted": 31093
+        },
+        "lifepillar/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 21,
+            "total_commits_count": 2250,
+            "commits_count_within_incubation": 119,
+            "total_no_of_times_files_modified": 569,
+            "total_no_of_lines_added": 61768,
+            "total_no_of_lines_deleted": 31091
+        },
+        "sshyran/incubator-madlib": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 20,
+            "total_commits_count": 2250,
+            "commits_count_within_incubation": 119,
+            "total_no_of_times_files_modified": 569,
+            "total_no_of_lines_added": 61768,
+            "total_no_of_lines_deleted": 31091
+        },
+        "shangshujie365/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 20,
+            "total_commits_count": 2249,
+            "commits_count_within_incubation": 118,
+            "total_no_of_times_files_modified": 567,
+            "total_no_of_lines_added": 61760,
+            "total_no_of_lines_deleted": 31089
+        },
+        "make/incubator-madlib": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 19,
+            "total_commits_count": 2244,
+            "commits_count_within_incubation": 113,
+            "total_no_of_times_files_modified": 590,
+            "total_no_of_lines_added": 63482,
+            "total_no_of_lines_deleted": 32117
+        },
+        "mbrukman/apache-madlib": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 2225,
+            "commits_count_within_incubation": 94,
+            "total_no_of_times_files_modified": 476,
+            "total_no_of_lines_added": 57322,
+            "total_no_of_lines_deleted": 28862
+        },
+        "Komzpa/incubator-madlib": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 19,
+            "total_commits_count": 2223,
+            "commits_count_within_incubation": 92,
+            "total_no_of_times_files_modified": 472,
+            "total_no_of_lines_added": 57265,
+            "total_no_of_lines_deleted": 28807
+        },
+        "ranjanprj/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 2211,
+            "commits_count_within_incubation": 80,
+            "total_no_of_times_files_modified": 421,
+            "total_no_of_lines_added": 54948,
+            "total_no_of_lines_deleted": 26963
+        },
+        "jgzmlmf/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 2211,
+            "commits_count_within_incubation": 80,
+            "total_no_of_times_files_modified": 421,
+            "total_no_of_lines_added": 54948,
+            "total_no_of_lines_deleted": 26963
+        },
+        "BruceZhou2012/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 2211,
+            "commits_count_within_incubation": 80,
+            "total_no_of_times_files_modified": 421,
+            "total_no_of_lines_added": 54948,
+            "total_no_of_lines_deleted": 26963
+        },
+        "zhdk123456/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 2205,
+            "commits_count_within_incubation": 74,
+            "total_no_of_times_files_modified": 403,
+            "total_no_of_lines_added": 52312,
+            "total_no_of_lines_deleted": 26850
+        },
+        "smarthi/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 2205,
+            "commits_count_within_incubation": 74,
+            "total_no_of_times_files_modified": 403,
+            "total_no_of_lines_added": 52312,
+            "total_no_of_lines_deleted": 26850
+        },
+        "srcclrapache1/incubator-madlib": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 19,
+            "total_commits_count": 2205,
+            "commits_count_within_incubation": 74,
+            "total_no_of_times_files_modified": 403,
+            "total_no_of_lines_added": 52312,
+            "total_no_of_lines_deleted": 26850
+        },
+        "danielgustafsson/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 20,
+            "total_commits_count": 2205,
+            "commits_count_within_incubation": 74,
+            "total_no_of_times_files_modified": 403,
+            "total_no_of_lines_added": 52312,
+            "total_no_of_lines_deleted": 26850
+        },
+        "jcassiojr/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 2205,
+            "commits_count_within_incubation": 74,
+            "total_no_of_times_files_modified": 403,
+            "total_no_of_lines_added": 52312,
+            "total_no_of_lines_deleted": 26850
+        },
+        "snaga/incubator-madlib": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 23,
+            "total_commits_count": 2296,
+            "commits_count_within_incubation": 165,
+            "total_no_of_times_files_modified": 743,
+            "total_no_of_lines_added": 72736,
+            "total_no_of_lines_deleted": 49439
+        },
+        "BabakAp/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 2208,
+            "commits_count_within_incubation": 77,
+            "total_no_of_times_files_modified": 406,
+            "total_no_of_lines_added": 53130,
+            "total_no_of_lines_deleted": 26852
+        },
+        "denishpatel/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 2189,
+            "commits_count_within_incubation": 58,
+            "total_no_of_times_files_modified": 298,
+            "total_no_of_lines_added": 40584,
+            "total_no_of_lines_deleted": 9353
+        },
+        "njayaram2/madlib": {
+            "watchers_count": 5,
+            "star_count": 5,
+            "branches_count": 90,
+            "total_commits_count": 2735,
+            "commits_count_within_incubation": 232,
+            "total_no_of_times_files_modified": 969,
+            "total_no_of_lines_added": 84191,
+            "total_no_of_lines_deleted": 53114
+        },
+        "adityanain/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 2172,
+            "commits_count_within_incubation": 41,
+            "total_no_of_times_files_modified": 252,
+            "total_no_of_lines_added": 38053,
+            "total_no_of_lines_deleted": 8466
+        },
+        "rvs/incubator-madlib": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 19,
+            "total_commits_count": 2353,
+            "commits_count_within_incubation": 222,
+            "total_no_of_times_files_modified": 938,
+            "total_no_of_lines_added": 81135,
+            "total_no_of_lines_deleted": 52907
+        },
+        "vatsan/incubator-madlib": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 2182,
+            "commits_count_within_incubation": 51,
+            "total_no_of_times_files_modified": 205,
+            "total_no_of_lines_added": 35275,
+            "total_no_of_lines_deleted": 7764
+        },
+        "letslego/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 2160,
+            "commits_count_within_incubation": 29,
+            "total_no_of_times_files_modified": 181,
+            "total_no_of_lines_added": 34976,
+            "total_no_of_lines_deleted": 7674
+        },
+        "orhankislal/madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 108,
+            "total_commits_count": 2919,
+            "commits_count_within_incubation": 232,
+            "total_no_of_times_files_modified": 969,
+            "total_no_of_lines_added": 84191,
+            "total_no_of_lines_deleted": 53114
+        },
+        "kingofPersia/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 20,
+            "total_commits_count": 2203,
+            "commits_count_within_incubation": 72,
+            "total_no_of_times_files_modified": 528,
+            "total_no_of_lines_added": 69039,
+            "total_no_of_lines_deleted": 45582
+        },
+        "leckie711/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 2157,
+            "commits_count_within_incubation": 26,
+            "total_no_of_times_files_modified": 172,
+            "total_no_of_lines_added": 34757,
+            "total_no_of_lines_deleted": 7460
+        },
+        "fz0101/incubator-madlib": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 19,
+            "total_commits_count": 2149,
+            "commits_count_within_incubation": 18,
+            "total_no_of_times_files_modified": 155,
+            "total_no_of_lines_added": 34092,
+            "total_no_of_lines_deleted": 7075
+        },
+        "dfrsg/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 2148,
+            "commits_count_within_incubation": 17,
+            "total_no_of_times_files_modified": 153,
+            "total_no_of_lines_added": 34043,
+            "total_no_of_lines_deleted": 7027
+        },
+        "ralic/incubator-madlib": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 19,
+            "total_commits_count": 2146,
+            "commits_count_within_incubation": 15,
+            "total_no_of_times_files_modified": 150,
+            "total_no_of_lines_added": 33865,
+            "total_no_of_lines_deleted": 6876
+        },
+        "fmcquillan99/madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 52,
+            "total_commits_count": 2256,
+            "commits_count_within_incubation": 125,
+            "total_no_of_times_files_modified": 602,
+            "total_no_of_lines_added": 64959,
+            "total_no_of_lines_deleted": 34675
+        },
+        "milenkop/madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 2144,
+            "commits_count_within_incubation": 13,
+            "total_no_of_times_files_modified": 140,
+            "total_no_of_lines_added": 32880,
+            "total_no_of_lines_deleted": 6560
+        },
+        "lmatthieu/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 2253,
+            "commits_count_within_incubation": 122,
+            "total_no_of_times_files_modified": 842,
+            "total_no_of_lines_added": 88282,
+            "total_no_of_lines_deleted": 53471
+        },
+        "madlib/madlib": {
+            "watchers_count": 11,
+            "star_count": 11,
+            "branches_count": 161,
+            "total_commits_count": 2806,
+            "commits_count_within_incubation": 232,
+            "total_no_of_times_files_modified": 969,
+            "total_no_of_lines_added": 84191,
+            "total_no_of_lines_deleted": 53114
+        },
+        "mktal/incubator-madlib": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 37,
+            "total_commits_count": 2251,
+            "commits_count_within_incubation": 120,
+            "total_no_of_times_files_modified": 570,
+            "total_no_of_lines_added": 61770,
+            "total_no_of_lines_deleted": 31093
+        },
+        "iyerr3/madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 63,
+            "total_commits_count": 2484,
+            "commits_count_within_incubation": 232,
+            "total_no_of_times_files_modified": 969,
+            "total_no_of_lines_added": 84191,
+            "total_no_of_lines_deleted": 53114
+        },
+        "dambor/incubator-madlib": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 19,
+            "total_commits_count": 2126,
+            "commits_count_within_incubation": 0,
+            "total_no_of_times_files_modified": 0,
+            "total_no_of_lines_added": 0,
+            "total_no_of_lines_deleted": 0
+        },
+        "ysung-pivotal/incubator-madlib": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 2126,
+            "commits_count_within_incubation": 0,
+            "total_no_of_times_files_modified": 0,
+            "total_no_of_lines_added": 0,
+            "total_no_of_lines_deleted": 0
+        },
+        "total_fork_count": 126,
+        "watchers_count": 44,
+        "star_count": 359,
+        "open_issues_count": 0,
+        "size": 20001,
+        "fork_count_within_time": 55
+    },
+    "apache/manifoldcf": {
+        "total_fork_count": 57,
+        "watchers_count": 25,
+        "star_count": 66,
+        "open_issues_count": 13,
+        "size": 163645,
+        "fork_count_within_time": 0
+    },
+    "apache/mesos": {
+        "total_fork_count": 1619,
+        "watchers_count": 394,
+        "star_count": 4808,
+        "open_issues_count": 20,
+        "size": 404191,
+        "fork_count_within_time": 0
+    }
+}

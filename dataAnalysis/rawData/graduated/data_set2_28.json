@@ -1,0 +1,30 @@
+{
+    "apache/clerezza": {
+        "h2000/clerezza": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 3,
+            "total_commits_count": 1469,
+            "commits_count_within_incubation": 1469,
+            "total_no_of_times_files_modified": 0,
+            "total_no_of_lines_added": 845618,
+            "total_no_of_lines_deleted": 138770
+        },
+        "bblfish/clerezza": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 4,
+            "total_commits_count": 2657,
+            "commits_count_within_incubation": 2657,
+            "total_no_of_times_files_modified": 0,
+            "total_no_of_lines_added": 1508381,
+            "total_no_of_lines_deleted": 166616
+        },
+        "total_fork_count": 26,
+        "watchers_count": 16,
+        "star_count": 35,
+        "open_issues_count": 4,
+        "size": 28629,
+        "fork_count_within_time": 2
+    }
+}

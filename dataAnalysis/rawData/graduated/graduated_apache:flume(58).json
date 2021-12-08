@@ -1,0 +1,160 @@
+{
+    "apache/flume": {
+        "deepeshmalviya/flume": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 9,
+            "total_commits_count": 418,
+            "commits_count_within_incubation": 418,
+            "total_no_of_times_files_modified": 3168,
+            "total_no_of_lines_added": 198755,
+            "total_no_of_lines_deleted": 90199
+        },
+        "pkupzj/flume": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 9,
+            "total_commits_count": 418,
+            "commits_count_within_incubation": 418,
+            "total_no_of_times_files_modified": 3168,
+            "total_no_of_lines_added": 198755,
+            "total_no_of_lines_deleted": 90199
+        },
+        "tejinderst/flume": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 9,
+            "total_commits_count": 418,
+            "commits_count_within_incubation": 418,
+            "total_no_of_times_files_modified": 3168,
+            "total_no_of_lines_added": 198755,
+            "total_no_of_lines_deleted": 90199
+        },
+        "joey/flume": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 11,
+            "total_commits_count": 1511,
+            "commits_count_within_incubation": 864,
+            "total_no_of_times_files_modified": 4906,
+            "total_no_of_lines_added": 293398,
+            "total_no_of_lines_deleted": 320776
+        },
+        "bpon/flume": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 9,
+            "total_commits_count": 418,
+            "commits_count_within_incubation": 418,
+            "total_no_of_times_files_modified": 3168,
+            "total_no_of_lines_added": 198755,
+            "total_no_of_lines_deleted": 90199
+        },
+        "gnomix/flume": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 6,
+            "total_commits_count": 695,
+            "commits_count_within_incubation": 695,
+            "total_no_of_times_files_modified": 4207,
+            "total_no_of_lines_added": 230436,
+            "total_no_of_lines_deleted": 202886
+        },
+        "harishreedharan/flume": {
+            "watchers_count": 3,
+            "star_count": 3,
+            "branches_count": 16,
+            "total_commits_count": 1464,
+            "commits_count_within_incubation": 864,
+            "total_no_of_times_files_modified": 4906,
+            "total_no_of_lines_added": 293398,
+            "total_no_of_lines_deleted": 320776
+        },
+        "bakvirus/flume": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 692,
+            "commits_count_within_incubation": 692,
+            "total_no_of_times_files_modified": 4180,
+            "total_no_of_lines_added": 229473,
+            "total_no_of_lines_deleted": 202425
+        },
+        "emsixteeen/flume": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 7,
+            "total_commits_count": 673,
+            "commits_count_within_incubation": 673,
+            "total_no_of_times_files_modified": 4062,
+            "total_no_of_lines_added": 221561,
+            "total_no_of_lines_deleted": 201077
+        },
+        "pmujumdar/flume": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 6,
+            "total_commits_count": 673,
+            "commits_count_within_incubation": 673,
+            "total_no_of_times_files_modified": 4062,
+            "total_no_of_lines_added": 221561,
+            "total_no_of_lines_deleted": 201077
+        },
+        "jwills/flume": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 6,
+            "total_commits_count": 673,
+            "commits_count_within_incubation": 673,
+            "total_no_of_times_files_modified": 4062,
+            "total_no_of_lines_added": 221561,
+            "total_no_of_lines_deleted": 201077
+        },
+        "josecjacob/flume": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 618,
+            "commits_count_within_incubation": 618,
+            "total_no_of_times_files_modified": 3765,
+            "total_no_of_lines_added": 217145,
+            "total_no_of_lines_deleted": 195968
+        },
+        "nhuray/flume": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 582,
+            "commits_count_within_incubation": 582,
+            "total_no_of_times_files_modified": 3617,
+            "total_no_of_lines_added": 211461,
+            "total_no_of_lines_deleted": 93281
+        },
+        "ExactTargetDev/flume": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 405,
+            "commits_count_within_incubation": 405,
+            "total_no_of_times_files_modified": 3133,
+            "total_no_of_lines_added": 197692,
+            "total_no_of_lines_deleted": 90084
+        },
+        "patrickangeles/flume": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 531,
+            "commits_count_within_incubation": 531,
+            "total_no_of_times_files_modified": 3453,
+            "total_no_of_lines_added": 203890,
+            "total_no_of_lines_deleted": 92383
+        },
+        "total_fork_count": 1422,
+        "watchers_count": 223,
+        "star_count": 2186,
+        "open_issues_count": 108,
+        "size": 44453,
+        "fork_count_within_time": 15
+    }
+}

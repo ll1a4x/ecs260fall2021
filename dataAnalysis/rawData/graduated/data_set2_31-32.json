@@ -1,0 +1,18 @@
+{
+    "apache/cordova": {
+        "total_fork_count": 42,
+        "watchers_count": 33,
+        "star_count": 347,
+        "open_issues_count": 58,
+        "size": 33,
+        "fork_count_within_time": 0
+    },
+    "apache/couchdb": {
+        "total_fork_count": 869,
+        "watchers_count": 239,
+        "star_count": 5118,
+        "open_issues_count": 239,
+        "size": 37254,
+        "fork_count_within_time": 0
+    }
+}

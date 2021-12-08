@@ -1,0 +1,924 @@
+{
+    "apache/directory-server": {
+        "total_fork_count": 70,
+        "watchers_count": 24,
+        "star_count": 89,
+        "open_issues_count": 3,
+        "size": 71466,
+        "fork_count_within_time": 0
+    },
+    "apache/ant-easyant-core": {
+        "total_fork_count": 7,
+        "watchers_count": 10,
+        "star_count": 3,
+        "open_issues_count": 0,
+        "size": 23851,
+        "fork_count_within_time": 0
+    },
+    "apache/flex-sdk": {
+        "carlosrovira/flex-sdk": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 4,
+            "total_commits_count": 30375,
+            "commits_count_within_incubation": 30375,
+            "total_no_of_times_files_modified": 34325,
+            "total_no_of_lines_added": 5378422,
+            "total_no_of_lines_deleted": 546941
+        },
+        "JamesBond/flex-sdk": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 30375,
+            "commits_count_within_incubation": 30375,
+            "total_no_of_times_files_modified": 34324,
+            "total_no_of_lines_added": 5378422,
+            "total_no_of_lines_deleted": 546941
+        },
+        "total_fork_count": 143,
+        "watchers_count": 102,
+        "star_count": 324,
+        "open_issues_count": 5,
+        "size": 269011,
+        "fork_count_within_time": 2
+    },
+    "apache/guacamole-server": {
+        "piontas/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2513,
+            "commits_count_within_incubation": 579,
+            "total_no_of_times_files_modified": 2357,
+            "total_no_of_lines_added": 82335,
+            "total_no_of_lines_deleted": 34634
+        },
+        "dellinger-zhang/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2513,
+            "commits_count_within_incubation": 579,
+            "total_no_of_times_files_modified": 2357,
+            "total_no_of_lines_added": 82335,
+            "total_no_of_lines_deleted": 34634
+        },
+        "itsankoff/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 2519,
+            "commits_count_within_incubation": 584,
+            "total_no_of_times_files_modified": 2362,
+            "total_no_of_lines_added": 82369,
+            "total_no_of_lines_deleted": 34641
+        },
+        "hardening/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 2506,
+            "commits_count_within_incubation": 572,
+            "total_no_of_times_files_modified": 2346,
+            "total_no_of_lines_added": 82300,
+            "total_no_of_lines_deleted": 34605
+        },
+        "jukeks/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2978,
+            "commits_count_within_incubation": 595,
+            "total_no_of_times_files_modified": 2384,
+            "total_no_of_lines_added": 82699,
+            "total_no_of_lines_deleted": 34661
+        },
+        "hoaivan/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2506,
+            "commits_count_within_incubation": 572,
+            "total_no_of_times_files_modified": 2346,
+            "total_no_of_lines_added": 82300,
+            "total_no_of_lines_deleted": 34605
+        },
+        "cgvarela/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2506,
+            "commits_count_within_incubation": 572,
+            "total_no_of_times_files_modified": 2346,
+            "total_no_of_lines_added": 82300,
+            "total_no_of_lines_deleted": 34605
+        },
+        "arbrandes/incubator-guacamole-server": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 1,
+            "total_commits_count": 2506,
+            "commits_count_within_incubation": 572,
+            "total_no_of_times_files_modified": 2346,
+            "total_no_of_lines_added": 82300,
+            "total_no_of_lines_deleted": 34605
+        },
+        "sanhex/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2499,
+            "commits_count_within_incubation": 565,
+            "total_no_of_times_files_modified": 2339,
+            "total_no_of_lines_added": 82261,
+            "total_no_of_lines_deleted": 34574
+        },
+        "ashwinrayaprolu/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2495,
+            "commits_count_within_incubation": 561,
+            "total_no_of_times_files_modified": 2331,
+            "total_no_of_lines_added": 82251,
+            "total_no_of_lines_deleted": 34574
+        },
+        "zhlu32/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2480,
+            "commits_count_within_incubation": 546,
+            "total_no_of_times_files_modified": 2274,
+            "total_no_of_lines_added": 78483,
+            "total_no_of_lines_deleted": 34376
+        },
+        "songxiaobao/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 1,
+            "total_commits_count": 2480,
+            "commits_count_within_incubation": 546,
+            "total_no_of_times_files_modified": 2274,
+            "total_no_of_lines_added": 78483,
+            "total_no_of_lines_deleted": 34376
+        },
+        "sksundaram-learning/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 2480,
+            "commits_count_within_incubation": 546,
+            "total_no_of_times_files_modified": 2274,
+            "total_no_of_lines_added": 78483,
+            "total_no_of_lines_deleted": 34376
+        },
+        "Metuchen/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2483,
+            "commits_count_within_incubation": 549,
+            "total_no_of_times_files_modified": 2278,
+            "total_no_of_lines_added": 78527,
+            "total_no_of_lines_deleted": 34384
+        },
+        "achoy/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 2440,
+            "commits_count_within_incubation": 506,
+            "total_no_of_times_files_modified": 2099,
+            "total_no_of_lines_added": 76602,
+            "total_no_of_lines_deleted": 33458
+        },
+        "lonjoy/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 2439,
+            "commits_count_within_incubation": 505,
+            "total_no_of_times_files_modified": 2098,
+            "total_no_of_lines_added": 76571,
+            "total_no_of_lines_deleted": 33458
+        },
+        "tangyiyong/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2439,
+            "commits_count_within_incubation": 505,
+            "total_no_of_times_files_modified": 2098,
+            "total_no_of_lines_added": 76571,
+            "total_no_of_lines_deleted": 33458
+        },
+        "zhaoshiling1017/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 1,
+            "total_commits_count": 2430,
+            "commits_count_within_incubation": 496,
+            "total_no_of_times_files_modified": 2067,
+            "total_no_of_lines_added": 76476,
+            "total_no_of_lines_deleted": 33417
+        },
+        "TrueAbility/incubator-guacamole-server": {
+            "watchers_count": 4,
+            "star_count": 4,
+            "branches_count": 1,
+            "total_commits_count": 2431,
+            "commits_count_within_incubation": 497,
+            "total_no_of_times_files_modified": 2069,
+            "total_no_of_lines_added": 76640,
+            "total_no_of_lines_deleted": 33417
+        },
+        "jiafenggit/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2428,
+            "commits_count_within_incubation": 494,
+            "total_no_of_times_files_modified": 2065,
+            "total_no_of_lines_added": 76472,
+            "total_no_of_lines_deleted": 33413
+        },
+        "FastLaneGmbH/guacamole-server": {
+            "watchers_count": 5,
+            "star_count": 5,
+            "branches_count": 1,
+            "total_commits_count": 3419,
+            "commits_count_within_incubation": 595,
+            "total_no_of_times_files_modified": 2384,
+            "total_no_of_lines_added": 82699,
+            "total_no_of_lines_deleted": 34661
+        },
+        "wuwx/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 1,
+            "total_commits_count": 2407,
+            "commits_count_within_incubation": 473,
+            "total_no_of_times_files_modified": 2011,
+            "total_no_of_lines_added": 74324,
+            "total_no_of_lines_deleted": 32920
+        },
+        "lyming531/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 1,
+            "total_commits_count": 2405,
+            "commits_count_within_incubation": 471,
+            "total_no_of_times_files_modified": 2009,
+            "total_no_of_lines_added": 74322,
+            "total_no_of_lines_deleted": 32920
+        },
+        "mirohe/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2397,
+            "commits_count_within_incubation": 463,
+            "total_no_of_times_files_modified": 1985,
+            "total_no_of_lines_added": 74238,
+            "total_no_of_lines_deleted": 32902
+        },
+        "duzhanyuan/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2389,
+            "commits_count_within_incubation": 455,
+            "total_no_of_times_files_modified": 1977,
+            "total_no_of_lines_added": 73980,
+            "total_no_of_lines_deleted": 32875
+        },
+        "aircross/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2389,
+            "commits_count_within_incubation": 455,
+            "total_no_of_times_files_modified": 1977,
+            "total_no_of_lines_added": 73980,
+            "total_no_of_lines_deleted": 32875
+        },
+        "gamlerhart/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 4,
+            "total_commits_count": 2506,
+            "commits_count_within_incubation": 572,
+            "total_no_of_times_files_modified": 2346,
+            "total_no_of_lines_added": 82300,
+            "total_no_of_lines_deleted": 34605
+        },
+        "lukasraska/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 3372,
+            "commits_count_within_incubation": 595,
+            "total_no_of_times_files_modified": 2384,
+            "total_no_of_lines_added": 82699,
+            "total_no_of_lines_deleted": 34661
+        },
+        "evil7/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 2346,
+            "commits_count_within_incubation": 412,
+            "total_no_of_times_files_modified": 1744,
+            "total_no_of_lines_added": 72161,
+            "total_no_of_lines_deleted": 31975
+        },
+        "leegilon/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2346,
+            "commits_count_within_incubation": 412,
+            "total_no_of_times_files_modified": 1744,
+            "total_no_of_lines_added": 72161,
+            "total_no_of_lines_deleted": 31975
+        },
+        "jackxueman/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2330,
+            "commits_count_within_incubation": 396,
+            "total_no_of_times_files_modified": 1690,
+            "total_no_of_lines_added": 68703,
+            "total_no_of_lines_deleted": 30721
+        },
+        "lowkey3636/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2415,
+            "commits_count_within_incubation": 481,
+            "total_no_of_times_files_modified": 1806,
+            "total_no_of_lines_added": 68989,
+            "total_no_of_lines_deleted": 30931
+        },
+        "PureQsh/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2330,
+            "commits_count_within_incubation": 396,
+            "total_no_of_times_files_modified": 1691,
+            "total_no_of_lines_added": 68703,
+            "total_no_of_lines_deleted": 30721
+        },
+        "necouchman/guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 45,
+            "total_commits_count": 3412,
+            "commits_count_within_incubation": 595,
+            "total_no_of_times_files_modified": 2384,
+            "total_no_of_lines_added": 82699,
+            "total_no_of_lines_deleted": 34661
+        },
+        "mickletang/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2294,
+            "commits_count_within_incubation": 360,
+            "total_no_of_times_files_modified": 1629,
+            "total_no_of_lines_added": 66978,
+            "total_no_of_lines_deleted": 30004
+        },
+        "ikthap/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 2273,
+            "commits_count_within_incubation": 339,
+            "total_no_of_times_files_modified": 1358,
+            "total_no_of_lines_added": 63354,
+            "total_no_of_lines_deleted": 26742
+        },
+        "leebing/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2270,
+            "commits_count_within_incubation": 336,
+            "total_no_of_times_files_modified": 1355,
+            "total_no_of_lines_added": 63336,
+            "total_no_of_lines_deleted": 26736
+        },
+        "Robin-73/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 2274,
+            "commits_count_within_incubation": 340,
+            "total_no_of_times_files_modified": 1342,
+            "total_no_of_lines_added": 63396,
+            "total_no_of_lines_deleted": 26738
+        },
+        "zhangshun2014/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2266,
+            "commits_count_within_incubation": 332,
+            "total_no_of_times_files_modified": 1334,
+            "total_no_of_lines_added": 63315,
+            "total_no_of_lines_deleted": 26715
+        },
+        "z0x010/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2266,
+            "commits_count_within_incubation": 332,
+            "total_no_of_times_files_modified": 1334,
+            "total_no_of_lines_added": 63315,
+            "total_no_of_lines_deleted": 26715
+        },
+        "davidmr001/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2266,
+            "commits_count_within_incubation": 332,
+            "total_no_of_times_files_modified": 1334,
+            "total_no_of_lines_added": 63315,
+            "total_no_of_lines_deleted": 26715
+        },
+        "goofusuper/incubator-guacamole-server": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 2266,
+            "commits_count_within_incubation": 332,
+            "total_no_of_times_files_modified": 1334,
+            "total_no_of_lines_added": 63315,
+            "total_no_of_lines_deleted": 26715
+        },
+        "2008-bj5/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2266,
+            "commits_count_within_incubation": 332,
+            "total_no_of_times_files_modified": 1332,
+            "total_no_of_lines_added": 63315,
+            "total_no_of_lines_deleted": 26715
+        },
+        "583/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 2266,
+            "commits_count_within_incubation": 332,
+            "total_no_of_times_files_modified": 1334,
+            "total_no_of_lines_added": 63315,
+            "total_no_of_lines_deleted": 26715
+        },
+        "42elements/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 2266,
+            "commits_count_within_incubation": 332,
+            "total_no_of_times_files_modified": 1334,
+            "total_no_of_lines_added": 63315,
+            "total_no_of_lines_deleted": 26715
+        },
+        "nopslide/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2259,
+            "commits_count_within_incubation": 325,
+            "total_no_of_times_files_modified": 1326,
+            "total_no_of_lines_added": 63108,
+            "total_no_of_lines_deleted": 26691
+        },
+        "efrecon/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2259,
+            "commits_count_within_incubation": 325,
+            "total_no_of_times_files_modified": 1326,
+            "total_no_of_lines_added": 63108,
+            "total_no_of_lines_deleted": 26691
+        },
+        "v2cloud/guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 1,
+            "total_commits_count": 3347,
+            "commits_count_within_incubation": 595,
+            "total_no_of_times_files_modified": 2384,
+            "total_no_of_lines_added": 82699,
+            "total_no_of_lines_deleted": 34661
+        },
+        "devrando/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2259,
+            "commits_count_within_incubation": 325,
+            "total_no_of_times_files_modified": 1326,
+            "total_no_of_lines_added": 63108,
+            "total_no_of_lines_deleted": 26691
+        },
+        "chen369/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2516,
+            "commits_count_within_incubation": 582,
+            "total_no_of_times_files_modified": 2606,
+            "total_no_of_lines_added": 90578,
+            "total_no_of_lines_deleted": 37640
+        },
+        "krisgermann/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 1,
+            "total_commits_count": 2241,
+            "commits_count_within_incubation": 307,
+            "total_no_of_times_files_modified": 1286,
+            "total_no_of_lines_added": 62666,
+            "total_no_of_lines_deleted": 26451
+        },
+        "h2zzhou/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2239,
+            "commits_count_within_incubation": 305,
+            "total_no_of_times_files_modified": 1283,
+            "total_no_of_lines_added": 62658,
+            "total_no_of_lines_deleted": 26451
+        },
+        "uibkops/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 1,
+            "total_commits_count": 2397,
+            "commits_count_within_incubation": 463,
+            "total_no_of_times_files_modified": 1985,
+            "total_no_of_lines_added": 74238,
+            "total_no_of_lines_deleted": 32902
+        },
+        "badboy3000/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2239,
+            "commits_count_within_incubation": 305,
+            "total_no_of_times_files_modified": 1284,
+            "total_no_of_lines_added": 62658,
+            "total_no_of_lines_deleted": 26451
+        },
+        "awesome-security/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 1,
+            "total_commits_count": 2237,
+            "commits_count_within_incubation": 303,
+            "total_no_of_times_files_modified": 1282,
+            "total_no_of_lines_added": 62650,
+            "total_no_of_lines_deleted": 26443
+        },
+        "nagyistge/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2237,
+            "commits_count_within_incubation": 303,
+            "total_no_of_times_files_modified": 1282,
+            "total_no_of_lines_added": 62650,
+            "total_no_of_lines_deleted": 26443
+        },
+        "soediro/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2237,
+            "commits_count_within_incubation": 303,
+            "total_no_of_times_files_modified": 1282,
+            "total_no_of_lines_added": 62650,
+            "total_no_of_lines_deleted": 26443
+        },
+        "marcianobarros20/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2234,
+            "commits_count_within_incubation": 300,
+            "total_no_of_times_files_modified": 1279,
+            "total_no_of_lines_added": 62633,
+            "total_no_of_lines_deleted": 26426
+        },
+        "jkji/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2231,
+            "commits_count_within_incubation": 297,
+            "total_no_of_times_files_modified": 1275,
+            "total_no_of_lines_added": 62620,
+            "total_no_of_lines_deleted": 26419
+        },
+        "Atumsoft/incubator-guacamole-server": {
+            "watchers_count": 3,
+            "star_count": 3,
+            "branches_count": 1,
+            "total_commits_count": 2230,
+            "commits_count_within_incubation": 296,
+            "total_no_of_times_files_modified": 1275,
+            "total_no_of_lines_added": 62613,
+            "total_no_of_lines_deleted": 26418
+        },
+        "bradparks/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 1,
+            "total_commits_count": 2230,
+            "commits_count_within_incubation": 296,
+            "total_no_of_times_files_modified": 1275,
+            "total_no_of_lines_added": 62613,
+            "total_no_of_lines_deleted": 26418
+        },
+        "whuzqlzq/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2230,
+            "commits_count_within_incubation": 296,
+            "total_no_of_times_files_modified": 1275,
+            "total_no_of_lines_added": 62613,
+            "total_no_of_lines_deleted": 26418
+        },
+        "pombredanne/incubator-guacamole-server": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 1,
+            "total_commits_count": 2224,
+            "commits_count_within_incubation": 290,
+            "total_no_of_times_files_modified": 1249,
+            "total_no_of_lines_added": 62324,
+            "total_no_of_lines_deleted": 26257
+        },
+        "return1010/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2224,
+            "commits_count_within_incubation": 290,
+            "total_no_of_times_files_modified": 1249,
+            "total_no_of_lines_added": 62324,
+            "total_no_of_lines_deleted": 26257
+        },
+        "paulrajgithub/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2224,
+            "commits_count_within_incubation": 290,
+            "total_no_of_times_files_modified": 1249,
+            "total_no_of_lines_added": 62324,
+            "total_no_of_lines_deleted": 26257
+        },
+        "Marcnuth/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 2217,
+            "commits_count_within_incubation": 283,
+            "total_no_of_times_files_modified": 1222,
+            "total_no_of_lines_added": 61015,
+            "total_no_of_lines_deleted": 25728
+        },
+        "Matrix42AG/incubator-guacamole-server": {
+            "watchers_count": 17,
+            "star_count": 17,
+            "branches_count": 1,
+            "total_commits_count": 2217,
+            "commits_count_within_incubation": 283,
+            "total_no_of_times_files_modified": 1222,
+            "total_no_of_lines_added": 61015,
+            "total_no_of_lines_deleted": 25728
+        },
+        "vaginessa/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2213,
+            "commits_count_within_incubation": 279,
+            "total_no_of_times_files_modified": 1198,
+            "total_no_of_lines_added": 60638,
+            "total_no_of_lines_deleted": 25609
+        },
+        "saadhoucem/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2213,
+            "commits_count_within_incubation": 279,
+            "total_no_of_times_files_modified": 1198,
+            "total_no_of_lines_added": 60638,
+            "total_no_of_lines_deleted": 25609
+        },
+        "xiaominghu/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 1,
+            "total_commits_count": 2216,
+            "commits_count_within_incubation": 282,
+            "total_no_of_times_files_modified": 1206,
+            "total_no_of_lines_added": 61557,
+            "total_no_of_lines_deleted": 25609
+        },
+        "samuelzuuka/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2213,
+            "commits_count_within_incubation": 279,
+            "total_no_of_times_files_modified": 1198,
+            "total_no_of_lines_added": 60638,
+            "total_no_of_lines_deleted": 25609
+        },
+        "atom134/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 1,
+            "total_commits_count": 2209,
+            "commits_count_within_incubation": 275,
+            "total_no_of_times_files_modified": 1177,
+            "total_no_of_lines_added": 60292,
+            "total_no_of_lines_deleted": 25457
+        },
+        "dekoration/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2181,
+            "commits_count_within_incubation": 247,
+            "total_no_of_times_files_modified": 1094,
+            "total_no_of_lines_added": 55195,
+            "total_no_of_lines_deleted": 25166
+        },
+        "FaisalAl-Tameemi/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2181,
+            "commits_count_within_incubation": 247,
+            "total_no_of_times_files_modified": 1094,
+            "total_no_of_lines_added": 55195,
+            "total_no_of_lines_deleted": 25166
+        },
+        "jy4618272/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2181,
+            "commits_count_within_incubation": 247,
+            "total_no_of_times_files_modified": 1094,
+            "total_no_of_lines_added": 55195,
+            "total_no_of_lines_deleted": 25166
+        },
+        "gvsurenderreddy/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2181,
+            "commits_count_within_incubation": 247,
+            "total_no_of_times_files_modified": 1094,
+            "total_no_of_lines_added": 55195,
+            "total_no_of_lines_deleted": 25166
+        },
+        "Hatsize/incubator-guacamole-server": {
+            "watchers_count": 4,
+            "star_count": 4,
+            "branches_count": 3,
+            "total_commits_count": 2439,
+            "commits_count_within_incubation": 505,
+            "total_no_of_times_files_modified": 2098,
+            "total_no_of_lines_added": 76571,
+            "total_no_of_lines_deleted": 33458
+        },
+        "northwolf521/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2171,
+            "commits_count_within_incubation": 237,
+            "total_no_of_times_files_modified": 1062,
+            "total_no_of_lines_added": 54914,
+            "total_no_of_lines_deleted": 25151
+        },
+        "mrmichalis/incubator-guacamole-server": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 1,
+            "total_commits_count": 2171,
+            "commits_count_within_incubation": 237,
+            "total_no_of_times_files_modified": 1047,
+            "total_no_of_lines_added": 54914,
+            "total_no_of_lines_deleted": 25151
+        },
+        "neuroradiology/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 1,
+            "total_commits_count": 2171,
+            "commits_count_within_incubation": 237,
+            "total_no_of_times_files_modified": 1062,
+            "total_no_of_lines_added": 54914,
+            "total_no_of_lines_deleted": 25151
+        },
+        "ollie314/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2237,
+            "commits_count_within_incubation": 303,
+            "total_no_of_times_files_modified": 1339,
+            "total_no_of_lines_added": 66478,
+            "total_no_of_lines_deleted": 26858
+        },
+        "srcclrapache1/incubator-guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 1,
+            "total_commits_count": 2167,
+            "commits_count_within_incubation": 233,
+            "total_no_of_times_files_modified": 1050,
+            "total_no_of_lines_added": 54502,
+            "total_no_of_lines_deleted": 25093
+        },
+        "flangelo/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 2583,
+            "commits_count_within_incubation": 595,
+            "total_no_of_times_files_modified": 2384,
+            "total_no_of_lines_added": 82699,
+            "total_no_of_lines_deleted": 34661
+        },
+        "glyptodon/incubator-guacamole-server": {
+            "watchers_count": 3,
+            "star_count": 3,
+            "branches_count": 3,
+            "total_commits_count": 2211,
+            "commits_count_within_incubation": 277,
+            "total_no_of_times_files_modified": 1194,
+            "total_no_of_lines_added": 60344,
+            "total_no_of_lines_deleted": 25497
+        },
+        "lelou6666/incubator-guacamole-server": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 2157,
+            "commits_count_within_incubation": 223,
+            "total_no_of_times_files_modified": 1007,
+            "total_no_of_lines_added": 48842,
+            "total_no_of_lines_deleted": 18728
+        },
+        "jmuehlner/guacamole-server": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 3,
+            "total_commits_count": 3117,
+            "commits_count_within_incubation": 595,
+            "total_no_of_times_files_modified": 2384,
+            "total_no_of_lines_added": 82699,
+            "total_no_of_lines_deleted": 34661
+        },
+        "mike-jumper/guacamole-server": {
+            "watchers_count": 4,
+            "star_count": 4,
+            "branches_count": 40,
+            "total_commits_count": 3425,
+            "commits_count_within_incubation": 595,
+            "total_no_of_times_files_modified": 2384,
+            "total_no_of_lines_added": 82699,
+            "total_no_of_lines_deleted": 34661
+        },
+        "total_fork_count": 400,
+        "watchers_count": 118,
+        "star_count": 1869,
+        "open_issues_count": 19,
+        "size": 7696,
+        "fork_count_within_time": 87
+    }
+}

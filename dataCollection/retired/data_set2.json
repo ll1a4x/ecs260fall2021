@@ -1,0 +1,32 @@
+{
+    "apache/kalumet": {
+        "snowwolph/kalumet": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 170,
+            "commits_count_within_incubation": 168,
+            "total_no_of_times_files_modified": 1160,
+            "total_no_of_lines_added": 136033,
+            "total_no_of_lines_deleted": 56104
+        },
+        "mikevan/kalumet": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 156,
+            "commits_count_within_incubation": 154,
+            "total_no_of_times_files_modified": 1069,
+            "total_no_of_lines_added": 134422,
+            "total_no_of_lines_deleted": 55936
+        },
+        "total_fork_count": 6,
+        "watchers_count": 6,
+        "star_count": 6,
+        "open_issues_count": 0,
+        "size": 6799,
+        "fork_count_within_time": 2
+    },
+    "apache/incubator-retired-mrql": {},
+    "apache/incubator-myriad": {}
+}

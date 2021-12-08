@@ -1,0 +1,144 @@
+{
+    "apache/oodt": {
+        "total_fork_count": 59,
+        "watchers_count": 21,
+        "star_count": 55,
+        "open_issues_count": 3,
+        "size": 341216,
+        "fork_count_within_time": 0
+    },
+    "apache/oozie": {
+        "ksumit/oozie": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 12,
+            "total_commits_count": 681,
+            "commits_count_within_incubation": 681,
+            "total_no_of_times_files_modified": 4325,
+            "total_no_of_lines_added": 244153,
+            "total_no_of_lines_deleted": 81350
+        },
+        "griddynamics/oozie": {
+            "watchers_count": 8,
+            "star_count": 8,
+            "branches_count": 19,
+            "total_commits_count": 1301,
+            "commits_count_within_incubation": 704,
+            "total_no_of_times_files_modified": 4593,
+            "total_no_of_lines_added": 257833,
+            "total_no_of_lines_deleted": 83096
+        },
+        "QwertyManiac/apache-oozie": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 627,
+            "commits_count_within_incubation": 627,
+            "total_no_of_times_files_modified": 3994,
+            "total_no_of_lines_added": 235441,
+            "total_no_of_lines_deleted": 78485
+        },
+        "VertiPub/oozie": {
+            "watchers_count": 31,
+            "star_count": 31,
+            "branches_count": 25,
+            "total_commits_count": 1079,
+            "commits_count_within_incubation": 704,
+            "total_no_of_times_files_modified": 4593,
+            "total_no_of_lines_added": 257833,
+            "total_no_of_lines_deleted": 83096
+        },
+        "youngwookim/oozie": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 12,
+            "total_commits_count": 554,
+            "commits_count_within_incubation": 554,
+            "total_no_of_times_files_modified": 3615,
+            "total_no_of_lines_added": 228622,
+            "total_no_of_lines_deleted": 76570
+        },
+        "lucidimagination/oozie": {
+            "watchers_count": 41,
+            "star_count": 41,
+            "branches_count": 12,
+            "total_commits_count": 559,
+            "commits_count_within_incubation": 558,
+            "total_no_of_times_files_modified": 3615,
+            "total_no_of_lines_added": 228799,
+            "total_no_of_lines_deleted": 76565
+        },
+        "fharenheit/oozie": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 10,
+            "total_commits_count": 503,
+            "commits_count_within_incubation": 503,
+            "total_no_of_times_files_modified": 3314,
+            "total_no_of_lines_added": 226275,
+            "total_no_of_lines_deleted": 74629
+        },
+        "brankyshao/oozie": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 10,
+            "total_commits_count": 472,
+            "commits_count_within_incubation": 472,
+            "total_no_of_times_files_modified": 2969,
+            "total_no_of_lines_added": 222574,
+            "total_no_of_lines_deleted": 63006
+        },
+        "bakvirus/oozie": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 10,
+            "total_commits_count": 467,
+            "commits_count_within_incubation": 467,
+            "total_no_of_times_files_modified": 2932,
+            "total_no_of_lines_added": 222061,
+            "total_no_of_lines_deleted": 62578
+        },
+        "angeloh/apache-oozie": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 6,
+            "total_commits_count": 374,
+            "commits_count_within_incubation": 374,
+            "total_no_of_times_files_modified": 2347,
+            "total_no_of_lines_added": 202701,
+            "total_no_of_lines_deleted": 58744
+        },
+        "virag/oozie-1": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 6,
+            "total_commits_count": 374,
+            "commits_count_within_incubation": 374,
+            "total_no_of_times_files_modified": 2347,
+            "total_no_of_lines_added": 202701,
+            "total_no_of_lines_deleted": 58744
+        },
+        "total_fork_count": 427,
+        "watchers_count": 82,
+        "star_count": 624,
+        "open_issues_count": 34,
+        "size": 31354,
+        "fork_count_within_time": 11
+    },
+    "apache/openejb": {
+        "total_fork_count": 27,
+        "watchers_count": 11,
+        "star_count": 10,
+        "open_issues_count": 0,
+        "size": 118294,
+        "fork_count_within_time": 0
+    },
+    "apache/openjpa": {
+        "total_fork_count": 97,
+        "watchers_count": 27,
+        "star_count": 95,
+        "open_issues_count": 12,
+        "size": 37449,
+        "fork_count_within_time": 0
+    }
+}

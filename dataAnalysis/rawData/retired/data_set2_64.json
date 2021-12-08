@@ -1,0 +1,30 @@
+{
+    "apache/incubator-retired-provisionr": {
+        "andreisavu/incubator-provisionr": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 4,
+            "total_commits_count": 349,
+            "commits_count_within_incubation": 22,
+            "total_no_of_times_files_modified": 799,
+            "total_no_of_lines_added": 6009,
+            "total_no_of_lines_deleted": 3951
+        },
+        "rahul0208/incubator-provisionr": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 343,
+            "commits_count_within_incubation": 16,
+            "total_no_of_times_files_modified": 780,
+            "total_no_of_lines_added": 5843,
+            "total_no_of_lines_deleted": 3911
+        },
+        "total_fork_count": 8,
+        "watchers_count": 8,
+        "star_count": 5,
+        "open_issues_count": 0,
+        "size": 2410,
+        "fork_count_within_time": 2
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "apache/httpd": {
+        "total_fork_count": 903,
+        "watchers_count": 251,
+        "star_count": 2845,
+        "open_issues_count": 37,
+        "size": 335586,
+        "fork_count_within_time": 0
+    },
+    "apache/ant-ivy": {
+        "total_fork_count": 94,
+        "watchers_count": 18,
+        "star_count": 51,
+        "open_issues_count": 11,
+        "size": 12197,
+        "fork_count_within_time": 0
+    },
+    "apache/db-jdo": {
+        "total_fork_count": 5,
+        "watchers_count": 11,
+        "star_count": 7,
+        "open_issues_count": 2,
+        "size": 106116,
+        "fork_count_within_time": 0
+    }
+}

@@ -1,0 +1,430 @@
+{
+    "apache/daffodil": {
+        "susmita-m145/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 3407,
+            "commits_count_within_incubation": 464,
+            "total_no_of_times_files_modified": 5559,
+            "total_no_of_lines_added": 505006,
+            "total_no_of_lines_deleted": 1525298
+        },
+        "rthomas320/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 3394,
+            "commits_count_within_incubation": 455,
+            "total_no_of_times_files_modified": 5519,
+            "total_no_of_lines_added": 504405,
+            "total_no_of_lines_deleted": 1524779
+        },
+        "regetom/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 3393,
+            "commits_count_within_incubation": 454,
+            "total_no_of_times_files_modified": 5518,
+            "total_no_of_lines_added": 504401,
+            "total_no_of_lines_deleted": 1524777
+        },
+        "hdalsania/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 3380,
+            "commits_count_within_incubation": 441,
+            "total_no_of_times_files_modified": 5430,
+            "total_no_of_lines_added": 501310,
+            "total_no_of_lines_deleted": 1524141
+        },
+        "isabella232/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 3369,
+            "commits_count_within_incubation": 430,
+            "total_no_of_times_files_modified": 5294,
+            "total_no_of_lines_added": 492758,
+            "total_no_of_lines_deleted": 1523618
+        },
+        "chlin501/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 3,
+            "total_commits_count": 3359,
+            "commits_count_within_incubation": 420,
+            "total_no_of_times_files_modified": 5215,
+            "total_no_of_lines_added": 489347,
+            "total_no_of_lines_deleted": 1522524
+        },
+        "ctc-oss/incubator-daffodil": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 3370,
+            "commits_count_within_incubation": 431,
+            "total_no_of_times_files_modified": 5327,
+            "total_no_of_lines_added": 493965,
+            "total_no_of_lines_deleted": 1523774
+        },
+        "IanCarlsonOwl/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 7,
+            "total_commits_count": 3339,
+            "commits_count_within_incubation": 400,
+            "total_no_of_times_files_modified": 5092,
+            "total_no_of_lines_added": 485369,
+            "total_no_of_lines_deleted": 1520490
+        },
+        "rsteinberger/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 11,
+            "total_commits_count": 3344,
+            "commits_count_within_incubation": 405,
+            "total_no_of_times_files_modified": 5147,
+            "total_no_of_lines_added": 487655,
+            "total_no_of_lines_deleted": 1521102
+        },
+        "andrewjc2000/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 1,
+            "total_commits_count": 3322,
+            "commits_count_within_incubation": 383,
+            "total_no_of_times_files_modified": 4999,
+            "total_no_of_lines_added": 482173,
+            "total_no_of_lines_deleted": 1519399
+        },
+        "jw3/daffodil": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 15,
+            "total_commits_count": 3361,
+            "commits_count_within_incubation": 422,
+            "total_no_of_times_files_modified": 5218,
+            "total_no_of_lines_added": 489387,
+            "total_no_of_lines_deleted": 1522534
+        },
+        "sramaka/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 3,
+            "total_commits_count": 3369,
+            "commits_count_within_incubation": 430,
+            "total_no_of_times_files_modified": 5294,
+            "total_no_of_lines_added": 492758,
+            "total_no_of_lines_deleted": 1523618
+        },
+        "tuxji/daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 3572,
+            "commits_count_within_incubation": 462,
+            "total_no_of_times_files_modified": 5558,
+            "total_no_of_lines_added": 504968,
+            "total_no_of_lines_deleted": 1525324
+        },
+        "kuba72ch/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 3271,
+            "commits_count_within_incubation": 332,
+            "total_no_of_times_files_modified": 4262,
+            "total_no_of_lines_added": 467223,
+            "total_no_of_lines_deleted": 1480254
+        },
+        "gezapeti/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 4,
+            "total_commits_count": 3256,
+            "commits_count_within_incubation": 317,
+            "total_no_of_times_files_modified": 4061,
+            "total_no_of_lines_added": 463413,
+            "total_no_of_lines_deleted": 1475997
+        },
+        "ssullivan/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 1,
+            "total_commits_count": 3249,
+            "commits_count_within_incubation": 310,
+            "total_no_of_times_files_modified": 3979,
+            "total_no_of_lines_added": 462011,
+            "total_no_of_lines_deleted": 1475447
+        },
+        "adeutschmannIBM/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 1,
+            "total_commits_count": 3225,
+            "commits_count_within_incubation": 286,
+            "total_no_of_times_files_modified": 3657,
+            "total_no_of_lines_added": 453258,
+            "total_no_of_lines_deleted": 1471097
+        },
+        "dd-guo/incubator-daffodil": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 3221,
+            "commits_count_within_incubation": 282,
+            "total_no_of_times_files_modified": 3549,
+            "total_no_of_lines_added": 448864,
+            "total_no_of_lines_deleted": 1469118
+        },
+        "conceptslearningmachine-FEIN-85-1759293/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 1,
+            "total_commits_count": 3208,
+            "commits_count_within_incubation": 269,
+            "total_no_of_times_files_modified": 3370,
+            "total_no_of_lines_added": 438875,
+            "total_no_of_lines_deleted": 1464264
+        },
+        "dineshchitlangia/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 1,
+            "total_commits_count": 3197,
+            "commits_count_within_incubation": 258,
+            "total_no_of_times_files_modified": 3315,
+            "total_no_of_lines_added": 436655,
+            "total_no_of_lines_deleted": 1462742
+        },
+        "JulianFeinauer/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 3197,
+            "commits_count_within_incubation": 258,
+            "total_no_of_times_files_modified": 3315,
+            "total_no_of_lines_added": 436655,
+            "total_no_of_lines_deleted": 1462742
+        },
+        "olabusayoT/daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 7,
+            "total_commits_count": 3447,
+            "commits_count_within_incubation": 462,
+            "total_no_of_times_files_modified": 5547,
+            "total_no_of_lines_added": 504968,
+            "total_no_of_lines_deleted": 1525324
+        },
+        "victoria-petite/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 1,
+            "total_commits_count": 3160,
+            "commits_count_within_incubation": 221,
+            "total_no_of_times_files_modified": 2936,
+            "total_no_of_lines_added": 427453,
+            "total_no_of_lines_deleted": 1459869
+        },
+        "DalavanCloud/incubator-daffodil": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 3132,
+            "commits_count_within_incubation": 193,
+            "total_no_of_times_files_modified": 2494,
+            "total_no_of_lines_added": 148848,
+            "total_no_of_lines_deleted": 167931
+        },
+        "steeleprice/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 1,
+            "total_commits_count": 3129,
+            "commits_count_within_incubation": 190,
+            "total_no_of_times_files_modified": 2415,
+            "total_no_of_lines_added": 146432,
+            "total_no_of_lines_deleted": 163523
+        },
+        "jeremysolt/incubator-daffodil": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 3128,
+            "commits_count_within_incubation": 189,
+            "total_no_of_times_files_modified": 2407,
+            "total_no_of_lines_added": 146306,
+            "total_no_of_lines_deleted": 163493
+        },
+        "EdKeith/incubator-daffodil": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 3103,
+            "commits_count_within_incubation": 164,
+            "total_no_of_times_files_modified": 2332,
+            "total_no_of_lines_added": 144926,
+            "total_no_of_lines_deleted": 163111
+        },
+        "ltapilot/incubator-daffodil": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 4,
+            "total_commits_count": 3099,
+            "commits_count_within_incubation": 160,
+            "total_no_of_times_files_modified": 2284,
+            "total_no_of_lines_added": 144163,
+            "total_no_of_lines_deleted": 162444
+        },
+        "bsloane1650/incubator-daffodil": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 15,
+            "total_commits_count": 3193,
+            "commits_count_within_incubation": 254,
+            "total_no_of_times_files_modified": 3264,
+            "total_no_of_lines_added": 434756,
+            "total_no_of_lines_deleted": 1462660
+        },
+        "gdesrosi/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 3094,
+            "commits_count_within_incubation": 155,
+            "total_no_of_times_files_modified": 2249,
+            "total_no_of_lines_added": 143408,
+            "total_no_of_lines_deleted": 162168
+        },
+        "pgrandjean/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 1,
+            "total_commits_count": 3080,
+            "commits_count_within_incubation": 141,
+            "total_no_of_times_files_modified": 2106,
+            "total_no_of_lines_added": 136961,
+            "total_no_of_lines_deleted": 160708
+        },
+        "dameikle/incubator-daffodil": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 3074,
+            "commits_count_within_incubation": 135,
+            "total_no_of_times_files_modified": 2075,
+            "total_no_of_lines_added": 130720,
+            "total_no_of_lines_deleted": 154191
+        },
+        "hardikgw/incubator-daffodil": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 1,
+            "total_commits_count": 3055,
+            "commits_count_within_incubation": 116,
+            "total_no_of_times_files_modified": 1967,
+            "total_no_of_lines_added": 129662,
+            "total_no_of_lines_deleted": 153583
+        },
+        "rmw42/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 3011,
+            "commits_count_within_incubation": 72,
+            "total_no_of_times_files_modified": 1307,
+            "total_no_of_lines_added": 111214,
+            "total_no_of_lines_deleted": 142456
+        },
+        "marshalljmiller/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 3,
+            "total_commits_count": 3011,
+            "commits_count_within_incubation": 72,
+            "total_no_of_times_files_modified": 1307,
+            "total_no_of_lines_added": 111214,
+            "total_no_of_lines_deleted": 142456
+        },
+        "efinnegan/incubator-daffodil": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 3003,
+            "commits_count_within_incubation": 64,
+            "total_no_of_times_files_modified": 1229,
+            "total_no_of_lines_added": 106118,
+            "total_no_of_lines_deleted": 140988
+        },
+        "dfthompson/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 3003,
+            "commits_count_within_incubation": 64,
+            "total_no_of_times_files_modified": 1229,
+            "total_no_of_lines_added": 106118,
+            "total_no_of_lines_deleted": 140988
+        },
+        "VTGuy/incubator-daffodil": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 2,
+            "total_commits_count": 2998,
+            "commits_count_within_incubation": 59,
+            "total_no_of_times_files_modified": 1171,
+            "total_no_of_lines_added": 105361,
+            "total_no_of_lines_deleted": 139884
+        },
+        "jadams-tresys/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 29,
+            "total_commits_count": 2955,
+            "commits_count_within_incubation": 16,
+            "total_no_of_times_files_modified": 241,
+            "total_no_of_lines_added": 6970,
+            "total_no_of_lines_deleted": 6926
+        },
+        "dave2wave/incubator-daffodil": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 10,
+            "total_commits_count": 2949,
+            "commits_count_within_incubation": 10,
+            "total_no_of_times_files_modified": 205,
+            "total_no_of_lines_added": 4356,
+            "total_no_of_lines_deleted": 3714
+        },
+        "mbeckerle/daffodil": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 8,
+            "total_commits_count": 3483,
+            "commits_count_within_incubation": 462,
+            "total_no_of_times_files_modified": 5558,
+            "total_no_of_lines_added": 504968,
+            "total_no_of_lines_deleted": 1525324
+        },
+        "stevedlawrence/daffodil": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 3531,
+            "commits_count_within_incubation": 462,
+            "total_no_of_times_files_modified": 5558,
+            "total_no_of_lines_added": 504968,
+            "total_no_of_lines_deleted": 1525324
+        },
+        "total_fork_count": 52,
+        "watchers_count": 18,
+        "star_count": 60,
+        "open_issues_count": 12,
+        "size": 175937,
+        "fork_count_within_time": 42
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "apache/incubator-retired-pirk": {
+        "aakashysharma/incubator-pirk": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 5,
+            "total_commits_count": 170,
+            "commits_count_within_incubation": 170,
+            "total_no_of_times_files_modified": 772,
+            "total_no_of_lines_added": 240041,
+            "total_no_of_lines_deleted": 118810
+        },
+        "DarinJ/incubator-pirk": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 7,
+            "total_commits_count": 165,
+            "commits_count_within_incubation": 165,
+            "total_no_of_times_files_modified": 735,
+            "total_no_of_lines_added": 236951,
+            "total_no_of_lines_deleted": 114453
+        },
+        "jryancarr/incubator-pirk": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 5,
+            "total_commits_count": 153,
+            "commits_count_within_incubation": 153,
+            "total_no_of_times_files_modified": 683,
+            "total_no_of_lines_added": 211716,
+            "total_no_of_lines_deleted": 99063
+        },
+        "fnet123/incubator-pirk": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 4,
+            "total_commits_count": 153,
+            "commits_count_within_incubation": 153,
+            "total_no_of_times_files_modified": 683,
+            "total_no_of_lines_added": 211716,
+            "total_no_of_lines_deleted": 99063
+        },
+        "cEngineGit/incubator-pirk": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 4,
+            "total_commits_count": 153,
+            "commits_count_within_incubation": 153,
+            "total_no_of_times_files_modified": 683,
+            "total_no_of_lines_added": 211716,
+            "total_no_of_lines_deleted": 99063
+        },
+        "nirajdatainfra/incubator-pirk": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 4,
+            "total_commits_count": 125,
+            "commits_count_within_incubation": 125,
+            "total_no_of_times_files_modified": 485,
+            "total_no_of_lines_added": 192280,
+            "total_no_of_lines_deleted": 93184
+        },
+        "smarthi/incubator-pirk": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 3,
+            "total_commits_count": 180,
+            "commits_count_within_incubation": 180,
+            "total_no_of_times_files_modified": 848,
+            "total_no_of_lines_added": 245446,
+            "total_no_of_lines_deleted": 120636
+        },
+        "jkovba/incubator-pirk": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 4,
+            "total_commits_count": 50,
+            "commits_count_within_incubation": 50,
+            "total_no_of_times_files_modified": 221,
+            "total_no_of_lines_added": 178586,
+            "total_no_of_lines_deleted": 86415
+        },
+        "kleopatra999/incubator-pirk": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 3,
+            "total_commits_count": 39,
+            "commits_count_within_incubation": 39,
+            "total_no_of_times_files_modified": 203,
+            "total_no_of_lines_added": 172370,
+            "total_no_of_lines_deleted": 83115
+        },
+        "stash-test-org/incubator-pirk": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 3,
+            "total_commits_count": 27,
+            "commits_count_within_incubation": 27,
+            "total_no_of_times_files_modified": 35,
+            "total_no_of_lines_added": 164682,
+            "total_no_of_lines_deleted": 78790
+        },
+        "tellison/incubator-pirk": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 22,
+            "total_commits_count": 178,
+            "commits_count_within_incubation": 178,
+            "total_no_of_times_files_modified": 846,
+            "total_no_of_lines_added": 245441,
+            "total_no_of_lines_deleted": 120622
+        },
+        "wraydulany/incubator-pirk": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 13,
+            "total_commits_count": 174,
+            "commits_count_within_incubation": 174,
+            "total_no_of_times_files_modified": 805,
+            "total_no_of_lines_added": 244440,
+            "total_no_of_lines_deleted": 120003
+        },
+        "jacobwil/incubator-pirk": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 9,
+            "total_commits_count": 179,
+            "commits_count_within_incubation": 179,
+            "total_no_of_times_files_modified": 847,
+            "total_no_of_lines_added": 245443,
+            "total_no_of_lines_deleted": 120635
+        },
+        "ellisonanne/incubator-pirk": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 10,
+            "total_commits_count": 195,
+            "commits_count_within_incubation": 195,
+            "total_no_of_times_files_modified": 1069,
+            "total_no_of_lines_added": 305559,
+            "total_no_of_lines_deleted": 147541
+        },
+        "clharris/incubator-pirk": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 5,
+            "total_commits_count": 116,
+            "commits_count_within_incubation": 116,
+            "total_no_of_times_files_modified": 421,
+            "total_no_of_lines_added": 192088,
+            "total_no_of_lines_deleted": 92912
+        },
+        "total_fork_count": 25,
+        "watchers_count": 19,
+        "star_count": 58,
+        "open_issues_count": 4,
+        "size": 439565,
+        "fork_count_within_time": 15
+    }
+}

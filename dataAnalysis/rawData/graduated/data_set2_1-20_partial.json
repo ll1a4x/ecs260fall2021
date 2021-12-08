@@ -1,0 +1,169 @@
+{"apache/accumulo": {
+        "jatrost/accumulo": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 7,
+            "total_commits_count": 609,
+            "commits_count_within_incubation": 609,
+            "total_no_of_times_files_modified": 8194,
+            "total_no_of_lines_added": 606038,
+            "total_no_of_lines_deleted": 287778
+        },
+        "tlpinney/accumulo": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 8,
+            "total_commits_count": 560,
+            "commits_count_within_incubation": 560,
+            "total_no_of_times_files_modified": 7901,
+            "total_no_of_lines_added": 599908,
+            "total_no_of_lines_deleted": 286420
+        },
+        "ambleside/accumulo": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 7,
+            "total_commits_count": 278,
+            "commits_count_within_incubation": 278,
+            "total_no_of_times_files_modified": 6412,
+            "total_no_of_lines_added": 563128,
+            "total_no_of_lines_deleted": 254921
+        },
+        "codemonkey86/accumulo": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 56,
+            "commits_count_within_incubation": 56,
+            "total_no_of_times_files_modified": 4772,
+            "total_no_of_lines_added": 523371,
+            "total_no_of_lines_deleted": 217052
+        },
+        "orenfalkowitz/accumulo": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 56,
+            "commits_count_within_incubation": 56,
+            "total_no_of_times_files_modified": 4772,
+            "total_no_of_lines_added": 523371,
+            "total_no_of_lines_deleted": 217052
+        },
+        "total_fork_count": 376,
+        "watchers_count": 90,
+        "star_count": 892,
+        "open_issues_count": 169,
+        "size": 81495,
+        "fork_count_within_time": 5
+    },
+  "apache/activemq": {
+        "total_fork_count": 1276,
+        "watchers_count": 199,
+        "star_count": 1955,
+        "open_issues_count": 40,
+        "size": 57779,
+        "fork_count_within_time": 0
+    },
+  "apache/airavata": {
+        "total_fork_count": 110,
+        "watchers_count": 32,
+        "star_count": 77,
+        "open_issues_count": 43,
+        "size": 91318,
+        "fork_count_within_time": 0
+    },
+  "apache/allura": {
+        "total_fork_count": 27,
+        "watchers_count": 14,
+        "star_count": 94,
+        "open_issues_count": 0,
+        "size": 40914,
+        "fork_count_within_time": 0
+    },
+  "apache/any23": {
+        "ansell/any23": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 26,
+            "total_commits_count": 1535,
+            "commits_count_within_incubation": 421,
+            "total_no_of_times_files_modified": 3169,
+            "total_no_of_lines_added": 45047,
+            "total_no_of_lines_deleted": 23706
+        },
+        "total_fork_count": 53,
+        "watchers_count": 22,
+        "star_count": 79,
+        "open_issues_count": 3,
+        "size": 39849,
+        "fork_count_within_time": 1
+    },
+  "apache/aries": {
+    "seijoed/aries": {
+      "watchers_count": 1,
+      "star_count": 1,
+      "branches_count": 4,
+      "total_commits_count": 1431,
+      "commits_count_within_incubation": 1431,
+      "total_no_of_times_files_modified": 0,
+      "total_no_of_lines_added": 295813,
+      "total_no_of_lines_deleted": 101069
+    },
+    "gnodet/aries": {
+      "watchers_count": 2,
+      "star_count": 2,
+      "branches_count": 24,
+      "total_commits_count": 4660,
+      "commits_count_within_incubation": 1623,
+      "total_no_of_times_files_modified": 0,
+      "total_no_of_lines_added": 326336,
+      "total_no_of_lines_deleted": 105998
+    },
+    "total_fork_count": 148,
+    "watchers_count": 39,
+    "star_count": 96,
+    "open_issues_count": 10,
+    "size": 67620,
+    "fork_count_within_time": 2
+  },
+  "apache/atlas": {
+        "total_fork_count": 586,
+        "watchers_count": 64,
+        "star_count": 1041,
+        "open_issues_count": 52,
+        "size": 62654,
+        "fork_count_within_time": 0
+    },
+  "apache/bigtop": {
+        "total_fork_count": 340,
+        "watchers_count": 52,
+        "star_count": 389,
+        "open_issues_count": 176,
+        "size": 46413,
+        "fork_count_within_time": 0
+    },
+  "apache/bloodhound": {
+        "total_fork_count": 33,
+        "watchers_count": 27,
+        "star_count": 141,
+        "open_issues_count": 0,
+        "size": 13022,
+        "fork_count_within_time": 0
+    },
+  "apache/brooklyn": {
+        "total_fork_count": 63,
+        "watchers_count": 14,
+        "star_count": 121,
+        "open_issues_count": 4,
+        "size": 770,
+        "fork_count_within_time": 0
+    },
+  "apache/buildr": {
+        "total_fork_count": 68,
+        "watchers_count": 10,
+        "star_count": 144,
+        "open_issues_count": 2,
+        "size": 9326,
+        "fork_count_within_time": 0
+    }
+}

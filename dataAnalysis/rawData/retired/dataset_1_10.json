@@ -1,0 +1,386 @@
+{    
+ "apache/ode": {
+    "total_fork_count": 57,
+    "watchers_count": 15,
+    "star_count": 43,
+    "open_issues_count": 2,
+    "size": 21659,
+    "fork_count_within_time": 0
+    },
+ "apache/incubator-retired-amaterasu": {
+    "total_fork_count": 26,
+    "watchers_count": 14,
+    "star_count": 57,
+    "open_issues_count": 4,
+    "size": 4663,
+    "fork_count_within_time": 0
+    },
+ "apache/incubator-ariatosca": {
+    "sriram1103/incubator-ariatosca": {
+        "watchers_count": 1,
+        "star_count": 1,
+        "branches_count": 5,
+        "total_commits_count": 189,
+        "commits_count_within_incubation": 189,
+        "total_no_of_times_files_modified": 2910,
+        "total_no_of_lines_added": 112823,
+        "total_no_of_lines_deleted": 39540
+    },
+    "vnigam1985/tosca": {
+        "watchers_count": 0,
+        "star_count": 0,
+        "branches_count": 5,
+        "total_commits_count": 189,
+        "commits_count_within_incubation": 189,
+        "total_no_of_times_files_modified": 2910,
+        "total_no_of_lines_added": 112823,
+        "total_no_of_lines_deleted": 39540
+    },
+    "mazycool/incubator-ariatosca": {
+        "watchers_count": 1,
+        "star_count": 1,
+        "branches_count": 5,
+        "total_commits_count": 189,
+        "commits_count_within_incubation": 189,
+        "total_no_of_times_files_modified": 2910,
+        "total_no_of_lines_added": 112823,
+        "total_no_of_lines_deleted": 39540
+    },
+    "ezvenkn/incubator-ariatosca": {
+        "watchers_count": 0,
+        "star_count": 0,
+        "branches_count": 5,
+        "total_commits_count": 189,
+        "commits_count_within_incubation": 189,
+        "total_no_of_times_files_modified": 2910,
+        "total_no_of_lines_added": 112823,
+        "total_no_of_lines_deleted": 39540
+    },
+    "skarthikux/incubator-ariatosca": {
+        "watchers_count": 0,
+        "star_count": 0,
+        "branches_count": 5,
+        "total_commits_count": 189,
+        "commits_count_within_incubation": 189,
+        "total_no_of_times_files_modified": 2910,
+        "total_no_of_lines_added": 112823,
+        "total_no_of_lines_deleted": 39540
+    },
+    "rekha-mani/incubator-ariatosca": {
+        "watchers_count": 0,
+        "star_count": 0,
+        "branches_count": 5,
+        "total_commits_count": 189,
+        "commits_count_within_incubation": 189,
+        "total_no_of_times_files_modified": 2910,
+        "total_no_of_lines_added": 112823,
+        "total_no_of_lines_deleted": 39540
+    },
+    "vaishalikrish1/incubator-ariatosca": {
+        "watchers_count": 0,
+        "star_count": 0,
+        "branches_count": 5,
+        "total_commits_count": 189,
+        "commits_count_within_incubation": 189,
+        "total_no_of_times_files_modified": 2910,
+        "total_no_of_lines_added": 112823,
+        "total_no_of_lines_deleted": 39540
+    },
+    "cherrared/incubator-ariatosca": {
+        "watchers_count": 0,
+        "star_count": 0,
+        "branches_count": 5,
+        "total_commits_count": 187,
+        "commits_count_within_incubation": 187,
+        "total_no_of_times_files_modified": 2800,
+        "total_no_of_lines_added": 109863,
+        "total_no_of_lines_deleted": 39534
+    },
+    "tnadeau/incubator-ariatosca": {
+        "watchers_count": 1,
+        "star_count": 1,
+        "branches_count": 5,
+        "total_commits_count": 185,
+        "commits_count_within_incubation": 185,
+        "total_no_of_times_files_modified": 2790,
+        "total_no_of_lines_added": 109753,
+        "total_no_of_lines_deleted": 39524
+    },
+    "jachinte/incubator-ariatosca": {
+        "watchers_count": 0,
+        "star_count": 0,
+        "branches_count": 5,
+        "total_commits_count": 178,
+        "commits_count_within_incubation": 178,
+        "total_no_of_times_files_modified": 2750,
+        "total_no_of_lines_added": 107773,
+        "total_no_of_lines_deleted": 39434
+    },
+    "VenkatesanVenugopal/incubator-ariatosca": {
+        "watchers_count": 0,
+        "star_count": 0,
+        "branches_count": 5,
+        "total_commits_count": 180,
+        "commits_count_within_incubation": 180,
+        "total_no_of_times_files_modified": 2811,
+        "total_no_of_lines_added": 109508,
+        "total_no_of_lines_deleted": 39475
+    },
+    "vishwanathj/incubator-ariatosca": {
+        "watchers_count": 1,
+        "star_count": 1,
+        "branches_count": 5,
+        "total_commits_count": 178,
+        "commits_count_within_incubation": 178,
+        "total_no_of_times_files_modified": 2750,
+        "total_no_of_lines_added": 107773,
+        "total_no_of_lines_deleted": 39434
+    },
+    "tnadeauaria/incubator-ariatosca": {
+        "watchers_count": 0,
+        "star_count": 0,
+        "branches_count": 5,
+        "total_commits_count": 176,
+        "commits_count_within_incubation": 176,
+        "total_no_of_times_files_modified": 2748,
+        "total_no_of_lines_added": 107771,
+        "total_no_of_lines_deleted": 39418
+    },
+    "haibor/incubator-ariatosca": {
+        "watchers_count": 2,
+        "star_count": 2,
+        "branches_count": 5,
+        "total_commits_count": 176,
+        "commits_count_within_incubation": 176,
+        "total_no_of_times_files_modified": 2748,
+        "total_no_of_lines_added": 107771,
+        "total_no_of_lines_deleted": 39418
+    },
+    "tanus82/incubator-ariatosca": {
+        "watchers_count": 0,
+        "star_count": 0,
+        "branches_count": 7,
+        "total_commits_count": 176,
+        "commits_count_within_incubation": 176,
+        "total_no_of_times_files_modified": 2748,
+        "total_no_of_lines_added": 107771,
+        "total_no_of_lines_deleted": 39418
+    },
+    "cloudify-cosmo/incubator-ariatosca": {
+        "watchers_count": 12,
+        "star_count": 12,
+        "branches_count": 9,
+        "total_commits_count": 179,
+        "commits_count_within_incubation": 179,
+        "total_no_of_times_files_modified": 2754,
+        "total_no_of_lines_added": 107819,
+        "total_no_of_lines_deleted": 39423
+    },
+    "jcollado/incubator-ariatosca": {
+        "watchers_count": 2,
+        "star_count": 2,
+        "branches_count": 8,
+        "total_commits_count": 176,
+        "commits_count_within_incubation": 176,
+        "total_no_of_times_files_modified": 2748,
+        "total_no_of_lines_added": 107771,
+        "total_no_of_lines_deleted": 39418
+    },
+    "dusking/incubator-ariatosca": {
+        "watchers_count": 1,
+        "star_count": 1,
+        "branches_count": 9,
+        "total_commits_count": 174,
+        "commits_count_within_incubation": 174,
+        "total_no_of_times_files_modified": 2745,
+        "total_no_of_lines_added": 107714,
+        "total_no_of_lines_deleted": 39415
+    },
+    "djay87/incubator-ariatosca": {
+        "watchers_count": 0,
+        "star_count": 0,
+        "branches_count": 7,
+        "total_commits_count": 177,
+        "commits_count_within_incubation": 177,
+        "total_no_of_times_files_modified": 2806,
+        "total_no_of_lines_added": 109250,
+        "total_no_of_lines_deleted": 39424
+    },
+    "dfilppi/incubator-ariatosca": {
+        "watchers_count": 1,
+        "star_count": 1,
+        "branches_count": 8,
+        "total_commits_count": 184,
+        "commits_count_within_incubation": 184,
+        "total_no_of_times_files_modified": 2776,
+        "total_no_of_lines_added": 108801,
+        "total_no_of_lines_deleted": 39524
+    },
+    "idob-cloudify/incubator-ariatosca": {
+        "watchers_count": 0,
+        "star_count": 0,
+        "branches_count": 6,
+        "total_commits_count": 170,
+        "commits_count_within_incubation": 170,
+        "total_no_of_times_files_modified": 2516,
+        "total_no_of_lines_added": 95724,
+        "total_no_of_lines_deleted": 38021
+    },
+    "duyamin/incubator-ariatosca": {
+        "watchers_count": 1,
+        "star_count": 1,
+        "branches_count": 7,
+        "total_commits_count": 169,
+        "commits_count_within_incubation": 169,
+        "total_no_of_times_files_modified": 2499,
+        "total_no_of_lines_added": 95338,
+        "total_no_of_lines_deleted": 37027
+    },
+    "esnedro/incubator-ariatosca": {
+        "watchers_count": 1,
+        "star_count": 1,
+        "branches_count": 4,
+        "total_commits_count": 163,
+        "commits_count_within_incubation": 163,
+        "total_no_of_times_files_modified": 2469,
+        "total_no_of_lines_added": 95173,
+        "total_no_of_lines_deleted": 36844
+    },
+    "moecao/incubator-ariatosca": {
+        "watchers_count": 1,
+        "star_count": 1,
+        "branches_count": 3,
+        "total_commits_count": 160,
+        "commits_count_within_incubation": 160,
+        "total_no_of_times_files_modified": 2394,
+        "total_no_of_lines_added": 92191,
+        "total_no_of_lines_deleted": 36639
+    },
+    "Yasara123/incubator-ariatosca": {
+        "watchers_count": 1,
+        "star_count": 1,
+        "branches_count": 4,
+        "total_commits_count": 159,
+        "commits_count_within_incubation": 159,
+        "total_no_of_times_files_modified": 2390,
+        "total_no_of_lines_added": 92075,
+        "total_no_of_lines_deleted": 36562
+    },
+    "Drumalee15/incubator-ariatosca": {
+        "watchers_count": 0,
+        "star_count": 0,
+        "branches_count": 2,
+        "total_commits_count": 158,
+        "commits_count_within_incubation": 158,
+        "total_no_of_times_files_modified": 2389,
+        "total_no_of_lines_added": 92071,
+        "total_no_of_lines_deleted": 36558
+    },
+    "aunghtay/incubator-ariatosca": {
+        "watchers_count": 1,
+        "star_count": 1,
+        "branches_count": 2,
+        "total_commits_count": 162,
+        "commits_count_within_incubation": 162,
+        "total_no_of_times_files_modified": 2467,
+        "total_no_of_lines_added": 95170,
+        "total_no_of_lines_deleted": 36842
+    },
+    "smarthi/incubator-ariatosca": {
+        "watchers_count": 1,
+        "star_count": 1,
+        "branches_count": 7,
+        "total_commits_count": 143,
+        "commits_count_within_incubation": 143,
+        "total_no_of_times_files_modified": 2224,
+        "total_no_of_lines_added": 87913,
+        "total_no_of_lines_deleted": 33715
+    },
+    "djay8887/incubator-ariatosca": {
+        "watchers_count": 0,
+        "star_count": 0,
+        "branches_count": 10,
+        "total_commits_count": 117,
+        "commits_count_within_incubation": 117,
+        "total_no_of_times_files_modified": 1843,
+        "total_no_of_lines_added": 78421,
+        "total_no_of_lines_deleted": 28395
+    },
+    "chanagershom/incubator-ariatosca": {
+        "watchers_count": 0,
+        "star_count": 0,
+        "branches_count": 13,
+        "total_commits_count": 119,
+        "commits_count_within_incubation": 119,
+        "total_no_of_times_files_modified": 1851,
+        "total_no_of_lines_added": 78499,
+        "total_no_of_lines_deleted": 28423
+    },
+    "azbarcea/incubator-ariatosca": {
+        "watchers_count": 1,
+        "star_count": 1,
+        "branches_count": 12,
+        "total_commits_count": 106,
+        "commits_count_within_incubation": 106,
+        "total_no_of_times_files_modified": 1689,
+        "total_no_of_lines_added": 75583,
+        "total_no_of_lines_deleted": 26119
+    },
+    "krallistic/incubator-ariatosca": {
+        "watchers_count": 1,
+        "star_count": 1,
+        "branches_count": 10,
+        "total_commits_count": 105,
+        "commits_count_within_incubation": 105,
+        "total_no_of_times_files_modified": 1684,
+        "total_no_of_lines_added": 75574,
+        "total_no_of_lines_deleted": 26112
+    },
+    "r-dai/incubator-ariatosca": {
+        "watchers_count": 1,
+        "star_count": 1,
+        "branches_count": 16,
+        "total_commits_count": 82,
+        "commits_count_within_incubation": 82,
+        "total_no_of_times_files_modified": 1501,
+        "total_no_of_lines_added": 72082,
+        "total_no_of_lines_deleted": 24380
+    },
+    "rtpro/incubator-ariatosca": {
+        "watchers_count": 2,
+        "star_count": 2,
+        "branches_count": 17,
+        "total_commits_count": 47,
+        "commits_count_within_incubation": 47,
+        "total_no_of_times_files_modified": 841,
+        "total_no_of_lines_added": 45812,
+        "total_no_of_lines_deleted": 8268
+    },
+    "tliron/incubator-ariatosca": {
+        "watchers_count": 1,
+        "star_count": 1,
+        "branches_count": 14,
+        "total_commits_count": 162,
+        "commits_count_within_incubation": 162,
+        "total_no_of_times_files_modified": 2467,
+        "total_no_of_lines_added": 95170,
+        "total_no_of_lines_deleted": 36842
+    },
+    "shiv4nsh/incubator-ariatosca": {
+        "watchers_count": 0,
+        "star_count": 0,
+        "branches_count": 7,
+        "total_commits_count": 14,
+        "commits_count_within_incubation": 14,
+        "total_no_of_times_files_modified": 126,
+        "total_no_of_lines_added": 11883,
+        "total_no_of_lines_deleted": 4232
+    },
+    "total_fork_count": 46,
+    "watchers_count": 13,
+    "star_count": 29,
+    "open_issues_count": 1,
+    "size": 1745,
+    "fork_count_within_time": 36
+  }
+}

@@ -1,0 +1,1670 @@
+{
+    "apache/dolphinscheduler": {
+        "NeverLanded/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4729,
+            "commits_count_within_incubation": 483,
+            "total_no_of_times_files_modified": 5770,
+            "total_no_of_lines_added": 229409,
+            "total_no_of_lines_deleted": 146745
+        },
+        "home123wx/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4729,
+            "commits_count_within_incubation": 483,
+            "total_no_of_times_files_modified": 5770,
+            "total_no_of_lines_added": 229409,
+            "total_no_of_lines_deleted": 146745
+        },
+        "ldm0213/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4728,
+            "commits_count_within_incubation": 482,
+            "total_no_of_times_files_modified": 5762,
+            "total_no_of_lines_added": 229184,
+            "total_no_of_lines_deleted": 146612
+        },
+        "pickonefish/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4727,
+            "commits_count_within_incubation": 481,
+            "total_no_of_times_files_modified": 5752,
+            "total_no_of_lines_added": 229168,
+            "total_no_of_lines_deleted": 146593
+        },
+        "wa-ooo/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4721,
+            "commits_count_within_incubation": 475,
+            "total_no_of_times_files_modified": 5692,
+            "total_no_of_lines_added": 228672,
+            "total_no_of_lines_deleted": 146374
+        },
+        "yanllearnn/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4717,
+            "commits_count_within_incubation": 471,
+            "total_no_of_times_files_modified": 5674,
+            "total_no_of_lines_added": 228277,
+            "total_no_of_lines_deleted": 146168
+        },
+        "michaelli916/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4717,
+            "commits_count_within_incubation": 471,
+            "total_no_of_times_files_modified": 5674,
+            "total_no_of_lines_added": 228277,
+            "total_no_of_lines_deleted": 146168
+        },
+        "haydenzhourepo/dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4810,
+            "commits_count_within_incubation": 484,
+            "total_no_of_times_files_modified": 5771,
+            "total_no_of_lines_added": 229410,
+            "total_no_of_lines_deleted": 146745
+        },
+        "baocaiwang/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4702,
+            "commits_count_within_incubation": 456,
+            "total_no_of_times_files_modified": 5584,
+            "total_no_of_lines_added": 227741,
+            "total_no_of_lines_deleted": 145572
+        },
+        "RimonLee/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4702,
+            "commits_count_within_incubation": 456,
+            "total_no_of_times_files_modified": 5584,
+            "total_no_of_lines_added": 227741,
+            "total_no_of_lines_deleted": 145572
+        },
+        "xuquanfa/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4702,
+            "commits_count_within_incubation": 456,
+            "total_no_of_times_files_modified": 5584,
+            "total_no_of_lines_added": 227741,
+            "total_no_of_lines_deleted": 145572
+        },
+        "tomzhang/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4700,
+            "commits_count_within_incubation": 454,
+            "total_no_of_times_files_modified": 5567,
+            "total_no_of_lines_added": 227429,
+            "total_no_of_lines_deleted": 145214
+        },
+        "eonie/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4699,
+            "commits_count_within_incubation": 453,
+            "total_no_of_times_files_modified": 5566,
+            "total_no_of_lines_added": 227428,
+            "total_no_of_lines_deleted": 145213
+        },
+        "gitriver/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 5014,
+            "commits_count_within_incubation": 582,
+            "total_no_of_times_files_modified": 7591,
+            "total_no_of_lines_added": 286125,
+            "total_no_of_lines_deleted": 176345
+        },
+        "chenxinya/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4698,
+            "commits_count_within_incubation": 452,
+            "total_no_of_times_files_modified": 5564,
+            "total_no_of_lines_added": 227418,
+            "total_no_of_lines_deleted": 145198
+        },
+        "czlan91/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4695,
+            "commits_count_within_incubation": 449,
+            "total_no_of_times_files_modified": 5540,
+            "total_no_of_lines_added": 227341,
+            "total_no_of_lines_deleted": 145119
+        },
+        "kuyusea/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4694,
+            "commits_count_within_incubation": 448,
+            "total_no_of_times_files_modified": 5538,
+            "total_no_of_lines_added": 227338,
+            "total_no_of_lines_deleted": 145116
+        },
+        "wangame/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4694,
+            "commits_count_within_incubation": 448,
+            "total_no_of_times_files_modified": 5538,
+            "total_no_of_lines_added": 227338,
+            "total_no_of_lines_deleted": 145116
+        },
+        "ZzzCrazyPig/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4681,
+            "commits_count_within_incubation": 435,
+            "total_no_of_times_files_modified": 5478,
+            "total_no_of_lines_added": 226436,
+            "total_no_of_lines_deleted": 144318
+        },
+        "JySongWithZhangCe/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 15,
+            "total_commits_count": 4679,
+            "commits_count_within_incubation": 433,
+            "total_no_of_times_files_modified": 5471,
+            "total_no_of_lines_added": 226038,
+            "total_no_of_lines_deleted": 144188
+        },
+        "szs122/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4674,
+            "commits_count_within_incubation": 428,
+            "total_no_of_times_files_modified": 5447,
+            "total_no_of_lines_added": 225414,
+            "total_no_of_lines_deleted": 143964
+        },
+        "charlierui/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4673,
+            "commits_count_within_incubation": 427,
+            "total_no_of_times_files_modified": 5444,
+            "total_no_of_lines_added": 225395,
+            "total_no_of_lines_deleted": 143946
+        },
+        "luckqk/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4673,
+            "commits_count_within_incubation": 427,
+            "total_no_of_times_files_modified": 5444,
+            "total_no_of_lines_added": 225395,
+            "total_no_of_lines_deleted": 143946
+        },
+        "CimonBoy/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4672,
+            "commits_count_within_incubation": 426,
+            "total_no_of_times_files_modified": 5439,
+            "total_no_of_lines_added": 225347,
+            "total_no_of_lines_deleted": 143911
+        },
+        "lglyoung/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4672,
+            "commits_count_within_incubation": 426,
+            "total_no_of_times_files_modified": 5439,
+            "total_no_of_lines_added": 225347,
+            "total_no_of_lines_deleted": 143911
+        },
+        "zhoucj-zone/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4672,
+            "commits_count_within_incubation": 426,
+            "total_no_of_times_files_modified": 5439,
+            "total_no_of_lines_added": 225347,
+            "total_no_of_lines_deleted": 143911
+        },
+        "neozhao98/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4672,
+            "commits_count_within_incubation": 426,
+            "total_no_of_times_files_modified": 5439,
+            "total_no_of_lines_added": 225347,
+            "total_no_of_lines_deleted": 143911
+        },
+        "nuaa/incubator-dolphinscheduler": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 14,
+            "total_commits_count": 4597,
+            "commits_count_within_incubation": 351,
+            "total_no_of_times_files_modified": 4804,
+            "total_no_of_lines_added": 175769,
+            "total_no_of_lines_deleted": 121376
+        },
+        "jbampton/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 16,
+            "total_commits_count": 4659,
+            "commits_count_within_incubation": 413,
+            "total_no_of_times_files_modified": 5404,
+            "total_no_of_lines_added": 224091,
+            "total_no_of_lines_deleted": 143687
+        },
+        "Kejian-Li/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4597,
+            "commits_count_within_incubation": 351,
+            "total_no_of_times_files_modified": 4804,
+            "total_no_of_lines_added": 175769,
+            "total_no_of_lines_deleted": 121376
+        },
+        "alphabet5/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4597,
+            "commits_count_within_incubation": 351,
+            "total_no_of_times_files_modified": 4804,
+            "total_no_of_lines_added": 175769,
+            "total_no_of_lines_deleted": 121376
+        },
+        "linbaicome/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4596,
+            "commits_count_within_incubation": 350,
+            "total_no_of_times_files_modified": 4803,
+            "total_no_of_lines_added": 175767,
+            "total_no_of_lines_deleted": 121376
+        },
+        "not-today/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4594,
+            "commits_count_within_incubation": 348,
+            "total_no_of_times_files_modified": 4793,
+            "total_no_of_lines_added": 175756,
+            "total_no_of_lines_deleted": 121365
+        },
+        "duhongbo123/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4594,
+            "commits_count_within_incubation": 348,
+            "total_no_of_times_files_modified": 4793,
+            "total_no_of_lines_added": 175756,
+            "total_no_of_lines_deleted": 121365
+        },
+        "ppboyhai/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4594,
+            "commits_count_within_incubation": 348,
+            "total_no_of_times_files_modified": 4789,
+            "total_no_of_lines_added": 175756,
+            "total_no_of_lines_deleted": 121365
+        },
+        "diaojuan/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4592,
+            "commits_count_within_incubation": 346,
+            "total_no_of_times_files_modified": 4727,
+            "total_no_of_lines_added": 170423,
+            "total_no_of_lines_deleted": 120666
+        },
+        "hoorf/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 5074,
+            "commits_count_within_incubation": 581,
+            "total_no_of_times_files_modified": 7590,
+            "total_no_of_lines_added": 286109,
+            "total_no_of_lines_deleted": 176335
+        },
+        "jianle/incubator-dolphinscheduler": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 14,
+            "total_commits_count": 4546,
+            "commits_count_within_incubation": 300,
+            "total_no_of_times_files_modified": 4672,
+            "total_no_of_lines_added": 153923,
+            "total_no_of_lines_deleted": 109817
+        },
+        "long2chen/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4515,
+            "commits_count_within_incubation": 269,
+            "total_no_of_times_files_modified": 3765,
+            "total_no_of_lines_added": 123013,
+            "total_no_of_lines_deleted": 91735
+        },
+        "chetaofeng/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4515,
+            "commits_count_within_incubation": 269,
+            "total_no_of_times_files_modified": 3765,
+            "total_no_of_lines_added": 123013,
+            "total_no_of_lines_deleted": 91735
+        },
+        "felixzh2020/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4514,
+            "commits_count_within_incubation": 268,
+            "total_no_of_times_files_modified": 3763,
+            "total_no_of_lines_added": 123002,
+            "total_no_of_lines_deleted": 91721
+        },
+        "liu280790081/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4514,
+            "commits_count_within_incubation": 268,
+            "total_no_of_times_files_modified": 3763,
+            "total_no_of_lines_added": 123002,
+            "total_no_of_lines_deleted": 91721
+        },
+        "wangdazhong001/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 15,
+            "total_commits_count": 4511,
+            "commits_count_within_incubation": 265,
+            "total_no_of_times_files_modified": 3759,
+            "total_no_of_lines_added": 122973,
+            "total_no_of_lines_deleted": 91693
+        },
+        "hailin0/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 15,
+            "total_commits_count": 4511,
+            "commits_count_within_incubation": 265,
+            "total_no_of_times_files_modified": 3759,
+            "total_no_of_lines_added": 122973,
+            "total_no_of_lines_deleted": 91693
+        },
+        "daxiaCC/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4492,
+            "commits_count_within_incubation": 246,
+            "total_no_of_times_files_modified": 3309,
+            "total_no_of_lines_added": 110619,
+            "total_no_of_lines_deleted": 83458
+        },
+        "123monkey/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4491,
+            "commits_count_within_incubation": 245,
+            "total_no_of_times_files_modified": 3283,
+            "total_no_of_lines_added": 110450,
+            "total_no_of_lines_deleted": 83263
+        },
+        "suyujun/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4479,
+            "commits_count_within_incubation": 233,
+            "total_no_of_times_files_modified": 2954,
+            "total_no_of_lines_added": 99347,
+            "total_no_of_lines_deleted": 75585
+        },
+        "gecong-jun/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4480,
+            "commits_count_within_incubation": 234,
+            "total_no_of_times_files_modified": 3203,
+            "total_no_of_lines_added": 134257,
+            "total_no_of_lines_deleted": 97300
+        },
+        "lyd5726892/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4479,
+            "commits_count_within_incubation": 233,
+            "total_no_of_times_files_modified": 2954,
+            "total_no_of_lines_added": 99347,
+            "total_no_of_lines_deleted": 75585
+        },
+        "fyydnz53/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4479,
+            "commits_count_within_incubation": 233,
+            "total_no_of_times_files_modified": 2954,
+            "total_no_of_lines_added": 99347,
+            "total_no_of_lines_deleted": 75585
+        },
+        "lishiyucn/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4477,
+            "commits_count_within_incubation": 231,
+            "total_no_of_times_files_modified": 2945,
+            "total_no_of_lines_added": 99138,
+            "total_no_of_lines_deleted": 75394
+        },
+        "ptyp/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 15,
+            "total_commits_count": 5074,
+            "commits_count_within_incubation": 581,
+            "total_no_of_times_files_modified": 7590,
+            "total_no_of_lines_added": 286109,
+            "total_no_of_lines_deleted": 176335
+        },
+        "xdnice/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4472,
+            "commits_count_within_incubation": 226,
+            "total_no_of_times_files_modified": 2905,
+            "total_no_of_lines_added": 98282,
+            "total_no_of_lines_deleted": 74566
+        },
+        "ai-bigdata-cloudnative/incubator-dolphinscheduler": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 14,
+            "total_commits_count": 4470,
+            "commits_count_within_incubation": 224,
+            "total_no_of_times_files_modified": 2880,
+            "total_no_of_lines_added": 98112,
+            "total_no_of_lines_deleted": 74562
+        },
+        "Minge-B/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4470,
+            "commits_count_within_incubation": 224,
+            "total_no_of_times_files_modified": 2880,
+            "total_no_of_lines_added": 98112,
+            "total_no_of_lines_deleted": 74562
+        },
+        "ziwuwei/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4466,
+            "commits_count_within_incubation": 220,
+            "total_no_of_times_files_modified": 2733,
+            "total_no_of_lines_added": 93527,
+            "total_no_of_lines_deleted": 71097
+        },
+        "wistwill/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4463,
+            "commits_count_within_incubation": 217,
+            "total_no_of_times_files_modified": 2709,
+            "total_no_of_lines_added": 91470,
+            "total_no_of_lines_deleted": 69643
+        },
+        "joewenh/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 14,
+            "total_commits_count": 4463,
+            "commits_count_within_incubation": 217,
+            "total_no_of_times_files_modified": 2709,
+            "total_no_of_lines_added": 91470,
+            "total_no_of_lines_deleted": 69643
+        },
+        "Ts686/incubator-dolphinscheduler": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 16,
+            "total_commits_count": 4808,
+            "commits_count_within_incubation": 484,
+            "total_no_of_times_files_modified": 5771,
+            "total_no_of_lines_added": 229410,
+            "total_no_of_lines_deleted": 146745
+        },
+        "isgasho/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 21,
+            "total_commits_count": 4453,
+            "commits_count_within_incubation": 207,
+            "total_no_of_times_files_modified": 2672,
+            "total_no_of_lines_added": 89859,
+            "total_no_of_lines_deleted": 68579
+        },
+        "xulianghe/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 21,
+            "total_commits_count": 4447,
+            "commits_count_within_incubation": 201,
+            "total_no_of_times_files_modified": 2590,
+            "total_no_of_lines_added": 89199,
+            "total_no_of_lines_deleted": 67355
+        },
+        "zwq-qianyu/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 21,
+            "total_commits_count": 4447,
+            "commits_count_within_incubation": 201,
+            "total_no_of_times_files_modified": 2590,
+            "total_no_of_lines_added": 89199,
+            "total_no_of_lines_deleted": 67355
+        },
+        "AlleriaWindrunner/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 22,
+            "total_commits_count": 4442,
+            "commits_count_within_incubation": 196,
+            "total_no_of_times_files_modified": 2581,
+            "total_no_of_lines_added": 88422,
+            "total_no_of_lines_deleted": 67332
+        },
+        "whw02/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 22,
+            "total_commits_count": 4442,
+            "commits_count_within_incubation": 196,
+            "total_no_of_times_files_modified": 2581,
+            "total_no_of_lines_added": 88422,
+            "total_no_of_lines_deleted": 67332
+        },
+        "simon824/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 26,
+            "total_commits_count": 4441,
+            "commits_count_within_incubation": 195,
+            "total_no_of_times_files_modified": 2579,
+            "total_no_of_lines_added": 88405,
+            "total_no_of_lines_deleted": 67332
+        },
+        "Kevin-dw/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 21,
+            "total_commits_count": 4441,
+            "commits_count_within_incubation": 195,
+            "total_no_of_times_files_modified": 2579,
+            "total_no_of_lines_added": 88405,
+            "total_no_of_lines_deleted": 67332
+        },
+        "zapjone/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 21,
+            "total_commits_count": 4444,
+            "commits_count_within_incubation": 198,
+            "total_no_of_times_files_modified": 2581,
+            "total_no_of_lines_added": 88408,
+            "total_no_of_lines_deleted": 67335
+        },
+        "tracythink/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 21,
+            "total_commits_count": 4439,
+            "commits_count_within_incubation": 193,
+            "total_no_of_times_files_modified": 2577,
+            "total_no_of_lines_added": 88402,
+            "total_no_of_lines_deleted": 67329
+        },
+        "bystanderc/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 21,
+            "total_commits_count": 4438,
+            "commits_count_within_incubation": 192,
+            "total_no_of_times_files_modified": 2575,
+            "total_no_of_lines_added": 88371,
+            "total_no_of_lines_deleted": 67313
+        },
+        "yakcy/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 21,
+            "total_commits_count": 4830,
+            "commits_count_within_incubation": 492,
+            "total_no_of_times_files_modified": 5951,
+            "total_no_of_lines_added": 255886,
+            "total_no_of_lines_deleted": 158680
+        },
+        "IluckySi/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4433,
+            "commits_count_within_incubation": 187,
+            "total_no_of_times_files_modified": 2544,
+            "total_no_of_lines_added": 87987,
+            "total_no_of_lines_deleted": 67052
+        },
+        "Yibo-Liu/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4439,
+            "commits_count_within_incubation": 193,
+            "total_no_of_times_files_modified": 2588,
+            "total_no_of_lines_added": 88685,
+            "total_no_of_lines_deleted": 67474
+        },
+        "Ylisen/incubator-dolphinscheduler": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 4438,
+            "commits_count_within_incubation": 192,
+            "total_no_of_times_files_modified": 2566,
+            "total_no_of_lines_added": 88136,
+            "total_no_of_lines_deleted": 67166
+        },
+        "qumingxing/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4424,
+            "commits_count_within_incubation": 178,
+            "total_no_of_times_files_modified": 2526,
+            "total_no_of_lines_added": 87847,
+            "total_no_of_lines_deleted": 66902
+        },
+        "keanu1991/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 18,
+            "total_commits_count": 4422,
+            "commits_count_within_incubation": 176,
+            "total_no_of_times_files_modified": 2520,
+            "total_no_of_lines_added": 87829,
+            "total_no_of_lines_deleted": 66886
+        },
+        "iskytek/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 20,
+            "total_commits_count": 4421,
+            "commits_count_within_incubation": 175,
+            "total_no_of_times_files_modified": 2515,
+            "total_no_of_lines_added": 87645,
+            "total_no_of_lines_deleted": 66881
+        },
+        "davidaman/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 20,
+            "total_commits_count": 4400,
+            "commits_count_within_incubation": 154,
+            "total_no_of_times_files_modified": 2400,
+            "total_no_of_lines_added": 84989,
+            "total_no_of_lines_deleted": 65231
+        },
+        "JacobZheng0927/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 20,
+            "total_commits_count": 4400,
+            "commits_count_within_incubation": 154,
+            "total_no_of_times_files_modified": 2400,
+            "total_no_of_lines_added": 84989,
+            "total_no_of_lines_deleted": 65231
+        },
+        "brucemen711/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 22,
+            "total_commits_count": 4400,
+            "commits_count_within_incubation": 154,
+            "total_no_of_times_files_modified": 2400,
+            "total_no_of_lines_added": 84989,
+            "total_no_of_lines_deleted": 65231
+        },
+        "gitofrenlu/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 22,
+            "total_commits_count": 4778,
+            "commits_count_within_incubation": 484,
+            "total_no_of_times_files_modified": 5771,
+            "total_no_of_lines_added": 229410,
+            "total_no_of_lines_deleted": 146745
+        },
+        "cnstevenwang/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 20,
+            "total_commits_count": 4385,
+            "commits_count_within_incubation": 139,
+            "total_no_of_times_files_modified": 2285,
+            "total_no_of_lines_added": 82237,
+            "total_no_of_lines_deleted": 63548
+        },
+        "zhaokun779/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 20,
+            "total_commits_count": 4385,
+            "commits_count_within_incubation": 139,
+            "total_no_of_times_files_modified": 2285,
+            "total_no_of_lines_added": 82237,
+            "total_no_of_lines_deleted": 63548
+        },
+        "WallaceLiu/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 20,
+            "total_commits_count": 4384,
+            "commits_count_within_incubation": 138,
+            "total_no_of_times_files_modified": 2273,
+            "total_no_of_lines_added": 82109,
+            "total_no_of_lines_deleted": 63481
+        },
+        "LTFunny/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 20,
+            "total_commits_count": 4384,
+            "commits_count_within_incubation": 138,
+            "total_no_of_times_files_modified": 2273,
+            "total_no_of_lines_added": 82109,
+            "total_no_of_lines_deleted": 63481
+        },
+        "enoughwell/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 21,
+            "total_commits_count": 4383,
+            "commits_count_within_incubation": 137,
+            "total_no_of_times_files_modified": 2272,
+            "total_no_of_lines_added": 82108,
+            "total_no_of_lines_deleted": 63480
+        },
+        "chenshuai1995/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 5363,
+            "commits_count_within_incubation": 586,
+            "total_no_of_times_files_modified": 7633,
+            "total_no_of_lines_added": 286191,
+            "total_no_of_lines_deleted": 176421
+        },
+        "heronggen/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4357,
+            "commits_count_within_incubation": 111,
+            "total_no_of_times_files_modified": 2170,
+            "total_no_of_lines_added": 79431,
+            "total_no_of_lines_deleted": 61871
+        },
+        "hua6/incubator-dolphinscheduler": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 4354,
+            "commits_count_within_incubation": 108,
+            "total_no_of_times_files_modified": 2167,
+            "total_no_of_lines_added": 79336,
+            "total_no_of_lines_deleted": 61780
+        },
+        "km-Alt/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4354,
+            "commits_count_within_incubation": 108,
+            "total_no_of_times_files_modified": 2167,
+            "total_no_of_lines_added": 79336,
+            "total_no_of_lines_deleted": 61780
+        },
+        "wwwK/incubator-dolphinscheduler": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 4354,
+            "commits_count_within_incubation": 108,
+            "total_no_of_times_files_modified": 2167,
+            "total_no_of_lines_added": 79336,
+            "total_no_of_lines_deleted": 61780
+        },
+        "cl1226/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4350,
+            "commits_count_within_incubation": 104,
+            "total_no_of_times_files_modified": 2163,
+            "total_no_of_lines_added": 79316,
+            "total_no_of_lines_deleted": 61778
+        },
+        "hjsw1/incubator-dolphinscheduler": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 4350,
+            "commits_count_within_incubation": 104,
+            "total_no_of_times_files_modified": 2163,
+            "total_no_of_lines_added": 79316,
+            "total_no_of_lines_deleted": 61778
+        },
+        "ThusithaDJ/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4347,
+            "commits_count_within_incubation": 101,
+            "total_no_of_times_files_modified": 2157,
+            "total_no_of_lines_added": 79127,
+            "total_no_of_lines_deleted": 61742
+        },
+        "wangAoqi666/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4349,
+            "commits_count_within_incubation": 103,
+            "total_no_of_times_files_modified": 2159,
+            "total_no_of_lines_added": 79127,
+            "total_no_of_lines_deleted": 61784
+        },
+        "bastilee/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 23,
+            "total_commits_count": 4347,
+            "commits_count_within_incubation": 101,
+            "total_no_of_times_files_modified": 2157,
+            "total_no_of_lines_added": 79127,
+            "total_no_of_lines_deleted": 61742
+        },
+        "leeseven-li/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 20,
+            "total_commits_count": 1258,
+            "commits_count_within_incubation": 1,
+            "total_no_of_times_files_modified": 121,
+            "total_no_of_lines_added": 6813,
+            "total_no_of_lines_deleted": 1763
+        },
+        "RichurLiu/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4283,
+            "commits_count_within_incubation": 53,
+            "total_no_of_times_files_modified": 1600,
+            "total_no_of_lines_added": 62370,
+            "total_no_of_lines_deleted": 52669
+        },
+        "wanghost/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4282,
+            "commits_count_within_incubation": 52,
+            "total_no_of_times_files_modified": 1577,
+            "total_no_of_lines_added": 62185,
+            "total_no_of_lines_deleted": 52593
+        },
+        "wrhwww/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4280,
+            "commits_count_within_incubation": 50,
+            "total_no_of_times_files_modified": 1568,
+            "total_no_of_lines_added": 62030,
+            "total_no_of_lines_deleted": 52462
+        },
+        "kylozw/incubator-dolphinscheduler": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 20,
+            "total_commits_count": 4422,
+            "commits_count_within_incubation": 176,
+            "total_no_of_times_files_modified": 2520,
+            "total_no_of_lines_added": 87829,
+            "total_no_of_lines_deleted": 66886
+        },
+        "zhiwuya/incubator-dolphinscheduler": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 4225,
+            "commits_count_within_incubation": 37,
+            "total_no_of_times_files_modified": 569,
+            "total_no_of_lines_added": 17606,
+            "total_no_of_lines_deleted": 10496
+        },
+        "panda0120/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4223,
+            "commits_count_within_incubation": 35,
+            "total_no_of_times_files_modified": 330,
+            "total_no_of_lines_added": 5181,
+            "total_no_of_lines_deleted": 4408
+        },
+        "huangdehui2013/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4222,
+            "commits_count_within_incubation": 34,
+            "total_no_of_times_files_modified": 329,
+            "total_no_of_lines_added": 5078,
+            "total_no_of_lines_deleted": 4330
+        },
+        "sqxiayaoshun/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 18,
+            "total_commits_count": 4222,
+            "commits_count_within_incubation": 34,
+            "total_no_of_times_files_modified": 329,
+            "total_no_of_lines_added": 5078,
+            "total_no_of_lines_deleted": 4330
+        },
+        "qixing6609/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 18,
+            "total_commits_count": 4221,
+            "commits_count_within_incubation": 33,
+            "total_no_of_times_files_modified": 327,
+            "total_no_of_lines_added": 5076,
+            "total_no_of_lines_deleted": 4328
+        },
+        "liujunhui1/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 18,
+            "total_commits_count": 4219,
+            "commits_count_within_incubation": 31,
+            "total_no_of_times_files_modified": 321,
+            "total_no_of_lines_added": 4889,
+            "total_no_of_lines_deleted": 4272
+        },
+        "huangzy0208/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 18,
+            "total_commits_count": 4218,
+            "commits_count_within_incubation": 30,
+            "total_no_of_times_files_modified": 319,
+            "total_no_of_lines_added": 4833,
+            "total_no_of_lines_deleted": 4264
+        },
+        "ChaosYao/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 18,
+            "total_commits_count": 4217,
+            "commits_count_within_incubation": 29,
+            "total_no_of_times_files_modified": 317,
+            "total_no_of_lines_added": 4829,
+            "total_no_of_lines_deleted": 4224
+        },
+        "woshiwuxiaofei/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 21,
+            "total_commits_count": 4464,
+            "commits_count_within_incubation": 218,
+            "total_no_of_times_files_modified": 3289,
+            "total_no_of_lines_added": 109614,
+            "total_no_of_lines_deleted": 79079
+        },
+        "wynn45de/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4217,
+            "commits_count_within_incubation": 29,
+            "total_no_of_times_files_modified": 317,
+            "total_no_of_lines_added": 4829,
+            "total_no_of_lines_deleted": 4224
+        },
+        "z7658329/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4221,
+            "commits_count_within_incubation": 33,
+            "total_no_of_times_files_modified": 332,
+            "total_no_of_lines_added": 4991,
+            "total_no_of_lines_deleted": 4364
+        },
+        "herio0592/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4216,
+            "commits_count_within_incubation": 28,
+            "total_no_of_times_files_modified": 310,
+            "total_no_of_lines_added": 4787,
+            "total_no_of_lines_deleted": 4180
+        },
+        "b656103028/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4216,
+            "commits_count_within_incubation": 28,
+            "total_no_of_times_files_modified": 310,
+            "total_no_of_lines_added": 4787,
+            "total_no_of_lines_deleted": 4180
+        },
+        "ChaosJu/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4215,
+            "commits_count_within_incubation": 27,
+            "total_no_of_times_files_modified": 300,
+            "total_no_of_lines_added": 4327,
+            "total_no_of_lines_deleted": 3687
+        },
+        "Dillon86/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4213,
+            "commits_count_within_incubation": 25,
+            "total_no_of_times_files_modified": 293,
+            "total_no_of_lines_added": 4303,
+            "total_no_of_lines_deleted": 3686
+        },
+        "weilee9527/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4213,
+            "commits_count_within_incubation": 25,
+            "total_no_of_times_files_modified": 293,
+            "total_no_of_lines_added": 4303,
+            "total_no_of_lines_deleted": 3686
+        },
+        "kcsap/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4213,
+            "commits_count_within_incubation": 25,
+            "total_no_of_times_files_modified": 293,
+            "total_no_of_lines_added": 4303,
+            "total_no_of_lines_deleted": 3686
+        },
+        "liuxuedongcn/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 20,
+            "total_commits_count": 4211,
+            "commits_count_within_incubation": 23,
+            "total_no_of_times_files_modified": 275,
+            "total_no_of_lines_added": 3800,
+            "total_no_of_lines_deleted": 3273
+        },
+        "huanzui/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4211,
+            "commits_count_within_incubation": 23,
+            "total_no_of_times_files_modified": 275,
+            "total_no_of_lines_added": 3800,
+            "total_no_of_lines_deleted": 3273
+        },
+        "basion/incubator-dolphinscheduler": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 19,
+            "total_commits_count": 4211,
+            "commits_count_within_incubation": 23,
+            "total_no_of_times_files_modified": 275,
+            "total_no_of_lines_added": 3800,
+            "total_no_of_lines_deleted": 3273
+        },
+        "uniqueen/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4212,
+            "commits_count_within_incubation": 24,
+            "total_no_of_times_files_modified": 276,
+            "total_no_of_lines_added": 3802,
+            "total_no_of_lines_deleted": 3276
+        },
+        "wjsshide/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4211,
+            "commits_count_within_incubation": 23,
+            "total_no_of_times_files_modified": 275,
+            "total_no_of_lines_added": 3800,
+            "total_no_of_lines_deleted": 3273
+        },
+        "live0717/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4211,
+            "commits_count_within_incubation": 23,
+            "total_no_of_times_files_modified": 275,
+            "total_no_of_lines_added": 3800,
+            "total_no_of_lines_deleted": 3273
+        },
+        "microeastcowboy/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4210,
+            "commits_count_within_incubation": 22,
+            "total_no_of_times_files_modified": 268,
+            "total_no_of_lines_added": 3737,
+            "total_no_of_lines_deleted": 3179
+        },
+        "mengfanzhen/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4209,
+            "commits_count_within_incubation": 21,
+            "total_no_of_times_files_modified": 267,
+            "total_no_of_lines_added": 3734,
+            "total_no_of_lines_deleted": 3178
+        },
+        "Soldi00/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4208,
+            "commits_count_within_incubation": 20,
+            "total_no_of_times_files_modified": 266,
+            "total_no_of_lines_added": 3729,
+            "total_no_of_lines_deleted": 3165
+        },
+        "Hxssssss/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4207,
+            "commits_count_within_incubation": 19,
+            "total_no_of_times_files_modified": 265,
+            "total_no_of_lines_added": 3728,
+            "total_no_of_lines_deleted": 3164
+        },
+        "kezhenxu94/dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 26,
+            "total_commits_count": 5304,
+            "commits_count_within_incubation": 581,
+            "total_no_of_times_files_modified": 7590,
+            "total_no_of_lines_added": 286109,
+            "total_no_of_lines_deleted": 176335
+        },
+        "luketalent/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4205,
+            "commits_count_within_incubation": 17,
+            "total_no_of_times_files_modified": 257,
+            "total_no_of_lines_added": 3564,
+            "total_no_of_lines_deleted": 3024
+        },
+        "sangetang/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4204,
+            "commits_count_within_incubation": 16,
+            "total_no_of_times_files_modified": 255,
+            "total_no_of_lines_added": 3531,
+            "total_no_of_lines_deleted": 2991
+        },
+        "leinenglian/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4204,
+            "commits_count_within_incubation": 16,
+            "total_no_of_times_files_modified": 255,
+            "total_no_of_lines_added": 3531,
+            "total_no_of_lines_deleted": 2991
+        },
+        "qiubo369/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4206,
+            "commits_count_within_incubation": 18,
+            "total_no_of_times_files_modified": 262,
+            "total_no_of_lines_added": 3556,
+            "total_no_of_lines_deleted": 3004
+        },
+        "daniel-yee/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4204,
+            "commits_count_within_incubation": 16,
+            "total_no_of_times_files_modified": 255,
+            "total_no_of_lines_added": 3531,
+            "total_no_of_lines_deleted": 2991
+        },
+        "gaoxiang114/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 5026,
+            "commits_count_within_incubation": 581,
+            "total_no_of_times_files_modified": 7590,
+            "total_no_of_lines_added": 286109,
+            "total_no_of_lines_deleted": 176335
+        },
+        "luohy15/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 18,
+            "total_commits_count": 4202,
+            "commits_count_within_incubation": 14,
+            "total_no_of_times_files_modified": 241,
+            "total_no_of_lines_added": 3361,
+            "total_no_of_lines_deleted": 2964
+        },
+        "ganghuawang/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4202,
+            "commits_count_within_incubation": 14,
+            "total_no_of_times_files_modified": 241,
+            "total_no_of_lines_added": 3361,
+            "total_no_of_lines_deleted": 2964
+        },
+        "GloryJin/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4200,
+            "commits_count_within_incubation": 12,
+            "total_no_of_times_files_modified": 236,
+            "total_no_of_lines_added": 3265,
+            "total_no_of_lines_deleted": 2900
+        },
+        "localota/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4200,
+            "commits_count_within_incubation": 12,
+            "total_no_of_times_files_modified": 236,
+            "total_no_of_lines_added": 3265,
+            "total_no_of_lines_deleted": 2900
+        },
+        "wuzhjian/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4200,
+            "commits_count_within_incubation": 12,
+            "total_no_of_times_files_modified": 236,
+            "total_no_of_lines_added": 3265,
+            "total_no_of_lines_deleted": 2900
+        },
+        "wssmao/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4200,
+            "commits_count_within_incubation": 12,
+            "total_no_of_times_files_modified": 236,
+            "total_no_of_lines_added": 3265,
+            "total_no_of_lines_deleted": 2900
+        },
+        "galaxybio/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4200,
+            "commits_count_within_incubation": 12,
+            "total_no_of_times_files_modified": 236,
+            "total_no_of_lines_added": 3265,
+            "total_no_of_lines_deleted": 2900
+        },
+        "qingsenmeng/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4200,
+            "commits_count_within_incubation": 12,
+            "total_no_of_times_files_modified": 236,
+            "total_no_of_lines_added": 3265,
+            "total_no_of_lines_deleted": 2900
+        },
+        "lingfengzui/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 18,
+            "total_commits_count": 4200,
+            "commits_count_within_incubation": 12,
+            "total_no_of_times_files_modified": 236,
+            "total_no_of_lines_added": 3265,
+            "total_no_of_lines_deleted": 2900
+        },
+        "kittyhome4/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4200,
+            "commits_count_within_incubation": 12,
+            "total_no_of_times_files_modified": 236,
+            "total_no_of_lines_added": 3265,
+            "total_no_of_lines_deleted": 2900
+        },
+        "IamMujuziMoses/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 19,
+            "total_commits_count": 4441,
+            "commits_count_within_incubation": 195,
+            "total_no_of_times_files_modified": 2566,
+            "total_no_of_lines_added": 155800,
+            "total_no_of_lines_deleted": 144012
+        },
+        "fujianhua168/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4133,
+            "commits_count_within_incubation": 8,
+            "total_no_of_times_files_modified": 46,
+            "total_no_of_lines_added": 398,
+            "total_no_of_lines_deleted": 521
+        },
+        "Dachon/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4207,
+            "commits_count_within_incubation": 82,
+            "total_no_of_times_files_modified": 129,
+            "total_no_of_lines_added": 2421,
+            "total_no_of_lines_deleted": 1276
+        },
+        "CalvinKirs/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 139,
+            "total_commits_count": 5385,
+            "commits_count_within_incubation": 581,
+            "total_no_of_times_files_modified": 7590,
+            "total_no_of_lines_added": 286109,
+            "total_no_of_lines_deleted": 176335
+        },
+        "chenyanwork/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4132,
+            "commits_count_within_incubation": 7,
+            "total_no_of_times_files_modified": 44,
+            "total_no_of_lines_added": 373,
+            "total_no_of_lines_deleted": 489
+        },
+        "xuhf/incubator-dolphinscheduler": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 17,
+            "total_commits_count": 4132,
+            "commits_count_within_incubation": 7,
+            "total_no_of_times_files_modified": 44,
+            "total_no_of_lines_added": 373,
+            "total_no_of_lines_deleted": 489
+        },
+        "primerxiao/incubator-dolphinscheduler-yusys": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 18,
+            "total_commits_count": 2657,
+            "commits_count_within_incubation": 9,
+            "total_no_of_times_files_modified": 95,
+            "total_no_of_lines_added": 2893,
+            "total_no_of_lines_deleted": 492
+        },
+        "DsSmartBot/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4132,
+            "commits_count_within_incubation": 7,
+            "total_no_of_times_files_modified": 44,
+            "total_no_of_lines_added": 373,
+            "total_no_of_lines_deleted": 489
+        },
+        "rulerp/incubator-dolphinscheduler": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 17,
+            "total_commits_count": 4131,
+            "commits_count_within_incubation": 6,
+            "total_no_of_times_files_modified": 39,
+            "total_no_of_lines_added": 275,
+            "total_no_of_lines_deleted": 486
+        },
+        "cxytomo/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4131,
+            "commits_count_within_incubation": 6,
+            "total_no_of_times_files_modified": 39,
+            "total_no_of_lines_added": 275,
+            "total_no_of_lines_deleted": 486
+        },
+        "chenqs87/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4131,
+            "commits_count_within_incubation": 6,
+            "total_no_of_times_files_modified": 39,
+            "total_no_of_lines_added": 275,
+            "total_no_of_lines_deleted": 486
+        },
+        "ukihsoroy/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 5046,
+            "commits_count_within_incubation": 585,
+            "total_no_of_times_files_modified": 7632,
+            "total_no_of_lines_added": 286754,
+            "total_no_of_lines_deleted": 176529
+        },
+        "gaozhenfeng1/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4131,
+            "commits_count_within_incubation": 6,
+            "total_no_of_times_files_modified": 39,
+            "total_no_of_lines_added": 275,
+            "total_no_of_lines_deleted": 486
+        },
+        "ji04xiaogang/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 18,
+            "total_commits_count": 5041,
+            "commits_count_within_incubation": 581,
+            "total_no_of_times_files_modified": 7590,
+            "total_no_of_lines_added": 286109,
+            "total_no_of_lines_deleted": 176335
+        },
+        "deanwong/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4219,
+            "commits_count_within_incubation": 31,
+            "total_no_of_times_files_modified": 363,
+            "total_no_of_lines_added": 4903,
+            "total_no_of_lines_deleted": 4063
+        },
+        "aybcoo/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4126,
+            "commits_count_within_incubation": 1,
+            "total_no_of_times_files_modified": 1,
+            "total_no_of_lines_added": 1,
+            "total_no_of_lines_deleted": 1
+        },
+        "zhangchj1990/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4126,
+            "commits_count_within_incubation": 1,
+            "total_no_of_times_files_modified": 1,
+            "total_no_of_lines_added": 1,
+            "total_no_of_lines_deleted": 1
+        },
+        "18640169740/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4126,
+            "commits_count_within_incubation": 1,
+            "total_no_of_times_files_modified": 1,
+            "total_no_of_lines_added": 1,
+            "total_no_of_lines_deleted": 1
+        },
+        "xxjingcd/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4746,
+            "commits_count_within_incubation": 485,
+            "total_no_of_times_files_modified": 5772,
+            "total_no_of_lines_added": 229415,
+            "total_no_of_lines_deleted": 146745
+        },
+        "limengcanyu/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4765,
+            "commits_count_within_incubation": 484,
+            "total_no_of_times_files_modified": 5771,
+            "total_no_of_lines_added": 229410,
+            "total_no_of_lines_deleted": 146745
+        },
+        "zhangdinet/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4125,
+            "commits_count_within_incubation": 0,
+            "total_no_of_times_files_modified": 0,
+            "total_no_of_lines_added": 0,
+            "total_no_of_lines_deleted": 0
+        },
+        "hslZone/incubator-dolphinscheduler": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 17,
+            "total_commits_count": 4125,
+            "commits_count_within_incubation": 0,
+            "total_no_of_times_files_modified": 0,
+            "total_no_of_lines_added": 0,
+            "total_no_of_lines_deleted": 0
+        },
+        "total_fork_count": 2383,
+        "watchers_count": 294,
+        "star_count": 6659,
+        "open_issues_count": 749,
+        "size": 91386,
+        "fork_count_within_time": 166
+    }
+}

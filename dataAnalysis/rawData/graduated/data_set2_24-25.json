@@ -1,0 +1,18 @@
+{
+    "apache/cayenne": {
+        "total_fork_count": 110,
+        "watchers_count": 28,
+        "star_count": 253,
+        "open_issues_count": 29,
+        "size": 89160,
+        "fork_count_within_time": 0
+    },
+    "apache/celix": {
+        "total_fork_count": 65,
+        "watchers_count": 23,
+        "star_count": 94,
+        "open_issues_count": 71,
+        "size": 12825,
+        "fork_count_within_time": 0
+    }
+}

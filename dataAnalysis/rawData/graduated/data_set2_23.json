@@ -1,0 +1,20 @@
+{
+    "apache/cassandra": {
+        "dln/cassandra": {
+            "watchers_count": 2,
+            "star_count": 2,
+            "branches_count": 22,
+            "total_commits_count": 1250,
+            "commits_count_within_incubation": 1250,
+            "total_no_of_times_files_modified": 6293,
+            "total_no_of_lines_added": 253874,
+            "total_no_of_lines_deleted": 177369
+        },
+        "total_fork_count": 2810,
+        "watchers_count": 473,
+        "star_count": 6945,
+        "open_issues_count": 513,
+        "size": 363402,
+        "fork_count_within_time": 1
+    }
+}

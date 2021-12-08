@@ -1,0 +1,46 @@
+{
+    "apache/openmeetings": {
+        "total_fork_count": 233,
+        "watchers_count": 62,
+        "star_count": 518,
+        "open_issues_count": 7,
+        "size": 80586,
+        "fork_count_within_time": 0
+    },
+    "apache/opennlp": {
+        "jakemannix/opennlp": {
+            "watchers_count": 0,
+            "star_count": 0,
+            "branches_count": 2,
+            "total_commits_count": 649,
+            "commits_count_within_incubation": 649,
+            "total_no_of_times_files_modified": 2269,
+            "total_no_of_lines_added": 530820,
+            "total_no_of_lines_deleted": 320509
+        },
+        "andywang85/opennlp": {
+            "watchers_count": 1,
+            "star_count": 1,
+            "branches_count": 2,
+            "total_commits_count": 643,
+            "commits_count_within_incubation": 643,
+            "total_no_of_times_files_modified": 2262,
+            "total_no_of_lines_added": 530645,
+            "total_no_of_lines_deleted": 320367
+        },
+        "total_fork_count": 384,
+        "watchers_count": 95,
+        "star_count": 1071,
+        "open_issues_count": 18,
+        "size": 14665,
+        "fork_count_within_time": 2
+    },
+    "apache/openwebbeans": {
+        "total_fork_count": 44,
+        "watchers_count": 21,
+        "star_count": 51,
+        "open_issues_count": 0,
+        "size": 23475,
+        "fork_count_within_time": 0
+    }
+}
